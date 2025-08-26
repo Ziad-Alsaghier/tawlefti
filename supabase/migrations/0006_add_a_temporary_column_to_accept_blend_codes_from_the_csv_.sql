@@ -1,0 +1,1 @@
+ALTER TABLE public.blend_compositions ADD COLUMN temp_blend_code TEXT;

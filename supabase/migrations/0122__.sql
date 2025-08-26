@@ -1,0 +1,14 @@
+-- الخطوة 1: حذف مكونات التوليفات الحالية (إن وجدت) لفك الارتباط.
+DELETE FROM public.blend_compositions;
+
+-- الخطوة 2: حذف التوليفات نفسها لتفريغ الجدول قبل الإضافة.
+DELETE FROM public.blends;
+
+-- الخطوة 3: إدراج بيانات التوليفات الجديدة بالأسماء الصحيحة للأعمدة.
+INSERT INTO public.blends (code, name_ar, name_en, method_id, is_active, sensory_profile, notes_ar, notes_en, preparation_notes_ar, preparation_notes_en) VALUES
+('turkish_classic', 'توليفة التركي الكلاسيكية', 'Classic Turkish Blend', 'turkish', TRUE, '{"body": 4, "power": 4, "bitterness": 3, "sweetness": 3, "face_cream": 5}', 'كلاسيكي، مكسرات، شوكولاتة', 'Classic, Nuts, Chocolate', 'استخدم ماء بارد، أضف السكر حسب الرغبة قبل التسوية، لا تتركها تغلي طويلاً للحفاظ على الوش', 'Use cold water, Add sugar to taste before brewing, Do not let it boil for too long to preserve the crema'),
+('espresso_intenso', 'إسبريسو إنتنسو', 'Espresso Intenso', 'espresso', TRUE, '{"crema": 5, "body": 4, "balance": 3, "aftertaste": 4, "intensity": 5}', 'شوكولاتة داكنة، كراميل، توابل', 'Dark Chocolate, Caramel, Spices', 'درجة حرارة الماء 92-94 درجة مئوية، استخلاص لمدة 25-30 ثانية، استخدم بن مطحون حديثاً', 'Water temperature 92-94°C, Extraction time 25-30 seconds, Use freshly ground beans'),
+('v60_ethiopian_sun', 'شمس إثيوبيا (V60)', 'Ethiopian Sun (V60)', 'v60', TRUE, '{"clarity": 5, "acidity": 5, "aroma": 4, "complexity": 4, "body": 2}', 'زهور، ليمون، توت أزرق', 'Floral, Lemon, Blueberry', 'نسبة التحضير 1:16 (قهوة إلى ماء)، درجة حرارة الماء 94 درجة مئوية، صب الماء على دفعات دائرية', 'Brew ratio 1:16 (coffee to water), Water temperature 94°C, Pour in circular motions'),
+('french_press_bold', 'فرنش برس الجريئة', 'Bold French Press', 'french-press', TRUE, '{"clarity": 2, "acidity": 3, "aroma": 3, "complexity": 3, "body": 5}', 'كاكاو، مكسرات محمصة، ترابي', 'Cocoa, Toasted Nuts, Earthy', 'استخدم طحنة خشنة، نقع لمدة 4 دقائق، اضغط المكبس ببطء', 'Use a coarse grind, Steep for 4 minutes, Press the plunger slowly'),
+('cold_brew_smooth', 'كولد برو السلس', 'Smooth Cold Brew', 'cold-brew', TRUE, '{"smoothness": 5, "sweetness": 4, "body": 3, "acid_clarity": 2, "intensity": 3}', 'شوكولاتة بالحليب، كراميل، فانيلا', 'Milk Chocolate, Caramel, Vanilla', 'نقع لمدة 12-18 ساعة في الثلاجة، استخدم طحنة خشنة جداً، قم بتصفيته جيداً قبل التقديم', 'Steep for 12-18 hours in the refrigerator, Use a very coarse grind, Filter well before serving'),
+('green_detox', 'القهوة الخضراء ديتوكس', 'Green Detox Coffee', 'cold-infusion', TRUE, '{"bitterness": 2, "body": 2, "flavor": 3, "aroma": 2, "color": 3}', 'عشبي، شاي أخضر، خفيف', 'Herbal, Green Tea, Light', 'يمكن نقعه في ماء بارد لمدة ساعتين، يمكن غليه وتصفيته، يقدم بارداً أو ساخناً', 'Can be soaked in cold water for 2 hours, Can be boiled and filtered, Serve cold or hot');

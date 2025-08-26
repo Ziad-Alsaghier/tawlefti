@@ -1,0 +1,1 @@
+ALTER TABLE public.blends ALTER COLUMN method_id DROP NOT NULL;

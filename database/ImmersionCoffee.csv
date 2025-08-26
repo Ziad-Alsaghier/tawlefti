@@ -1,0 +1,63 @@
+الأداة,الكود,الاسم_التجاري,Product_Name,التركيبة,Blend_Composition,الوصف_التسويقي_للنكهة_للعميل,Marketing_Description,المقاييس_بالعربي,Flavor_Metrics,ملاحظات_التحضير,Brewing_Notes
+آيروبرس,AP-SIG-01,جوهرة أفريقيا,Jwhra أFryqya,٦٠٪ كيني + ٤٠٪ حبشي لقميتي,60% Kenyan + 40% Ethiopian Lekemti,"جوهرة أفريقية، كوب مشرق وعصيري تفوح منه رائحة الزهور مع حمضية الفواكه المنعشة.","Refreshing cup.
+Flavor profile: floral; high acidity; medium body.",وضوح 5 / حمضية 5 / عطرية 5 / تعقيد 5 / قوام 3,Clarity 5 / Acidity 5 / Fragrance 5 / Complexity 5 / Body 3,نقع 1:50 د، ماء 91°م,Steep; 1:50 min; water 91°C.
+آيروبرس,AP-SIG-02,لاتينو سويت,Latynw Sweet,٥٠٪ كوستا ريكي + ٣٠٪ كولومبي + ٢٠٪ جواتيمالا,50% Costa Rican + 30% Colombian + 20% Guatemala,"حلاوة أمريكا اللاتينية، كوب متوازن يجمع بين نكهة الشوكولاتة المحبوبة وحلاوة طبيعية.","Signature cup.
+Flavor profile: chocolate; bright acidity; medium-full body.",وضوح 4 / حمضية 4 / عطرية 4 / تعقيد 4 / قوام 4,Clarity 4 / Acidity 4 / Fragrance 4 / Complexity 4 / Body 4,نقع 2:10 د، ماء 93°م,Steep; 2:10 min; water 93°C.
+آيروبرس,AP01,توليفتي™ إثيوبيا آيرو,Tawlifti Ethiopia آYrw,١٠٠٪ حبشي هراري,100% Ethiopian Harrar,"كوب إثيوبي نقي وعطري، يجمع بين رائحة الياسمين الفواحة وحمضية الليمون المنعشة.","Refreshing cup.
+Flavor profile: jasmine; high acidity; medium body.",وضوح 5 / حمضية 5 / عطرية 5 / تعقيد 4 / قوام 3,Clarity 5 / Acidity 5 / Fragrance 5 / Complexity 4 / Body 3,نقع 1:45 د، ماء 90°م,Steep; 1:45 min; water 90°C.
+آيروبرس,AP02,توليفتي™ بيكان,Tawlifti Bykan,٦٠٪ برازيلي + ٤٠٪ كولومبي,60% Brazilian + 40% Colombian,"فنجان متوازن ومريح، يجمع بين حلاوة شوكولاتة الحليب ونكهة اللوز المحمص.","Comforting cup.
+Flavor profile: chocolate; balanced acidity; medium-full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 3 / قوام 4,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 3 / Body 4,نقع 2 د، ماء 94°م,Steep; 2 min; water 94°C.
+آيروبرس,AP03,كوستاريكا العسلية,Costa Rica Alaslya,١٠٠٪ كوستا ريكي,100% Costa Rican,"كوب حلو وناعم كالحرير، يجمع بين حلاوة العسل الصافي ونكهة الخوخ الصيفي.","Signature cup.
+Flavor profile: honey, peach; bright acidity; medium body.",وضوح 4 / حمضية 4 / عطرية 4 / تعقيد 3 / قوام 3,Clarity 4 / Acidity 4 / Fragrance 4 / Complexity 3 / Body 3,نقع 2:15 د، ماء 92°م,Steep; 2:15 min; water 92°C.
+آيروبرس,AP04,يمن موكا آيرو,Ymn Mocha آYrw,١٠٠٪ يمني خولاني,100% Yemeni Khawlani,"تجربة يمنية أصيلة، تتميز بعمق نكهة الكاكاو وحمضية التوت البري المنعشة.","Refreshing cup.
+Flavor profile: cocoa, berry; low acidity; medium-full body.",وضوح 2 / حمضية 2 / عطرية 5 / تعقيد 5 / قوام 4,Clarity 2 / Acidity 2 / Fragrance 5 / Complexity 5 / Body 4,نقع 2 د، ماء 88°م,Steep; 2 min; water 88°C.
+آيروبرس,AP05,كينيا AA آيرو,Kynya Aa آYrw,١٠٠٪ كينا AAA,100% Kenya AAA,"فنجان كيني جريء، يجمع بين حمضية الفواكه اللاذعة ولمسة عشبية منعشة.","Refreshing cup.
+Flavor profile: high acidity; medium-full body.",وضوح 4 / حمضية 5 / عطرية 4 / تعقيد 5 / قوام 4,Clarity 4 / Acidity 5 / Fragrance 4 / Complexity 5 / Body 4,نقع 1:50 د، ماء 91°م,Steep; 1:50 min; water 91°C.
+آيروبرس,AP06,أنتيغوا آيرو,Antigua آYrw,١٠٠٪ جواتيمالا,100% Guatemala,"كوب غني وممتلئ، يجمع بين حلاوة الكرز الداكن وعمق الشوكولاتة الفاخرة.","Luxurious cup.
+Flavor profile: chocolate; balanced acidity; full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 4 / Body 5,نقع 2:10 د، ماء 93°م,Steep; 2:10 min; water 93°C.
+آيروبرس,AP07,برازيل سيرادو آيرو,Brazyl Cerrado آYrw,١٠٠٪ برازيلي سانتوس,100% Brazilian Santos,"فنجان برازيلي كلاسيكي، يجمع بين نكهة البندق المحمص وحلاوة السكر البني الدافئة.","Signature cup.
+Flavor profile: hazelnut; low acidity; full body.",وضوح 3 / حمضية 2 / عطرية 3 / تعقيد 2 / قوام 5,Clarity 3 / Acidity 2 / Fragrance 3 / Complexity 2 / Body 5,نقع 2 د، ماء 92°م,Steep; 2 min; water 92°C.
+آيروبرس,AP08,بيرو تشانشامايو,Byrw Tshanshamayw,١٠٠٪ بيرو,100% Peru,"كوب حلو وناعم، يجمع بين حلاوة فاكهة الكمثرى ونعومة الشوكولاتة البيضاء.","Signature cup.
+Flavor profile: chocolate; bright acidity; medium-full body.",وضوح 4 / حمضية 4 / عطرية 3 / تعقيد 3 / قوام 4,Clarity 4 / Acidity 4 / Fragrance 3 / Complexity 3 / Body 4,نقع 2:05 د، ماء 90°م,Steep; 2:05 min; water 90°C.
+آيروبرس,AP09,مانديلينج آيرو,Mandheling آYrw,٧٠٪ هندي مايسور + ٣٠٪ إندونيسي,70% Indian Mysore + 30% Indonesian,"تجربة غنية وعميقة، تجمع بين حلاوة التوت الأسود والنكهات الترابية الأصيلة.","Signature cup.
+Flavor profile: berry; low acidity; full body.",وضوح 2 / حمضية 2 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 2 / Acidity 2 / Fragrance 4 / Complexity 4 / Body 5,نقع 2:20 د، ماء 95°م,Steep; 2:20 min; water 95°C.
+آيروبرس,AP10,دا لات آيرو,Da Lat آYrw,٦٥٪ فيتنامي + ٣٥٪ برازيلي,65% Vietnamese + 35% Brazilian,"فنجان قوي ودافئ، بنكهة خشب الأرز والكراميل، مثالي لمحبي القهوة الكلاسيكية.","Bold cup.
+Flavor profile: caramel; very low acidity; full body.",وضوح 1 / حمضية 1 / عطرية 3 / تعقيد 2 / قوام 5,Clarity 1 / Acidity 1 / Fragrance 3 / Complexity 2 / Body 5,نقع 2 د، ماء 96°م,Steep; 2 min; water 96°C.
+آيروبرس,AP11,أوغندا سيك آيرو,أWghnda Syk آYrw,٤٥٪ أوغندي + ٥٥٪ حبشي لقميتي,45% Ugandan + 55% Ethiopian Lekemti,"مزيج معقد وممتع، يجمع بين حلاوة الفواكه المجففة وعمق نكهة الكاكاو.","Signature cup.
+Flavor profile: cocoa; bright acidity; medium-full body.",وضوح 3 / حمضية 3.5 / عطرية 4.5 / تعقيد 4 / قوام 4,Clarity 3 / Acidity 3.5 / Fragrance 4.5 / Complexity 4 / Body 4,نقع 2:10 د، ماء 93°م,Steep; 2:10 min; water 93°C.
+آيروبرس,AP12,هويلا آيرو,Huila آYrw,٩٠٪ كولومبي + ١٠٪ بيرو,90% Colombian + 10% Peru,"كوب كولومبي مشرق، يجمع بين حمضية التفاح الأخضر المنعشة وحلاوة العسل الصافي.","Refreshing cup.
+Flavor profile: honey, apple; bright acidity; medium-full body.",وضوح 4.5 / حمضية 4 / عطرية 4 / تعقيد 3 / قوام 3.5,Clarity 4.5 / Acidity 4 / Fragrance 4 / Complexity 3 / Body 3.5,نقع 1:55 د، ماء 91°م,Steep; 1:55 min; water 91°C.
+آيروبرس,AP13,كونا آيرو,Kwna آYrw,٤٠٪ برازيلي + ٦٠٪ كوستا ريكي,40% Brazilian + 60% Costa Rican,"تجربة استوائية ممتعة، تجمع بين نعومة الفانيليا وحلاوة الأناناس المنعشة.","Refreshing cup.
+Flavor profile: pineapple, vanilla; bright acidity; full body.",وضوح 3 / حمضية 3.5 / عطرية 4.5 / تعقيد 4 / قوام 5,Clarity 3 / Acidity 3.5 / Fragrance 4.5 / Complexity 4 / Body 5,نقع 2:15 د، ماء 91°م,Steep; 2:15 min; water 91°C.
+آيروبرس,AP14,مونسونيد آيرو,Mwnswnyd آYrw,٧٥٪ هندي أرابيكا + ٢٥٪ هندي روبيستا,75% Indian Arabica + 25% Indian Robusta,"رحلة إلى الهند في فنجان، بنكهات التوابل الدافئة وحلاوة التمر الهندي اللاذعة.","A journey in a cup.
+Flavor profile: date; low acidity; medium-full body.",وضوح 2 / حمضية 2 / عطرية 4 / تعقيد 5 / قوام 4,Clarity 2 / Acidity 2 / Fragrance 4 / Complexity 5 / Body 4,نقع 2 د، ماء 94°م,Steep; 2 min; water 94°C.
+آيروبرس,AP15,ألتورا آيرو,أLtwra آYrw,٥٥٪ بيرو + ٤٥٪ جواتيمالا,55% Peru + 45% Guatemala,"كوب مريح ودافئ، يجمع بين حلاوة الفول السوداني المحمص ودفء القرفة العطرية.","Comforting cup.
+Flavor profile: cinnamon; balanced acidity; medium-full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 4 / قوام 4,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 4 / Body 4,نقع 2:05 د، ماء 92°م,Steep; 2:05 min; water 92°C.
+آيروبرس,AP16,روبوستا بريميوم,Rwbwsta Brymywm,٩٠٪ برازيلي روبيستا + ١٠٪ يمني,90% Brazilian Robusta + 10% Yemeni,"قوة مركزة، كوب بنكهة دخانية كلاسيكية وحلاوة الكراميل المحروق الداكن.","Signature cup.
+Flavor profile: caramel; very low acidity; full body.",وضوح 1 / حمضية 1 / عطرية 4 / تعقيد 3 / قوام 5,Clarity 1 / Acidity 1 / Fragrance 4 / Complexity 3 / Body 5,نقع 2 د، ماء 96°م,Steep; 2 min; water 96°C.
+آيروبرس,AP17,أفريكان بلند آيرو,أFrykan Blnd آYrw,٤٠٪ كيني + ٣٠٪ أوغندي + ٣٠٪ حبشي,40% Kenyan + 30% Ugandan + 30% Ethiopian,"مزيج أفريقي معقد، يجمع بين حلاوة التين الداكنة ولمسة أنيقة من التوابل الحلوة.","Signature cup.
+Flavor profile: high acidity; medium-full body.",وضوح 5 / حمضية 5 / عطرية 5 / تعقيد 5 / قوام 4,Clarity 5 / Acidity 5 / Fragrance 5 / Complexity 5 / Body 4,نقع 2:10 د، ماء 93°م,Steep; 2:10 min; water 93°C.
+آيروبرس,AP18,توفي إثيوبيا,Twfy Ethiopia,١٠٠٪ حبشي لقميتي,100% Ethiopian Lekemti,"فنجان إثيوبي نقي ومشرق، يجمع بين حمضية البرتقال ولمسة الزنجبيل المنعشة.","Refreshing cup.
+Flavor profile: high acidity; light body.",وضوح 5 / حمضية 5 / عطرية 5 / تعقيد 4 / قوام 2,Clarity 5 / Acidity 5 / Fragrance 5 / Complexity 4 / Body 2,نقع 1:45 د، ماء 89°م,Steep; 1:45 min; water 89°C.
+آيروبرس,AP19,لواك ستايل آيرو,Lwak Stayl آYrw,٦٠٪ إندونيسي + ٤٠٪ هندي مايسور,60% Indonesian + 40% Indian Mysore,"تجربة كلاسيكية غنية، تجمع بين حلاوة التمر الداكنة وعمق النكهات الترابية الأصيلة.","Signature cup.
+Flavor profile: date; very low acidity; full body.",وضوح 2 / حمضية 1 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 2 / Acidity 1 / Fragrance 4 / Complexity 4 / Body 5,نقع 2:20 د، ماء 90°م,Steep; 2:20 min; water 90°C.
+آيروبرس,AP20,أرابيان نايتس,أRabyan Nayts,٤٠٪ يمني + ٣٠٪ حبشي + ٣٠٪ كولومبي,40% Yemeni + 30% Ethiopian + 30% Colombian,"ليالٍ عربية في فنجان، يجمع بين حلاوة التمر الفاخرة ودفء الهيل العطري.","Luxurious cup.
+Flavor profile: cardamom, date; balanced acidity; medium-full body.",وضوح 4 / حمضية 3 / عطرية 5 / تعقيد 5 / قوام 4,Clarity 4 / Acidity 3 / Fragrance 5 / Complexity 5 / Body 4,نقع 2 د، ماء 92°م,Steep; 2 min; water 92°C.
+فرنش برس,FP-SIG-01,الديوان,Aldywan,٦٠٪ يمني + ٣٠٪ حبشي + ١٠٪ كولومبي,60% Yemeni + 30% Ethiopian + 10% Colombian,"فنجان فاخر يليق بالخبراء، غني بالنكهات المعقدة ورائحة التوابل الشرقية العطرية.","Luxurious cup.
+Flavor profile: balanced acidity; full body.",وضوح 3 / حمضية 3 / عطرية 5 / تعقيد 5 / قوام 5,Clarity 3 / Acidity 3 / Fragrance 5 / Complexity 5 / Body 5,نقع 5 دقائق، ماء 89°م,Steep; 5 min; water 89°C.
+فرنش برس,FP-SIG-02,كريما الذهب,Crema Alihb,٦٠٪ برازيلي + ٤٠٪ أوغندي,60% Brazilian + 40% Ugandan,"كوب كريمي ومتوازن، يمنحك نكهة المكسرات المحمصة المحببة وقوامًا غنيًا.","Signature cup.
+Flavor profile: low acidity; full body.",وضوح 2 / حمضية 2 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 2 / Acidity 2 / Fragrance 4 / Complexity 4 / Body 5,نقع 4 دقائق، ماء 94°م,Steep; 4 min; water 94°C.
+فرنش برس,FP01,توليفتي™ كلاسيكو,Tawlifti Classico,٧٠٪ برازيلي + ٣٠٪ هندي روبيستا,70% Brazilian + 30% Indian Robusta,"كوب كلاسيكي بقوام كريمي غني، يمنحك نكهة الكراميل الحلوة التي تحبها.","Signature cup.
+Flavor profile: caramel; low acidity; full body.",وضوح 2 / حمضية 2 / عطرية 3 / تعقيد 3 / قوام 5,Clarity 2 / Acidity 2 / Fragrance 3 / Complexity 3 / Body 5,نقع 4 دقائق، ماء 95°م، تقليب,"Steep; 4 min; water 95°C; stir."
+فرنش برس,FP02,توليفتي™ سوبر كريما,Tawlifti Super Crema,٦٠٪ كولومبي + ٤٠٪ أوغندي,60% Colombian + 40% Ugandan,"فنجان يتميز برغوته الكثيفة ونكهة الخبز المحمص الدافئة، مثالي لبداية اليوم.","Signature cup.
+Flavor profile: balanced acidity; full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 3 / قوام 5,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 3 / Body 5,"نقع 3:45 د، تقليب مزدوج","Steep; 3:45 min; double stir."
+فرنش برس,FP03,أصل سيدامو,Origin Sidamo,١٠٠٪ حبشي هراري,100% Ethiopian Harrar,"تجربة إثيوبية عطرية، كأنك في حقل من الزهور البرية مع حمضية الليمون المنعشة.","Refreshing cup.
+Flavor profile: floral; high acidity; light body.",وضوح 3 / حمضية 5 / عطرية 5 / تعقيد 4 / قوام 2,Clarity 3 / Acidity 5 / Fragrance 5 / Complexity 4 / Body 2,نقع 4 دقائق، ماء 90°م,"Steep; 4 min; water 90°C."
+فرنش برس,FP04,أنتيغوا برس,Antigua Press,١٠٠٪ جواتيمالا,100% Guatemala,"كوب غني ومريح، يجمع بين حلاوة الكرز الأسود ونعومة العسل الصافي.","Comforting cup.
+Flavor profile: honey; balanced acidity; full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 4 / Body 5,نقع 5 دقائق، ماء 93°م,"Steep; 5 min; water 93°C."
+فرنش برس,FP05,كوستاريكا تارازو,Costa Rica Tarrazu,٨٠٪ كوستا ريكي + ٢٠٪ بيرو,80% Costa Rican + 20% Peru,"فنجان متوازن، يجمع بين حمضية التفاح الأخضر المنعشة ودفء جوزة الطيب.","Comforting cup.
+Flavor profile: apple; bright acidity; medium-full body.",وضوح 4 / حمضية 4 / عطرية 4 / تعقيد 3 / قوام 4,Clarity 4 / Acidity 4 / Fragrance 4 / Complexity 3 / Body 4,نقع 4:30 د، تقليب أولي,"Steep; 4:30 min; initial stir."
+فرنش برس,FP06,موكا اليمن,Mocha Alymn,١٠٠٪ يمني خولاني,100% Yemeni Khawlani,"رحلة إلى اليمن، كوب غني بحلاوة التمر وعمق الكاكاو الخام الأصيل.","A journey in a cup.
+Flavor profile: cocoa, date; low acidity; full body.",وضوح 2 / حمضية 2 / عطرية 5 / تعقيد 5 / قوام 5,Clarity 2 / Acidity 2 / Fragrance 5 / Complexity 5 / Body 5,نقع 5 دقائق، ماء 88°م,"Steep; 5 min; water 88°C."
+فرنش برس,FP07,كينيا AA برس,Kynya Aa Press,١٠٠٪ كينا AAA,100% Kenya AAA,"تجربة كينية جريئة، تتميز بحمضية الفواكه اللاذعة ولمسة عشبية منعشة.","Refreshing cup.
+Flavor profile: high acidity; medium-full body.",وضوح 4 / حمضية 5 / عطرية 4 / تعقيد 5 / قوام 4,Clarity 4 / Acidity 5 / Fragrance 4 / Complexity 5 / Body 4,نقع 4 د، ماء 91°م,"Steep; 4 min; water 91°C."

@@ -1,0 +1,47 @@
+الكود,الاسم_التجاري,Product_Name,التركيبة,Blend_Composition,الوصف_التسويقي_للنكهة_للعميل,Marketing_Description,التحميص,Roast,المقاييس_بالعربي,Flavor_Metrics
+TRB-001,ميدان التحرير,Mydan Althryr,٥٠٪ برازيلي • ٣٠٪ كولومبي • ١٥٪ بيرو • ٥٪ حبشي,50% Brazilian + 30% Colombian + 15% Peru + 5% Ethiopian,"فنجان متوازن وحيوي، يجمع بين الكراميل والمكسرات والشوكولاتة.","Signature cup.
+Flavor profile: caramel, chocolate; bright acidity; medium-full body.",-,Medium,رغوة 4 / قوام 4 / حمضية 4 / مرارة 1.5 / نكهة 5 / رائحة 5,Foam 4 / Body 4 / Acidity 4 / Bitterness 1.5 / Flavor 5 / Aroma 5
+TRB-002,مصر الجديدة,Msr Aljdyda,٥٠٪ جواتيمالا • ٢٥٪ هندي • ٢٠٪ برازيلي • ٥٪ كيني,50% Guatemala + 25% Indian + 20% Brazilian + 5% Kenyan,"فنجان كلاسيكي، يجمع بين شوكولاتة الحليب والبندق مع قوام كريمي ومريح.","Comforting cup.
+Flavor profile: hazelnut, chocolate; balanced acidity; full body.",-,Medium,رغوة 4 / قوام 5 / حمضية 3 / مرارة 3 / نكهة 4 / رائحة 4,Foam 4 / Body 5 / Acidity 3 / Bitterness 3 / Flavor 4 / Aroma 4
+TRB-003,الحسين,Alhwsyn,٤٠٪ يمني • ٣٥٪ حبشي • ٢٥٪ برازيلي,40% Yemeni + 35% Ethiopian + 25% Brazilian,"فنجان شرقي أصيل، يجمع بين حلاوة التمر وعمق الكاكاو مع لمسة من الهيل العطري.","Luxurious cup.
+Flavor profile: date, cardamom; low acidity; full body.",-,Medium-Dark,رغوة 5 / قوام 5 / حمضية 2 / مرارة 1 / نكهة 5 / رائحة 5,Foam 5 / Body 5 / Acidity 2 / Bitterness 1 / Flavor 5 / Aroma 5
+TRB-004,الأقصر,Alأqsr,٤٠٪ كولومبي • ٤٠٪ هندي • ٢٠٪ برازيلي,40% Colombian + 40% Indian + 20% Brazilian,"فنجان متوازن، يجمع بين حلاوة الكراميل والمكسرات مع لمسة خفيفة من التوابل.","Signature cup.
+Flavor profile: caramel; balanced acidity; medium body.",-,Medium,رغوة 4 / قوام 3 / حمضية 3 / مرارة 2 / نكهة 4 / رائحة 4,Foam 4 / Body 3 / Acidity 3 / Bitterness 2 / Flavor 4 / Aroma 4
+TRB-005,الزمالك,Alzamalk,٦٠٪ كولومبي • ٢٥٪ حبشي • ١٠٪ برازيلي • ٥٪ يمني,60% Colombian + 25% Ethiopian + 10% Brazilian + 5% Yemeni,"فنجان أنيق وراقي، يجمع بين حلاوة الكراميل ورائحة الزهور البيضاء مع لمسة فاكهية منعشة.","Refreshing cup.
+Flavor profile: caramel, floral; bright acidity; full body.",-,Medium,رغوة 4 / قوام 4 / حمضية 4 / مرارة 2 / نكهة 4 / رائحة 5,Foam 4 / Body 4 / Acidity 4 / Bitterness 2 / Flavor 4 / Aroma 5
+TRB-006,النيل,Alnyl,٥٠٪ يمني • ٥٠٪ كيني,50% Yemeni + 50% Kenyan,"فنجان فاخر، يجمع بين عمق الكاكاو وحلاوة العنب الأسود مع لمسة من التوابل.","Luxurious cup.
+Flavor profile: cocoa, spice; low acidity; full body.",-,Medium-Dark,رغوة 5 / قوام 5 / حمضية 2 / مرارة 2 / نكهة 5 / رائحة 5,Foam 5 / Body 5 / Acidity 2 / Bitterness 2 / Flavor 5 / Aroma 5
+TRB-007,الجيزة,Aljyza,٥٥٪ برازيلي • ٣٥٪ كولومبي • ١٠٪ يمني,55% Brazilian + 35% Colombian + 10% Yemeni,"فنجان كلاسيكي، يجمع بين نكهة الشوكولاتة الداكنة والمكسرات المحمصة مع قوام غني.","Comforting cup.
+Flavor profile: chocolate, nut; balanced acidity; full body.",-,Medium,رغوة 4 / قوام 5 / حمضية 3 / مرارة 2 / نكهة 4 / رائحة 4,Foam 4 / Body 5 / Acidity 3 / Bitterness 2 / Flavor 4 / Aroma 4
+TRB-008,الدقي,Aldqy,٤٥٪ حبشي • ٤٥٪ كيني • ١٠٪ أوغندي,45% Ethiopian + 45% Kenyan + 10% Ugandan,"فنجان حيوي، يجمع بين حمضية الفواكه المنعشة وعطرية الزهور مع قوام خفيف.","Refreshing cup.
+Flavor profile: fruit, floral; high acidity; medium body.",-,Light,رغوة 3 / قوام 3 / حمضية 5 / مرارة 1 / نكهة 5 / رائحة 5,Foam 3 / Body 3 / Acidity 5 / Bitterness 1 / Flavor 5 / Aroma 5
+TRB-009,أفريقيا كلاسيك,أFryqa Klasyk,٧٠٪ أوغندي • ٣٠٪ كيني,70% Ugandan + 30% Kenyan,"فنجان قوي، يجمع بين عمق الكاكاو ونكهة التوابل الدافئة مع لمسة من الفاكهة المجففة.","Bold cup.
+Flavor profile: cocoa; low acidity; full body.",-,Medium-Dark,رغوة 5 / قوام 5 / حمضية 2 / مرارة 3 / نكهة 4 / رائحة 4,Foam 5 / Body 5 / Acidity 2 / Bitterness 3 / Flavor 4 / Aroma 4
+TRB-010,أميرة، أورجانيك,أMyra أWrjanyk,١٠٠٪ بيرو (أورجانيك),100% Peru (Organic),"فنجان عضوي نقي، يجمع بين حلاوة الكراميل والمكسرات مع حمضية ناعمة.","Signature cup.
+Flavor profile: caramel, nut; balanced acidity; medium body.",-,Medium,رغوة 3 / قوام 3 / حمضية 3 / مرارة 2 / نكهة 4 / رائحة 3,Foam 3 / Body 3 / Acidity 3 / Bitterness 2 / Flavor 4 / Aroma 3
+TRB-011,العربية,Alrbya,٦٠٪ يمني • ٤٠٪ حبشي,60% Yemeni + 40% Ethiopian,"فنجان فاخر، يجمع بين حلاوة التمر وعمق الكاكاو مع لمسة عطرية من الزهور.","Luxurious cup.
+Flavor profile: date, cocoa, floral; low acidity; full body.",-,Medium-Dark,رغوة 5 / قوام 5 / حمضية 2 / مرارة 1 / نكهة 5 / رائحة 5,Foam 5 / Body 5 / Acidity 2 / Bitterness 1 / Flavor 5 / Aroma 5
+TRB-012,أورينت,أWrynt,٥٠٪ هندي • ٥٠٪ إندونيسي,50% Indian + 50% Indonesian,"فنجان شرقي قوي، يجمع بين نكهات التوابل الترابية وعمق الشوكولاتة الداكنة مع قوام ممتلئ.","Bold cup.
+Flavor profile: spice, chocolate; low acidity; full body.",-,Medium-Dark,رغوة 5 / قوام 5 / حمضية 2 / مرارة 4 / نكهة 4 / رائحة 4,Foam 5 / Body 5 / Acidity 2 / Bitterness 4 / Flavor 4 / Aroma 4
+TRB-013,الخليج,Alkhlyj,٤٠٪ يمني • ٤٠٪ كولومبي • ٢٠٪ برازيلي,40% Yemeni + 40% Colombian + 20% Brazilian,"فنجان كلاسيكي، يجمع بين حلاوة الكراميل ونكهة المكسرات مع عمق الكاكاو.","Signature cup.
+Flavor profile: caramel, nut, cocoa; low acidity; full body.",-,Medium-Dark,رغوة 5 / قوام 5 / حمضية 2 / مرارة 2 / نكهة 4 / رائحة 4,Foam 5 / Body 5 / Acidity 2 / Bitterness 2 / Flavor 4 / Aroma 4
+TRB-014,سيتي سنتر,Syty Sntr,٥٠٪ كولومبي • ٥٠٪ برازيلي,50% Colombian + 50% Brazilian,"فنجان يومي متوازن، يجمع بين نكهة الشوكولاتة والحمضية الخفيفة مع قوام سلس.","Signature cup.
+Flavor profile: chocolate; balanced acidity; medium body.",-,Medium,رغوة 4 / قوام 3 / حمضية 3 / مرارة 2 / نكهة 4 / رائحة 3,Foam 4 / Body 3 / Acidity 3 / Bitterness 2 / Flavor 4 / Aroma 3
+TRB-015,القلعة,Alqlah,٥٠٪ كيني • ٤٠٪ كولومبي • ١٠٪ برازيلي,50% Kenyan + 40% Colombian + 10% Brazilian,"فنجان حيوي، يجمع بين حمضية الفواكه المنعشة وعمق الكاكاو مع قوام ممتلئ.","Refreshing cup.
+Flavor profile: fruit, cocoa; high acidity; medium-full body.",-,Medium,رغوة 4 / قوام 4 / حمضية 4 / مرارة 2 / نكهة 5 / رائحة 4,Foam 4 / Body 4 / Acidity 4 / Bitterness 2 / Flavor 5 / Aroma 4
+TRB-016,لندن,London,٥٠٪ برازيلي • ٥٠٪ كولومبي,50% Brazilian + 50% Colombian,"فنجان كلاسيكي، يجمع بين حلاوة الكراميل والمكسرات مع لمسة من الشوكولاتة الداكنة.","Signature cup.
+Flavor profile: caramel, nut; balanced acidity; medium body.",-,Medium,رغوة 4 / قوام 3 / حمضية 3 / مرارة 2 / نكهة 4 / رائحة 4,Foam 4 / Body 3 / Acidity 3 / Bitterness 2 / Flavor 4 / Aroma 4
+TRB-017,السلطان,Alslttan,٥٠٪ يمني • ٥٠٪ إندونيسي,50% Yemeni + 50% Indonesian,"فنجان فاخر، يجمع بين عمق الكاكاو ونكهات التوابل مع حلاوة التمر الداكنة.","Luxurious cup.
+Flavor profile: cocoa, date; low acidity; full body.",-,Medium-Dark,رغوة 5 / قوام 5 / حمضية 2 / مرارة 2 / نكهة 5 / رائحة 5,Foam 5 / Body 5 / Acidity 2 / Bitterness 2 / Flavor 5 / Aroma 5
+TRB-018,فكتوريا,Fktwrya,٦٠٪ أوغندي • ٤٠٪ برازيلي,60% Ugandan + 40% Brazilian,"فنجان قوي، يجمع بين نكهة الشوكولاتة الداكنة والمكسرات المحمصة مع كريمة غنية.","Bold cup.
+Flavor profile: chocolate, nut; balanced acidity; full body.",-,Medium-Dark,رغوة 5 / قوام 5 / حمضية 3 / مرارة 3 / نكهة 4 / رائحة 4,Foam 5 / Body 5 / Acidity 3 / Bitterness 3 / Flavor 4 / Aroma 4
+TRB-019,جراند,Jrand,٦٠٪ برازيلي • ٤٠٪ كولومبي,60% Brazilian + 40% Colombian,"فنجان متوازن، يجمع بين حلاوة الكراميل والشوكولاتة مع قوام سلس ومريح.","Comforting cup.
+Flavor profile: caramel, chocolate; balanced acidity; medium-full body.",-,Medium,رغوة 4 / قوام 4 / حمضية 3 / مرارة 2 / نكهة 4 / رائحة 4,Foam 4 / Body 4 / Acidity 3 / Bitterness 2 / Flavor 4 / Aroma 4
+TRB-020,رويال,Rwyal,٥٠٪ كيني • ٥٠٪ يمني,50% Kenyan + 50% Yemeni,"فنجان فاخر، يجمع بين حمضية التوت الأسود وعمق الكاكاو مع لمسة من العنب.","Luxurious cup.
+Flavor profile: berry, cocoa; high acidity; full body.",-,Medium,رغوة 5 / قوام 5 / حمضية 4 / مرارة 1 / نكهة 5 / رائحة 5,Foam 5 / Body 5 / Acidity 4 / Bitterness 1 / Flavor 5 / Aroma 5
+TRB-021,أمبروزيا,أMbrwzya,٦٠٪ كولومبي • ٤٠٪ بيرو,60% Colombian + 40% Peru,"فنجان ناعم، يجمع بين حلاوة الكراميل المملح والمكسرات.","Signature cup.
+Flavor profile: caramel, berry; bright acidity; medium-full body.",متوسط,Medium,رغوة 5 / قوام 4 / حمضية 4 / مرارة 1 / نكهة 4 / رائحة 5,Foam 5 / Body 4 / Acidity 4 / Bitterness 1 / Flavor 4 / Aroma 5
+TRK-001,خان الخليلي,Khan El Khalili,٥٠٪ برازيلي • ٣٠٪ يمني • ٢٠٪ بيرو,50% Brazilian + 30% Yemeni + 20% Peru,"فنجان أصيل كأجواء خان الخليلي، يجمع بين الشوكولاتة الداكنة والمكسرات المحمصة وحلاوة التمر.","Signature cup.
+Flavor profile: chocolate, date; balanced acidity; full body.",متوسط,Medium,رغوة 5 / قوام 5 / حمضية 3 / مرارة 1.5 / نكهة 5 / رائحة 5,Foam 5 / Body 5 / Acidity 3 / Bitterness 1.5 / Flavor 5 / Aroma 5
+TRK-002,الزمالك,Zamalek,٦٠٪ كولومبي • ٢٥٪ حبشي • ١٠٪ برازيلي • ٥٪ يمني,60% Colombian + 25% Ethiopian + 10% Brazilian + 5% Yemeni,"فنجان أنيق وراقي، يجمع بين حلاوة الكراميل ورائحة الزهور البيضاء مع لمسة فاكهية منعشة.","Refreshing cup.
+Flavor profile: caramel, floral; bright acidity; full body.",-,-,رغوة 4 / قوام 4 / حمضية 4 / مرارة 2 / نكهة 4 / رائحة 5,Foam 4 / Body 4 / Acidity 4 / Bitterness 2 / Flavor 4 / Aroma 5

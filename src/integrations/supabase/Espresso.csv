@@ -1,0 +1,99 @@
+الكود,الاسم_التجاري,Product_Name,التركيبة,Blend_Composition,الوصف_التسويقي_للنكهة_للعميل,Marketing_Description,كثافة_التحميص,Roast_Level,المقاييس_بالعربي,Flavor_Metrics
+ESP-01,ذهب روما,Gold Roma,40% برازيلي + 30% كولومبي + 30% روبوستا هندي,40% Brazilian + 30% Colombian + 30% روبوستا Indian,"إسبريسو إيطالي كلاسيكي، بكريمة ذهبية غنية ونكهة تجمع بين الكاكاو والمكسرات مع لمسة دافئة من التوابل.","Signature cup.
+Flavor profile: cocoa; full body.",4,Medium-Dark,كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 4 / كثافة 5,Crema 5 / Body 5 / Balance 4 / Aftertaste 4 / Intensity 5
+ESP-02,نوار إنتنسو,Noir إNtnsw,50% برازيلي + 20% يمني + 30% روبوستا فيتنامي,50% Brazilian + 20% Yemeni + 30% روبوستا Vietnamese,"إسبريسو قوي وعميق للخبراء، يجمع بين مرارة الكاكاو الداكنة وحلاوة التوت الأسود مع لمسة دخانية كلاسيكية.","Bold cup.
+Flavor profile: cocoa, berry; full body.",5,Dark,كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 5 / كثافة 5,Crema 5 / Body 5 / Balance 4 / Aftertaste 5 / Intensity 5
+ESP-03,فورتي,Forti,60% برازيلي + 40% كولومبي,60% Brazilian + 40% Colombian,"إسبريسو سلس ونظيف، يجمع بين حلاوة الكراميل والمكسرات المحمصة مع كريمة ذهبية كثيفة.","Signature cup.
+Flavor profile: caramel, nut; full body.",4,Medium-Dark,كريما 4 / قوام 5 / توازن 5 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 5 / Balance 5 / Aftertaste 4 / Intensity 4
+ESP-04,لا ميلا إنتنسو,La Myla إNtnsw,50% هندي روبوستا + 30% كولومبي + 20% برازيلي,50% Indian Robusta + 30% Colombian + 20% Brazilian,"إسبريسو جريء ومر، يجمع بين الكاكاو الداكن وحلاوة التين مع كريمة سميكة وقوية.","Bold cup.
+Flavor profile: cocoa; full body.",5,Dark,كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 5 / كثافة 5,Crema 5 / Body 5 / Balance 4 / Aftertaste 5 / Intensity 5
+ESP-05,أرابيكا 100%,Arabica 100%,100% حبشي هراري,100% Ethiopian Harrar,"إسبريسو فاكهي ومشرق، يجمع بين حلاوة البرتقال والليمون مع لمسة عطرية من الزهور البيضاء.","Refreshing cup.
+Flavor profile: orange, floral; high acidity; medium body.",3,Medium,كريما 3 / قوام 3 / توازن 4 / مذاق لاحق 5 / كثافة 3,Crema 3 / Body 3 / Balance 4 / Aftertaste 5 / Intensity 3
+ESP-06,ديلونج,Dylwnj,60% برازيلي + 20% يمني + 20% حبشي,60% Brazilian + 20% Yemeni + 20% Ethiopian,"إسبريسو متوازن، يجمع بين حلاوة الكراميل والمكسرات وعمق الكاكاو مع حمضية خفيفة.","Signature cup.
+Flavor profile: caramel; medium body.",4,Medium-Dark,كريما 4 / قوام 4 / توازن 5 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 4 / Balance 5 / Aftertaste 4 / Intensity 4
+ESP-07,ألتورا,أLtwra,50% بيرو + 50% جواتيمالا,50% Peru + 50% Guatemala,"إسبريسو سلس ومريح، يجمع بين حلاوة الفول السوداني المحمص ودفء القرفة مع كريمة متوسطة.","Comforting cup.
+Flavor profile: peanut, cinnamon; balanced acidity; medium body.",3,Medium,كريما 3 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 3 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4
+ESP-08,بلاك كينيا,Black Kenya,80% كينيا AAA + 20% روبوستا هندي,80% Kenya AAA + 20% روبوستا Indian,"إسبريسو جريء، يجمع بين حمضية التوت الأسود اللاذعة وعمق الكاكاو الداكن مع كريمة كثيفة.","Bold cup.
+Flavor profile: berry; high acidity; full body.",5,Dark,كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 5 / كثافة 5,Crema 5 / Body 5 / Balance 4 / Aftertaste 5 / Intensity 5
+ESP-09,كولومبيا,Columbia,100% كولومبي,100% Colombian,"إسبريسو متوازن وحيوي، يجمع بين حلاوة التفاح الأحمر ونعومة العسل الصافي.","Refreshing cup.
+Flavor profile: apple; bright acidity; medium-full body.",3,Medium,كريما 4 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4
+ESP-10,جولدن يمن,Golden Ymen,100% يمني خولاني,100% Yemeni Khawlani,"إسبريسو فاخر، يجمع بين عمق نكهة الكاكاو الخام وحلاوة التمر الداكنة مع لمسة من التوابل الدافئة.","Luxurious cup.
+Flavor profile: cocoa, date, spice; low acidity; full body.",4,Medium-Dark,كريما 4 / قوام 5 / توازن 4 / مذاق لاحق 5 / كثافة 5,Crema 4 / Body 5 / Balance 4 / Aftertaste 5 / Intensity 5
+ESP-11,روبوستا فيتنام,Robusta Vietnam,100% فيتنامي,100% Vietnamese,"إسبريسو قوي جداً، يجمع بين المرارة الكلاسيكية ونكهة الخشب مع كريمة سميكة وداكنة.","Bold cup.
+Flavor profile: wood, smoke; very low acidity; full body.",5,Dark,كريما 5 / قوام 5 / توازن 3 / مذاق لاحق 5 / كثافة 5,Crema 5 / Body 5 / Balance 3 / Aftertaste 5 / Intensity 5
+ESP-12,سوبر كريما,Super Crema,50% برازيلي + 50% أوغندي,50% Brazilian + 50% Ugandan,"إسبريسو كريمي، يجمع بين نكهة المكسرات المحمصة ودفء الشوكولاتة مع كريمة ذهبية كثيفة.","Signature cup.
+Flavor profile: chocolate, nut; low acidity; full body.",4,Medium-Dark,كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 5 / Body 5 / Balance 4 / Aftertaste 4 / Intensity 4
+ESP-13,تريبل إنتنسو,Trybl إNtnsw,50% هندي روبيستا + 30% فيتنامي + 20% كيني,50% Indian Robusta + 30% Vietnamese + 20% Kenyan,"قوة مضاعفة، إسبريسو يجمع بين المرارة الشديدة ونكهة التوابل الحارة مع كريمة غامقة.","Bold cup.
+Flavor profile: very low acidity; full body.",5,Dark,كريما 5 / قوام 5 / توازن 3 / مذاق لاحق 5 / كثافة 5,Crema 5 / Body 5 / Balance 3 / Aftertaste 5 / Intensity 5
+ESP-14,جولد ميداليون,Gold Mydaalywn,70% برازيلي + 30% روبوستا هندي,70% Brazilian + 30% روبوستا Indian,"إسبريسو كلاسيكي، يجمع بين حلاوة الكراميل والمكسرات المحمصة مع كريمة ذهبية غنية.","Signature cup.
+Flavor profile: caramel, nut; low acidity; full body.",4,Medium-Dark,كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 5 / Body 5 / Balance 4 / Aftertaste 4 / Intensity 4
+ESP-15,هاواي موكا,Hawaii Mocha,40% برازيلي + 60% كوستا ريكي,40% Brazilian + 60% Costa Rican,"إسبريسو استوائي، يجمع بين حلاوة الفانيليا وجوز الهند مع لمسة منعشة من الأناناس.","Refreshing cup.
+Flavor profile: vanilla, pineapple; balanced acidity; medium body.",3,Medium,كريما 4 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4
+ESP-16,كابو,Kabo,50% برازيلي + 50% كولومبي,50% Brazilian + 50% Colombian,"إسبريسو متوازن، يجمع بين حلاوة الكراميل ونعومة الشوكولاتة مع لمسة من الفاكهة الناضجة.","Signature cup.
+Flavor profile: caramel, chocolate; balanced acidity; medium-full body.",3,Medium,كريما 4 / قوام 4 / توازن 5 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 4 / Balance 5 / Aftertaste 4 / Intensity 4
+ESP-17,أفرو,أFrw,60% أوغندي + 40% كيني,60% Ugandan + 40% Kenyan,"إسبريسو أفريقي جريء، يجمع بين عمق الكاكاو وحلاوة الفواكه المجففة مع حمضية فاكهية مشرقة.","Bold cup.
+Flavor profile: cocoa; high acidity; full body.",4,Medium-Dark,كريما 4 / قوام 5 / توازن 4 / مذاق لاحق 4 / كثافة 5,Crema 4 / Body 5 / Balance 4 / Aftertaste 4 / Intensity 5
+ESP-18,مونسونيد,Mwnswnyd,70% هندي أرابيكا + 30% هندي روبيستا,70% Indian Arabica + 30% Indian Robusta,"إسبريسو غني، يجمع بين نكهات التوابل الدافئة ولمسة من العنب المجفف مع قوام ممتلئ.","Signature cup.
+Flavor profile: spice, grape; low acidity; full body.",3,Medium,كريما 4 / قوام 5 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 5 / Balance 4 / Aftertaste 4 / Intensity 4
+ESP-19,أمازون,أMazwn,50% برازيلي + 30% بيرو + 20% كولومبي,50% Brazilian + 30% Peru + 20% Colombian,"إسبريسو سلس، يجمع بين حلاوة السكر البني ونكهة المكسرات المحمصة مع كريمة ذهبية.","Signature cup.
+Flavor profile: brown sugar; balanced acidity; medium body.",3,Medium,كريما 4 / قوام 3 / توازن 4 / مذاق لاحق 4 / كثافة 3,Crema 4 / Body 3 / Balance 4 / Aftertaste 4 / Intensity 3
+ESP-20,بلاك شيري,Black Sherry,60% برازيلي + 40% كولومبي,60% Brazilian + 40% Colombian,"إسبريسو كريمي، يجمع بين حلاوة الكرز ونكهة الشوكولاتة الداكنة مع قوام ممتلئ.","Signature cup.
+Flavor profile: chocolate; balanced acidity; full body.",4,Medium-Dark,كريما 4 / قوام 5 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 5 / Balance 4 / Aftertaste 4 / Intensity 4
+ESP-21,سيرادو,Cerrado,100% برازيلي سانتوس,100% Brazilian Santos,"إسبريسو كلاسيكي، يجمع بين نكهة البندق والكراميل مع قوام مريح.","Signature cup.
+Flavor profile: hazelnut, caramel; low acidity; full body.",3,Medium,كريما 4 / قوام 5 / توازن 4 / مذاق لاحق 4 / كثافة 3,Crema 4 / Body 5 / Balance 4 / Aftertaste 4 / Intensity 3
+ESP-22,فاين ميلا,Fayn Myly,70% برازيلي + 30% أوغندي,70% Brazilian + 30% Ugandan,"إسبريسو متوازن، يجمع بين نكهة الشوكولاتة الداكنة والمكسرات المحمصة مع كريمة غنية.","Comforting cup.
+Flavor profile: chocolate; balanced acidity; full body.",4,Medium-Dark,كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 5 / Body 5 / Balance 4 / Aftertaste 4 / Intensity 4
+ESP-23,فالكون,Falkwn,70% برازيلي + 30% حبشي,70% Brazilian + 30% Ethiopian,"إسبريسو متوازن، يجمع بين حلاوة العسل والمكسرات مع لمسة من الياسمين العطري.","Signature cup.
+Flavor profile: honey, floral; balanced acidity; medium body.",3,Medium,كريما 3 / قوام 3 / توازن 4 / مذاق لاحق 4 / كثافة 3,Crema 3 / Body 3 / Balance 4 / Aftertaste 4 / Intensity 3
+ESP-24,فليكر,Flykr,50% كولومبي + 50% كيني,50% Colombian + 50% Kenyan,"إسبريسو حيوي، يجمع بين حمضية الفواكه المنعشة وحلاوة الكراميل مع قوام خفيف.","Refreshing cup.
+Flavor profile: caramel; high acidity; medium body.",3,Medium,كريما 3 / قوام 3 / توازن 4 / مذاق لاحق 5 / كثافة 4,Crema 3 / Body 3 / Balance 4 / Aftertaste 5 / Intensity 4
+ESP-25,جلوريا,Jlwrya,60% هندي + 40% برازيلي,60% Indian + 40% Brazilian,"إسبريسو قوي، يجمع بين مرارة الكاكاو الداكنة ونكهة التوابل الدافئة مع كريمة سميكة.","Bold cup.
+Flavor profile: cocoa; low acidity; full body.",5,Dark,كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 5 / كثافة 5,Crema 5 / Body 5 / Balance 4 / Aftertaste 5 / Intensity 5
+ESP-26,جالاكسي,Jalaksy,40% أوغندي + 40% حبشي + 20% كيني,40% Ugandan + 40% Ethiopian + 20% Kenyan,"إسبريسو أفريقي معقد، يجمع بين حلاوة الفواكه المجففة وعطرية الزهور مع حمضية مشرقة.","Signature cup.
+Flavor profile: floral, berry; high acidity; full body.",4,Medium-Dark,كريما 4 / قوام 5 / توازن 4 / مذاق لاحق 5 / كثافة 4,Crema 4 / Body 5 / Balance 4 / Aftertaste 5 / Intensity 4
+ESP-27,مانديلينج,Mandheling,70% هندي مايسور + 30% إندونيسي,70% Indian Mysore + 30% Indonesian,"إسبريسو غني، يجمع بين حلاوة التوت الأسود ونكهات التوابل الترابية مع قوام ممتلئ.","Signature cup.
+Flavor profile: berry; low acidity; full body.",4,Medium-Dark,كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 5 / كثافة 5,Crema 5 / Body 5 / Balance 4 / Aftertaste 5 / Intensity 5
+ESP-28,أوجو,أWjw,50% بيرو + 50% هندي,50% Peru + 50% Indian,"إسبريسو متوازن، يجمع بين حلاوة الكراميل والمكسرات المحمصة مع لمسة من الشوكولاتة الداكنة.","Signature cup.
+Flavor profile: caramel; balanced acidity; medium body.",3,Medium,كريما 4 / قوام 3 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 3 / Balance 4 / Aftertaste 4 / Intensity 4
+ESP-29,كواندا,Kwanda,40% برازيلي + 40% كولومبي + 20% روبوستا فيتنامي,40% Brazilian + 40% Colombian + 20% روبوستا Vietnamese,"إسبريسو قوي، يجمع بين حلاوة الشوكولاتة الداكنة ونكهة المكسرات مع كريمة كثيفة.","Bold cup.
+Flavor profile: chocolate, nut; low acidity; full body.",4,Medium-Dark,كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 4 / كثافة 5,Crema 5 / Body 5 / Balance 4 / Aftertaste 4 / Intensity 5
+ESP-30,أتلانتيس,أTlants,70% برازيلي + 30% كولومبي,70% Brazilian + 30% Colombian,"إسبريسو كلاسيكي، يجمع بين حلاوة الكراميل والشوكولاتة مع لمسة من الفواكه المجففة.","Signature cup.
+Flavor profile: caramel, chocolate; balanced acidity; medium-full body.",3,Medium,كريما 4 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4
+ESP-31,فيتنام لايت,Vietnam Light,70% فيتنامي + 30% كيني,70% Vietnamese + 30% Kenyan,"إسبريسو قوي، يجمع بين نكهة الشوكولاتة الداكنة مع حمضية الفواكه اللاذعة.","Bold cup.
+Flavor profile: chocolate; high acidity; full body.",4,Medium-Dark,كريما 4 / قوام 5 / توازن 4 / مذاق لاحق 4 / كثافة 5,Crema 4 / Body 5 / Balance 4 / Aftertaste 4 / Intensity 5
+ESP-32,إثيوبيا,Ethiopia,100% حبشي لقميتي,100% Ethiopian Lekemti,"إسبريسو عطرية، يجمع بين رائحة الياسمين وحمضية الليمون مع قوام خفيف.","Refreshing cup.
+Flavor profile: floral; high acidity; light body.",3,Medium,كريما 2 / قوام 2 / توازن 4 / مذاق لاحق 5 / كثافة 2,Crema 2 / Body 2 / Balance 4 / Aftertaste 5 / Intensity 2
+ESP-33,كريماتو,Krymatw,60% برازيلي + 40% كولومبي,60% Brazilian + 40% Colombian,"إسبريسو كريمي، يجمع بين حلاوة الكراميل ونكهة اللوز المحمص مع كريمة كثيفة.","Signature cup.
+Flavor profile: caramel; low acidity; full body.",4,Medium-Dark,كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 5 / Body 5 / Balance 4 / Aftertaste 4 / Intensity 4
+ESP-34,ميلودي,Myldy,50% كولومبي + 30% بيرو + 20% جواتيمالا,50% Colombian + 30% Peru + 20% Guatemala,"إسبريسو متوازن، يجمع بين حلاوة العسل ونكهة المكسرات المحمصة مع حمضية التفاح.","Signature cup.
+Flavor profile: honey, nut, apple; balanced acidity; medium body.",3,Medium,كريما 3 / قوام 3 / توازن 4 / مذاق لاحق 4 / كثافة 3,Crema 3 / Body 3 / Balance 4 / Aftertaste 4 / Intensity 3
+ESP-35,برونز,Brwaz,40% برازيلي + 40% كيني + 20% أوغندي,40% Brazilian + 40% Kenyan + 20% Ugandan,"إسبريسو معقد، يجمع بين حلاوة الفواكه المجففة وعمق الكاكاو مع حمضية فاكهية.","Signature cup.
+Flavor profile: fruit; high acidity; medium-full body.",4,Medium-Dark,كريما 4 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4
+ESP-36,بلاك روك,Black Rwk,60% برازيلي + 40% يمني,60% Brazilian + 40% Yemeni,"إسبريسو قوي، يجمع بين عمق الكاكاو وحلاوة التمر مع لمسة دخانية خفيفة.","Bold cup.
+Flavor profile: cocoa, date; low acidity; full body.",5,Dark,كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 5 / كثافة 5,Crema 5 / Body 5 / Balance 4 / Aftertaste 5 / Intensity 5
+ESP-37,ماجيك,Majk,60% برازيلي + 40% كولومبي,60% Brazilian + 40% Colombian,"إسبريسو ساحر، يجمع بين حلاوة الكراميل والشوكولاتة مع لمسة من الفانيليا.","Signature cup.
+Flavor profile: caramel, chocolate, vanilla; balanced acidity; full body.",4,Medium-Dark,كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 5 / Body 5 / Balance 4 / Aftertaste 4 / Intensity 4
+ESP-38,ميدان,Mydan,60% برازيلي + 40% كولومبي,60% Brazilian + 40% Colombian,"إسبريسو متوازن، يجمع بين حلاوة الكراميل والمكسرات المحمصة مع قوام مريح.","Signature cup.
+Flavor profile: caramel, nut; low acidity; full body.",3,Medium,كريما 4 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 3,Crema 4 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 3
+ESP-39,أمبروزيو,أMbrwzyw,50% كولومبي + 50% برازيلي,50% Colombian + 50% Brazilian,"إسبريسو غني، يجمع بين حلاوة الكراميل ونكهة الفواكه المجففة مع كريمة كثيفة.","Signature cup.
+Flavor profile: caramel; balanced acidity; medium-full body.",4,Medium-Dark,كريما 5 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 5 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4
+ESP-40,هيدرا,Hydra,70% برازيلي + 30% يمني,70% Brazilian + 30% Yemeni,"إسبريسو قوي، يجمع بين عمق الكاكاو وحلاوة التمر مع لمسة دخانية.","Bold cup.
+Flavor profile: cocoa, date; low acidity; full body.",5,Dark,كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 5 / كثافة 5,Crema 5 / Body 5 / Balance 4 / Aftertaste 5 / Intensity 5
+ESP-41,لا توري,La Twry,60% كولومبي + 40% برازيلي,60% Colombian + 40% Brazilian,"إسبريسو متوازن، يجمع بين حلاوة الفاكهة الناضجة ونكهة الشوكولاتة مع قوام سلس.","Refreshing cup.
+Flavor profile: fruit, chocolate; balanced acidity; medium body.",3,Medium,كريما 3 / قوام 3 / توازن 4 / مذاق لاحق 4 / كثافة 3,Crema 3 / Body 3 / Balance 4 / Aftertaste 4 / Intensity 3
+ESP-42,أزتيكا,أZtyka,60% أوغندي + 40% برازيلي,60% Ugandan + 40% Brazilian,"إسبريسو قوي، يجمع بين نكهة الشوكولاتة الداكنة والمكسرات المحمصة مع كريمة غنية.","Bold cup.
+Flavor profile: chocolate; low acidity; full body.",5,Dark,كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 4 / كثافة 5,Crema 5 / Body 5 / Balance 4 / Aftertaste 4 / Intensity 5
+ESP-43,أبولو,أBwlw,70% كولومبي + 30% حبشي,70% Colombian + 30% Ethiopian,"إسبريسو حيوي، يجمع بين حلاوة العسل ورائحة الياسمين مع حمضية التفاح.","Refreshing cup.
+Flavor profile: honey, floral; bright acidity; medium body.",3,Medium,كريما 3 / قوام 3 / توازن 4 / مذاق لاحق 4 / كثافة 3,Crema 3 / Body 3 / Balance 4 / Aftertaste 4 / Intensity 3
+ESP-44,ألتاريا,أLtarya,50% برازيلي + 50% كولومبي,50% Brazilian + 50% Colombian,"إسبريسو كريمي، يجمع بين حلاوة الكراميل والشوكولاتة مع قوام ممتلئ.","Signature cup.
+Flavor profile: caramel, chocolate; balanced acidity; full body.",4,Medium-Dark,كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 5 / Body 5 / Balance 4 / Aftertaste 4 / Intensity 4
+ESP-45,نوبل,Nwbl,60% يمني + 40% كيني,60% Yemeni + 40% Kenyan,"إسبريسو فاخر، يجمع بين عمق الكاكاو وحلاوة التوت الأسود مع لمسة من التوابل.","Luxurious cup.
+Flavor profile: cocoa, berry; balanced acidity; full body.",4,Medium-Dark,كريما 4 / قوام 5 / توازن 5 / مذاق لاحق 5 / كثافة 5,Crema 4 / Body 5 / Balance 5 / Aftertaste 5 / Intensity 5
+ESP-46,بيكان,Bykan,60% برازيلي + 40% كولومبي,60% Brazilian + 40% Colombian,"إسبريسو متوازن، يجمع بين نكهة اللوز المحمص وحلاوة الشوكولاتة مع كريمة غنية.","Comforting cup.
+Flavor profile: nut, chocolate; balanced acidity; medium body.",3,Medium,كريما 4 / قوام 3 / توازن 4 / مذاق لاحق 4 / كثافة 3,Crema 4 / Body 3 / Balance 4 / Aftertaste 4 / Intensity 3
+ESP-47,رويال كرز,Rwyal Krz,60% جواتيمالا + 40% كينيا AAA,60% Guatemala + 40% Kenya AAA,"مزيج لذيذ، إسبريسو يجمع بين عمق الكاكاو وحلاوة الكرز الأسود مع لمسة من جوز الهند.","Signature cup.
+Flavor profile: cocoa; medium-full body.",3,Medium,كريما 3 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 3 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4
+ESP-48,آيس بلند,آYs Blnd,40% روبوستا أوغندي + 30% برازيلي + 30% هندي,40% روبوستا Ugandan + 30% Brazilian + 30% Indian,"المزيج المثالي للقهوة الباردة، إسبريسو يقطع الحليب بنكهات الفانيليا وجوز الهند والكراميل.","Signature cup.
+Flavor profile: caramel, vanilla; full body.",4,Medium-Dark,كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 4 / كثافة 5,Crema 5 / Body 5 / Balance 4 / Aftertaste 4 / Intensity 5
+ESP-49,شاي المونسون,Shay Almwnswn,40% كولومبي + 40% كيني + 20% حبشي,40% Colombian + 40% Kenyan + 20% Ethiopian,"إسبريسو رقيق كالشاي، يجمع بين حلاوة الخوخ والعسل مع نعومة الشاي الأخضر ولمسة من الليمون.","Refreshing cup.
+Flavor profile: peach, honey, tea, lemon; high acidity; light body.",2,Light,كريما 2 / قوام 2 / توازن 5 / مذاق لاحق 5 / كثافة 2,Crema 2 / Body 2 / Balance 5 / Aftertaste 5 / Intensity 2

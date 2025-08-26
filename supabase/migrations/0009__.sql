@@ -1,0 +1,1 @@
+ALTER TABLE public.blends ADD COLUMN sensory_profile jsonb;

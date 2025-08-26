@@ -1,0 +1,2 @@
+ALTER TABLE public.orders
+ADD COLUMN user_id UUID REFERENCES auth.users(id) ON DELETE SET NULL;

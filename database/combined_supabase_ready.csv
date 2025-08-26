@@ -1,0 +1,711 @@
+Category,Code,Arabic,English,الأداة,الكود,الاسم التجاري,Product Name,التركيبة,Blend Composition,الوصف التسويقي للنكهة (للعميل),Marketing Description,المقاييس بالعربي,Flavor Metrics,ملاحظات التحضير,Brewing Notes,الاسم التجاري الجديد,الوصف التسويقي (يركز على الصحة والنكهة),كثافة التحميص,Roast Level,التحميص,Roast,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+Espresso,1,الكريما,Crema,,,,,,,,,,,,,,,,,,,,,,,,
+Espresso,2,القوام,Body,,,,,,,,,,,,,,,,,,,,,,,,
+Espresso,3,التوازن,Balance,,,,,,,,,,,,,,,,,,,,,,,,
+Espresso,4,المذاق اللاحق,Aftertaste,,,,,,,,,,,,,,,,,,,,,,,,
+Espresso,5,الكثافة,Intensity,,,,,,,,,,,,,,,,,,,,,,,,
+Filter & Immersion,ت,تعقيد النكهات,Complexity,,,,,,,,,,,,,,,,,,,,,,,,
+Filter & Immersion,ح,الحمضية,Acidity,,,,,,,,,,,,,,,,,,,,,,,,
+Filter & Immersion,ع,العطرية,Fragrance,,,,,,,,,,,,,,,,,,,,,,,,
+Filter & Immersion,ق,القوام,Body,,,,,,,,,,,,,,,,,,,,,,,,
+Filter & Immersion,و,وضوح النكهة,Clarity,,,,,,,,,,,,,,,,,,,,,,,,
+Green Coffee,ر,الرائحة,Aroma,,,,,,,,,,,,,,,,,,,,,,,,
+Green Coffee,ق,القوام,Body,,,,,,,,,,,,,,,,,,,,,,,,
+Green Coffee,ل,اللون,Color,,,,,,,,,,,,,,,,,,,,,,,,
+Green Coffee,م,المرارة,Bitterness,,,,,,,,,,,,,,,,,,,,,,,,
+Green Coffee,ن,النكهة,Flavor,,,,,,,,,,,,,,,,,,,,,,,,
+Turkish Coffee,ح,الحمضية,Acidity,,,,,,,,,,,,,,,,,,,,,,,,
+Turkish Coffee,ر,الرائحة,Aroma,,,,,,,,,,,,,,,,,,,,,,,,
+Turkish Coffee,ق,القوام,Body,,,,,,,,,,,,,,,,,,,,,,,,
+Turkish Coffee,م,المرارة,Bitterness,,,,,,,,,,,,,,,,,,,,,,,,
+Turkish Coffee,ن,النكهة,Flavor,,,,,,,,,,,,,,,,,,,,,,,,
+Turkish Coffee,و,الرغوة,Foam,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,V60,V01,توليفتي™ بالانس,Tawlifti Balance,٧٠٪ برازيلي + ٣٠٪ كولومبي,70% Brazilian + 30% Colombian,كوب قهوة متوازن ومثالي لكل يوم، يجمع بين حلاوة المكسرات المحمصة وحمضية خفيفة ومنعشة.,"Refreshing cup.
+Flavor profile: balanced acidity; medium body.",وضوح 3 / حمضية 3 / عطرية 3 / تعقيد 3 / قوام 3,Clarity 3 / Acidity 3 / Fragrance 3 / Complexity 3 / Body 3,ماء 93°م، وقت 2:30 د,water 93°C; 2:30 min,,,,,,,,,,,,
+,,,,V60,V02,كينيا برايت,Kynya Bright,١٠٠٪ كينيا AAA,100% Kenya AAA,تجربة كينية مشرقة ونقية، تتميز بنكهة التوت الحلو وحمضية الليمون المنعشة في فنجان خفيف القوام.,"Refreshing cup.
+Flavor profile: berry; high acidity; light body.",وضوح 5 / حمضية 5 / عطرية 4 / تعقيد 5 / قوام 2,Clarity 5 / Acidity 5 / Fragrance 4 / Complexity 5 / Body 2,صب متقطع، ماء 92°م، 3 دقائق,Pulse pour; water 92°C; 3 min,,,,,,,,,,,,
+,,,,V60,V03,عطر يرجاشيف,Atr Yrjashyf,٨٥٪ حبشي هراري + ١٥٪ حبشي لقميتي,85% Ethiopian Harrar + 15% Ethiopian Lekemti,فنجان فاخر تفوح منه رائحة الزهور العطرية، مع حمضية ناعمة تشبه الشاي الفاخر ولمسة من حلاوة قصب السكر.,"Luxurious cup.
+Flavor profile: floral; high acidity; light body.",وضوح 5 / حمضية 5 / عطرية 5 / تعقيد 4 / قوام 2,Clarity 5 / Acidity 5 / Fragrance 5 / Complexity 4 / Body 2,صب دائري بطيء، ماء 90°م,Circular pour (slow); water 90°C,,,,,,,,,,,,
+,,,,V60,V04,كوستاريكا تارازو,Costa Rica Tarrazu,٨٠٪ كوستا ريكي + ٢٠٪ بيرو,80% Costa Rican + 20% Peru,كوب غني ودافئ بنكهة الكراميل الحلو وجوز البقان المحمص، يمنحك إحساسًا بالراحة والدفء.,"Comforting cup.
+Flavor profile: caramel, pecan; bright acidity; medium-full body.",وضوح 4 / حمضية 4 / عطرية 4 / تعقيد 3 / قوام 4,Clarity 4 / Acidity 4 / Fragrance 4 / Complexity 3 / Body 4,صب مركز، ماء 94°م، 2:45 د,Center pour; water 94°C; 2:45 min,,,,,,,,,,,,
+,,,,V60,V05,موكا بالزعفران,Mocha Balzafran,١٠٠٪ يمني خولاني,100% Yemeni Khawlani,رحلة إلى أسواق الشرق، حيث تمتزج نكهة الكاكاو الغنية مع حلاوة الخوخ المجفف ولمسة فاخرة من التوابل والزعفران.,"Luxurious cup.
+Flavor profile: cocoa, peach, saffron; low acidity; medium-full body.",وضوح 2 / حمضية 2 / عطرية 5 / تعقيد 5 / قوام 4,Clarity 2 / Acidity 2 / Fragrance 5 / Complexity 5 / Body 4,صب طبقات، ماء 88°م، تضاف رشة زعفران,Layered pour; water 88°C; add saffron,,,,,,,,,,,,
+,,,,V60,V06,هويلا سويت,Huila Sweet,١٠٠٪ كولومبي,100% Colombian,حلاوة طبيعية ومنعشة في فنجانك، تذكرنا بالتفاح الأحمر الطازج والعسل الذهبي الصافي.,"Refreshing cup.
+Flavor profile: honey, apple; bright acidity; medium body.",وضوح 4 / حمضية 4 / عطرية 4 / تعقيد 3 / قوام 3,Clarity 4 / Acidity 4 / Fragrance 4 / Complexity 3 / Body 3,صب سريع، ماء 91°م، 2:15 د,fast; water 91°C; 2:15 min,,,,,,,,,,,,
+,,,,V60,V07,أنتيغوا شوكو,Antigua Choco,١٠٠٪ جواتيمالا,100% Guatemala,لعشاق الشوكولاتة، كوب غني بقوام كريمي ونكهة الشوكولاتة الداكنة الفاخرة مع حلاوة الكرز اللذيذ.,"Luxurious cup.
+Flavor profile: chocolate; balanced acidity; full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 4 / Body 5,صب حلزوني، ماء 93°م,Spiral pour; water 93°C,,,,,,,,,,,,
+,,,,V60,V08,سيرادو كلاسيك,Cerrado Classic,١٠٠٪ برازيلي سانتوس,100% Brazilian Santos,فنجان كلاسيكي أصيل، يجمع بين نكهة البندق المحمص والكراميل المملح في توازن مثالي.,"Signature cup.
+Flavor profile: caramel, hazelnut; low acidity; medium-full body.",وضوح 3 / حمضية 2 / عطرية 3 / تعقيد 2 / قوام 4,Clarity 3 / Acidity 2 / Fragrance 3 / Complexity 2 / Body 4,ماء 92°م، 2:30 د,water 92°C; 2:30 min,,,,,,,,,,,,
+,,,,V60,V09,تشانشامايو فروت,Tshanshamayw Frwt,١٠٠٪ بيرو,100% Peru,مغامرة استوائية ممتعة، بنكهات الفواكه المنعشة التي تكتمل بحلاوة الشوكولاتة البيضاء الناعمة.,"Refreshing cup.
+Flavor profile: chocolate; bright acidity; medium body.",وضوح 4 / حمضية 4 / عطرية 3 / تعقيد 3 / قوام 3,Clarity 4 / Acidity 4 / Fragrance 3 / Complexity 3 / Body 3,صب مزدوج، ماء 90°م,Double pour; water 90°C,,,,,,,,,,,,
+,,,,V60,V10,مانديلينج المعدلة,Mandheling Almadla,٨٠٪ هندي مايسور + ٢٠٪ إندونيسي,80% Indian Mysore + 20% Indonesian,تجربة جريئة وعميقة، تتميز بنكهة التوت الداكن الغنية مع لمسة ترابية أصيلة وقوام ممتلئ.,"Signature cup.
+Flavor profile: berry; low acidity; full body.",وضوح 3 / حمضية 2 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 3 / Acidity 2 / Fragrance 4 / Complexity 4 / Body 5,ماء 94°م، صب كثيف,intense; water 94°C,,,,,,,,,,,,
+,,,,V60,V11,دا لات إنتنس,Da Lat إNtns,٦٠٪ فيتنامي + ٤٠٪ برازيلي,60% Vietnamese + 40% Brazilian,لمحبي القهوة القوية، كوب جريء بنكهة خشب الأرز والكراميل المحروق وقوام ثقيل يدوم.,"Bold cup.
+Flavor profile: caramel; very low acidity; full body.",وضوح 1 / حمضية 1 / عطرية 3 / تعقيد 2 / قوام 5,Clarity 1 / Acidity 1 / Fragrance 3 / Complexity 2 / Body 5,صب سريع، ماء 95°م,fast; water 95°C,,,,,,,,,,,,
+,,,,V60,V12,أوغندا سيك,أWghnda Syk,٥٠٪ أوغندي + ٥٠٪ حبشي لقميتي,50% Ugandan + 50% Ethiopian Lekemti,فنجان معقد وممتع، يجمع حلاوة الفواكه المجففة مع عمق الكاكاو ونهاية تشبه نكهة العنب الأحمر.,"Signature cup.
+Flavor profile: cocoa; balanced acidity; medium-full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 4 / قوام 4,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 4 / Body 4,صب متدرج، ماء 93°م,Staged pour; water 93°C,,,,,,,,,,,,
+,,,,V60,V13,كينيا بلند,Kynya Blnd,٧٠٪ كينيا AAA + ٣٠٪ هندي روبيستا,70% Kenya AAA + 30% Indian Robusta,مزيج قوي ومتطور، يجمع بين حمضية العنب الأسود الكيني ولمسة دافئة من التوابل الوردية.,"Bold cup.
+Flavor profile: high acidity; medium-full body.",وضوح 4 / حمضية 5 / عطرية 4 / تعقيد 5 / قوام 4,Clarity 4 / Acidity 5 / Fragrance 4 / Complexity 5 / Body 4,صب دائري مكثف، ماء 92°م,Circular pour (intense); water 92°C,,,,,,,,,,,,
+,,,,V60,V14,كونا هاواي,Kwna Hawaii,٦٠٪ برازيلي + ٤٠٪ كوستا ريكي,60% Brazilian + 40% Costa Rican,إحساس استوائي دافئ، يجمع بين حلاوة الفانيليا الكريمية ونكهة الأناناس المنعشة.,"Refreshing cup.
+Flavor profile: pineapple, vanilla; balanced acidity; medium-full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 3 / قوام 4,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 3 / Body 4,وقت 3 دقائق، ماء 91°م,water 91°C; 3 min,,,,,,,,,,,,
+,,,,V60,V15,سيدامو العطرية,Sidamo Alatrya,١٠٠٪ حبشي لقميتي,100% Ethiopian Lekemti,عطر من الياسمين والليمون في فنجانك، مع نقاء ونعومة الشاي الأخضر الفاخر.,"Luxurious cup.
+Flavor profile: jasmine; high acidity; light body.",وضوح 5 / حمضية 5 / عطرية 5 / تعقيد 4 / قوام 2,Clarity 5 / Acidity 5 / Fragrance 5 / Complexity 4 / Body 2,صب بطيء، ماء 89°م,slow; water 89°C,,,,,,,,,,,,
+,,,,V60,V16,مونسونيد الهند,Mwnswnyd Alhnd,٧٠٪ هندي أرابيكا + ٣٠٪ هندي روبيستا,70% Indian Arabica + 30% Indian Robusta,تجربة هندية فريدة، بنكهات التوابل الغنية ولمسة العنبر الدافئة التي تأخذك في رحلة إلى الشرق.,"A journey in a cup.
+Flavor profile: low acidity; medium-full body.",وضوح 2 / حمضية 2 / عطرية 4 / تعقيد 5 / قوام 4,Clarity 2 / Acidity 2 / Fragrance 4 / Complexity 5 / Body 4,صب سريع، ماء 94°م,fast; water 94°C,,,,,,,,,,,,
+,,,,V60,V17,بورسيرون البرازيل,Bwrsyrwn Albrazyl,٨٠٪ برازيلي + ٢٠٪ كولومبي,80% Brazilian + 20% Colombian,فنجان كريمي ومريح، يجمع بين حلاوة شوكولاتة الحليب ونكهة جوز البقان الغنية.,"Comforting cup.
+Flavor profile: pecan, chocolate; balanced acidity; full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 4 / Body 5,صب حلزوني مكثف، ماء 93°م,Spiral pour (intense); water 93°C,,,,,,,,,,,,
+,,,,V60,V18,جيشا كولومبيا,Jysha Colombia,١٠٠٪ كولومبي (جيشا),100% Colombian (جيشا),قمة الفخامة، فنجان نادر بنكهات البرتقال والبرغموت العطرية وحلاوة عسل السدر الصافي.,"Signature cup.
+Flavor profile: honey; high acidity; light body.",وضوح 5 / حمضية 5 / عطرية 5 / تعقيد 4 / قوام 2,Clarity 5 / Acidity 5 / Fragrance 5 / Complexity 4 / Body 2,صب دقيق، ماء 88°م,water 88°C,,,,,,,,,,,,
+,,,,V60,V19,ألتورا المكسيك,أLtwra Almksyk,٥٠٪ بيرو + ٥٠٪ جواتيمالا,50% Peru + 50% Guatemala,كوب دافئ ومريح، يجمع حلاوة الفواكه المجففة مع لمسة عطرية من القرفة الدافئة.,"Comforting cup.
+Flavor profile: cinnamon; balanced acidity; medium-full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 4 / قوام 4,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 4 / Body 4,صب طبقي، ماء 92°م,Layered pour; water 92°C,,,,,,,,,,,,
+,,,,V60,V20,روبوستا بريميوم+,Rwbwsta Brymywm+,٩٠٪ فيتنامي + ١٠٪ كينيا AAA,90% Vietnamese + 10% Kenya AAA,قوة وتركيز في فنجان واحد، يجمع بين مرارة الكاكاو الداكن واللمسة الدخانية مع حمضية خفيفة في النهاية.,"Signature cup.
+Flavor profile: cocoa; balanced acidity; full body.",وضوح 2 / حمضية 3 / عطرية 3 / تعقيد 3 / قوام 5,Clarity 2 / Acidity 3 / Fragrance 3 / Complexity 3 / Body 5,صب سريع، ماء 96°م,fast; water 96°C,,,,,,,,,,,,
+,,,,V60,V21,بيرو أورجانيك,Byrw أWrjanyk,١٠٠٪ بيرو,100% Peru,فنجان عضوي نقي، يتميز بحلاوة الكراميل الطبيعية ونكهة المكسرات مع حمضية ناعمة ومتوازنة.,"Signature cup.
+Flavor profile: caramel; bright acidity; medium body.",وضوح 4 / حمضية 4 / عطرية 3 / تعقيد 3 / قوام 3,Clarity 4 / Acidity 4 / Fragrance 3 / Complexity 3 / Body 3,صب مزدوج، ماء 91°م,Double pour; water 91°C,,,,,,,,,,,,
+,,,,V60,V22,V60 كولد برو بالعسل,V60 Cold Brew Balasl,٦٠٪ كولومبي + ٤٠٪ حبشي هراري,60% Colombian + 40% Ethiopian Harrar,مشروب بارد ومنعش، يجمع بين عمق الشوكولاتة وعطرية الزهور مع حلاوة العسل الطبيعي.,"Refreshing cup.
+Flavor profile: chocolate, honey, floral; balanced acidity; medium-full body.",وضوح 4 / حمضية 3 / عطرية 5 / تعقيد 5 / قوام 4,Clarity 4 / Acidity 3 / Fragrance 5 / Complexity 5 / Body 4,نقع 18 ساعة، يضاف العسل عند التقديم,Steep; 18 hrs; add honey at serve,,,,,,,,,,,,
+,,,,آيروبرس,AP-SIG-01,جوهرة أفريقيا,Jwhra أFryqya,٦٠٪ كيني + ٤٠٪ حبشي لقميتي,60% Kenyan + 40% Ethiopian Lekemti,جوهرة أفريقية، كوب مشرق وعصيري تفوح منه رائحة الزهور مع حمضية الفواكه المنعشة.,"Refreshing cup.
+Flavor profile: floral; high acidity; medium body.",وضوح 5 / حمضية 5 / عطرية 5 / تعقيد 5 / قوام 3,Clarity 5 / Acidity 5 / Fragrance 5 / Complexity 5 / Body 3,نقع 1:50 د، ماء 91°م,Steep; 1:50 min; water 91°C.,,,,,,,,,,,,
+,,,,آيروبرس,AP-SIG-02,لاتينو سويت,Latynw Sweet,٥٠٪ كوستا ريكي + ٣٠٪ كولومبي + ٢٠٪ جواتيمالا,50% Costa Rican + 30% Colombian + 20% Guatemala,حلاوة أمريكا اللاتينية، كوب متوازن يجمع بين نكهة الشوكولاتة المحبوبة وحلاوة طبيعية.,"Signature cup.
+Flavor profile: chocolate; bright acidity; medium-full body.",وضوح 4 / حمضية 4 / عطرية 4 / تعقيد 4 / قوام 4,Clarity 4 / Acidity 4 / Fragrance 4 / Complexity 4 / Body 4,نقع 2:10 د، ماء 93°م,Steep; 2:10 min; water 93°C.,,,,,,,,,,,,
+,,,,آيروبرس,AP01,توليفتي™ إثيوبيا آيرو,Tawlifti Ethiopia آYrw,١٠٠٪ حبشي هراري,100% Ethiopian Harrar,كوب إثيوبي نقي وعطري، يجمع بين رائحة الياسمين الفواحة وحمضية الليمون المنعشة.,"Refreshing cup.
+Flavor profile: jasmine; high acidity; medium body.",وضوح 5 / حمضية 5 / عطرية 5 / تعقيد 4 / قوام 3,Clarity 5 / Acidity 5 / Fragrance 5 / Complexity 4 / Body 3,نقع 1:45 د، ماء 90°م,Steep; 1:45 min; water 90°C.,,,,,,,,,,,,
+,,,,آيروبرس,AP02,توليفتي™ بيكان,Tawlifti Bykan,٦٠٪ برازيلي + ٤٠٪ كولومبي,60% Brazilian + 40% Colombian,فنجان متوازن ومريح، يجمع بين حلاوة شوكولاتة الحليب ونكهة اللوز المحمص.,"Comforting cup.
+Flavor profile: chocolate; balanced acidity; medium-full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 3 / قوام 4,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 3 / Body 4,نقع 2 د، ماء 94°م,Steep; 2 min; water 94°C.,,,,,,,,,,,,
+,,,,آيروبرس,AP03,كوستاريكا العسلية,Costa Rica Alaslya,١٠٠٪ كوستا ريكي,100% Costa Rican,كوب حلو وناعم كالحرير، يجمع بين حلاوة العسل الصافي ونكهة الخوخ الصيفي.,"Signature cup.
+Flavor profile: honey, peach; bright acidity; medium body.",وضوح 4 / حمضية 4 / عطرية 4 / تعقيد 3 / قوام 3,Clarity 4 / Acidity 4 / Fragrance 4 / Complexity 3 / Body 3,نقع 2:15 د، ماء 92°م,Steep; 2:15 min; water 92°C.,,,,,,,,,,,,
+,,,,آيروبرس,AP04,يمن موكا آيرو,Ymn Mocha آYrw,١٠٠٪ يمني خولاني,100% Yemeni Khawlani,تجربة يمنية أصيلة، تتميز بعمق نكهة الكاكاو وحمضية التوت البري المنعشة.,"Refreshing cup.
+Flavor profile: cocoa, berry; low acidity; medium-full body.",وضوح 2 / حمضية 2 / عطرية 5 / تعقيد 5 / قوام 4,Clarity 2 / Acidity 2 / Fragrance 5 / Complexity 5 / Body 4,نقع 2 د، ماء 88°م,Steep; 2 min; water 88°C.,,,,,,,,,,,,
+,,,,آيروبرس,AP05,كينيا AA آيرو,Kynya Aa آYrw,١٠٠٪ كينا AAA,100% Kenya AAA,فنجان كيني جريء، يجمع بين حمضية الفواكه اللاذعة ولمسة عشبية منعشة.,"Refreshing cup.
+Flavor profile: high acidity; medium-full body.",وضوح 4 / حمضية 5 / عطرية 4 / تعقيد 5 / قوام 4,Clarity 4 / Acidity 5 / Fragrance 4 / Complexity 5 / Body 4,نقع 1:50 د، ماء 91°م,Steep; 1:50 min; water 91°C.,,,,,,,,,,,,
+,,,,آيروبرس,AP06,أنتيغوا آيرو,Antigua آYrw,١٠٠٪ جواتيمالا,100% Guatemala,كوب غني وممتلئ، يجمع بين حلاوة الكرز الداكن وعمق الشوكولاتة الفاخرة.,"Luxurious cup.
+Flavor profile: chocolate; balanced acidity; full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 4 / Body 5,نقع 2:10 د، ماء 93°م,Steep; 2:10 min; water 93°C.,,,,,,,,,,,,
+,,,,آيروبرس,AP07,برازيل سيرادو آيرو,Brazyl Cerrado آYrw,١٠٠٪ برازيلي سانتوس,100% Brazilian Santos,فنجان برازيلي كلاسيكي، يجمع بين نكهة البندق المحمص وحلاوة السكر البني الدافئة.,"Signature cup.
+Flavor profile: hazelnut; low acidity; full body.",وضوح 3 / حمضية 2 / عطرية 3 / تعقيد 2 / قوام 5,Clarity 3 / Acidity 2 / Fragrance 3 / Complexity 2 / Body 5,نقع 2 د، ماء 92°م,Steep; 2 min; water 92°C.,,,,,,,,,,,,
+,,,,آيروبرس,AP08,بيرو تشانشامايو,Byrw Tshanshamayw,١٠٠٪ بيرو,100% Peru,كوب حلو وناعم، يجمع بين حلاوة فاكهة الكمثرى ونعومة الشوكولاتة البيضاء.,"Signature cup.
+Flavor profile: chocolate; bright acidity; medium-full body.",وضوح 4 / حمضية 4 / عطرية 3 / تعقيد 3 / قوام 4,Clarity 4 / Acidity 4 / Fragrance 3 / Complexity 3 / Body 4,نقع 2:05 د، ماء 90°م,Steep; 2:05 min; water 90°C.,,,,,,,,,,,,
+,,,,آيروبرس,AP09,مانديلينج آيرو,Mandheling آYrw,٧٠٪ هندي مايسور + ٣٠٪ إندونيسي,70% Indian Mysore + 30% Indonesian,تجربة غنية وعميقة، تجمع بين حلاوة التوت الأسود والنكهات الترابية الأصيلة.,"Signature cup.
+Flavor profile: berry; low acidity; full body.",وضوح 2 / حمضية 2 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 2 / Acidity 2 / Fragrance 4 / Complexity 4 / Body 5,نقع 2:20 د، ماء 95°م,Steep; 2:20 min; water 95°C.,,,,,,,,,,,,
+,,,,آيروبرس,AP10,دا لات آيرو,Da Lat آYrw,٦٥٪ فيتنامي + ٣٥٪ برازيلي,65% Vietnamese + 35% Brazilian,فنجان قوي ودافئ، بنكهة خشب الأرز والكراميل، مثالي لمحبي القهوة الكلاسيكية.,"Bold cup.
+Flavor profile: caramel; very low acidity; full body.",وضوح 1 / حمضية 1 / عطرية 3 / تعقيد 2 / قوام 5,Clarity 1 / Acidity 1 / Fragrance 3 / Complexity 2 / Body 5,نقع 2 د، ماء 96°م,Steep; 2 min; water 96°C.,,,,,,,,,,,,
+,,,,آيروبرس,AP11,أوغندا سيك آيرو,أWghnda Syk آYrw,٤٥٪ أوغندي + ٥٥٪ حبشي لقميتي,45% Ugandan + 55% Ethiopian Lekemti,مزيج معقد وممتع، يجمع بين حلاوة الفواكه المجففة وعمق نكهة الكاكاو.,"Signature cup.
+Flavor profile: cocoa; bright acidity; medium-full body.",وضوح 3 / حمضية 3.5 / عطرية 4.5 / تعقيد 4 / قوام 4,Clarity 3 / Acidity 3.5 / Fragrance 4.5 / Complexity 4 / Body 4,نقع 2:10 د، ماء 93°م,Steep; 2:10 min; water 93°C.,,,,,,,,,,,,
+,,,,آيروبرس,AP12,هويلا آيرو,Huila آYrw,٩٠٪ كولومبي + ١٠٪ بيرو,90% Colombian + 10% Peru,كوب كولومبي مشرق، يجمع بين حمضية التفاح الأخضر المنعشة وحلاوة العسل الصافي.,"Refreshing cup.
+Flavor profile: honey, apple; bright acidity; medium-full body.",وضوح 4.5 / حمضية 4 / عطرية 4 / تعقيد 3 / قوام 3.5,Clarity 4.5 / Acidity 4 / Fragrance 4 / Complexity 3 / Body 3.5,نقع 1:55 د، ماء 91°م,Steep; 1:55 min; water 91°C.,,,,,,,,,,,,
+,,,,آيروبرس,AP13,كونا آيرو,Kwna آYrw,٤٠٪ برازيلي + ٦٠٪ كوستا ريكي,40% Brazilian + 60% Costa Rican,تجربة استوائية ممتعة، تجمع بين نعومة الفانيليا وحلاوة الأناناس المنعشة.,"Refreshing cup.
+Flavor profile: pineapple, vanilla; bright acidity; full body.",وضوح 3 / حمضية 3.5 / عطرية 4.5 / تعقيد 4 / قوام 5,Clarity 3 / Acidity 3.5 / Fragrance 4.5 / Complexity 4 / Body 5,نقع 2:15 د، ماء 91°م,Steep; 2:15 min; water 91°C.,,,,,,,,,,,,
+,,,,آيروبرس,AP14,مونسونيد آيرو,Mwnswnyd آYrw,٧٥٪ هندي أرابيكا + ٢٥٪ هندي روبيستا,75% Indian Arabica + 25% Indian Robusta,رحلة إلى الهند في فنجان، بنكهات التوابل الدافئة وحلاوة التمر الهندي اللاذعة.,"A journey in a cup.
+Flavor profile: date; low acidity; medium-full body.",وضوح 2 / حمضية 2 / عطرية 4 / تعقيد 5 / قوام 4,Clarity 2 / Acidity 2 / Fragrance 4 / Complexity 5 / Body 4,نقع 2 د، ماء 94°م,Steep; 2 min; water 94°C.,,,,,,,,,,,,
+,,,,آيروبرس,AP15,ألتورا آيرو,أLtwra آYrw,٥٥٪ بيرو + ٤٥٪ جواتيمالا,55% Peru + 45% Guatemala,كوب مريح ودافئ، يجمع بين حلاوة الفول السوداني المحمص ودفء القرفة العطرية.,"Comforting cup.
+Flavor profile: cinnamon; balanced acidity; medium-full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 4 / قوام 4,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 4 / Body 4,نقع 2:05 د، ماء 92°م,Steep; 2:05 min; water 92°C.,,,,,,,,,,,,
+,,,,آيروبرس,AP16,روبوستا بريميوم,Rwbwsta Brymywm,٩٠٪ برازيلي روبيستا + ١٠٪ يمني,90% Brazilian Robusta + 10% Yemeni,قوة مركزة، كوب بنكهة دخانية كلاسيكية وحلاوة الكراميل المحروق الداكن.,"Signature cup.
+Flavor profile: caramel; very low acidity; full body.",وضوح 1 / حمضية 1 / عطرية 4 / تعقيد 3 / قوام 5,Clarity 1 / Acidity 1 / Fragrance 4 / Complexity 3 / Body 5,نقع 2 د، ماء 96°م,Steep; 2 min; water 96°C.,,,,,,,,,,,,
+,,,,آيروبرس,AP17,أفريكان بلند آيرو,أFrykan Blnd آYrw,٤٠٪ كيني + ٣٠٪ أوغندي + ٣٠٪ حبشي,40% Kenyan + 30% Ugandan + 30% Ethiopian,مزيج أفريقي معقد، يجمع بين حلاوة التين الداكنة ولمسة أنيقة من التوابل الحلوة.,"Signature cup.
+Flavor profile: high acidity; medium-full body.",وضوح 5 / حمضية 5 / عطرية 5 / تعقيد 5 / قوام 4,Clarity 5 / Acidity 5 / Fragrance 5 / Complexity 5 / Body 4,نقع 2:10 د، ماء 93°م,Steep; 2:10 min; water 93°C.,,,,,,,,,,,,
+,,,,آيروبرس,AP18,توفي إثيوبيا,Twfy Ethiopia,١٠٠٪ حبشي لقميتي,100% Ethiopian Lekemti,فنجان إثيوبي نقي ومشرق، يجمع بين حمضية البرتقال ولمسة الزنجبيل المنعشة.,"Refreshing cup.
+Flavor profile: high acidity; light body.",وضوح 5 / حمضية 5 / عطرية 5 / تعقيد 4 / قوام 2,Clarity 5 / Acidity 5 / Fragrance 5 / Complexity 4 / Body 2,نقع 1:45 د، ماء 89°م,Steep; 1:45 min; water 89°C.,,,,,,,,,,,,
+,,,,آيروبرس,AP19,لواك ستايل آيرو,Lwak Stayl آYrw,٦٠٪ إندونيسي + ٤٠٪ هندي مايسور,60% Indonesian + 40% Indian Mysore,تجربة كلاسيكية غنية، تجمع بين حلاوة التمر الداكنة وعمق النكهات الترابية الأصيلة.,"Signature cup.
+Flavor profile: date; very low acidity; full body.",وضوح 2 / حمضية 1 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 2 / Acidity 1 / Fragrance 4 / Complexity 4 / Body 5,نقع 2:20 د، ماء 90°م,Steep; 2:20 min; water 90°C.,,,,,,,,,,,,
+,,,,آيروبرس,AP20,أرابيان نايتس,أRabyan Nayts,٤٠٪ يمني + ٣٠٪ حبشي + ٣٠٪ كولومبي,40% Yemeni + 30% Ethiopian + 30% Colombian,ليالٍ عربية في فنجان، يجمع بين حلاوة التمر الفاخرة ودفء الهيل العطري.,"Luxurious cup.
+Flavor profile: cardamom, date; balanced acidity; medium-full body.",وضوح 4 / حمضية 3 / عطرية 5 / تعقيد 5 / قوام 4,Clarity 4 / Acidity 3 / Fragrance 5 / Complexity 5 / Body 4,نقع 2 د، ماء 92°م,Steep; 2 min; water 92°C.,,,,,,,,,,,,
+,,,,غلي,B-001,,أAmaq إNdwnysya,١٠٠٪ بن إندونيسي,100% بن Indonesian,,"Bold cup.
+Flavor profile: full body.",مرارة 4 / قوام 5 / نكهة 3 / رائحة 3 / لون 3,Bitterness 4 / Body 5 / Flavor 3 / Aroma 3 / Color 3,غلي 20 دقيقة + عرق سوس,Boil 20 min; add licorice.,أعماق إندونيسيا,لدعم صحة العظام، مشروب قوي بنكهة عشبية ترابية عميقة.,,,,,,,,,,
+,,,,غلي,B-002,,Rwbwsta Almadla,٤٠٪ فيتنامي + ٤٠٪ هندي روبيستا + ٢٠٪ كولومبي,40% Vietnamese + 40% Indian Robusta + 20% Colombian,,"Bold cup.
+Flavor profile: full body.",مرارة 4 / قوام 5 / نكهة 3.5 / رائحة 2 / لون 3,Bitterness 4 / Body 5 / Flavor 3.5 / Aroma 2 / Color 3,غلي 15 دقيقة + قرفة,Boil 15 min; add cinnamon.,روبوستا المعدلة,طاقة عالية جداً، مشروب قوي ومر بنكهة عشبية جريئة.,,,,,,,,,,
+,,,,غلي,B-003,,Altwfyr Alihby,٧٠٪ برازيلي روبيستا + ٣٠٪ أوغندي,70% Brazilian Robusta + 30% Ugandan,,"Bold cup.
+Flavor profile: medium-full body.",مرارة 4 / قوام 4 / نكهة 3 / رائحة 3 / لون 3,Bitterness 4 / Body 4 / Flavor 3 / Aroma 3 / Color 3,غلي 12 دقيقة + هيل,Boil 12 min; add cardamom.,التوفير الذهبي,لزيادة الأيض، مشروب قوي بنكهة عشبية مع لمسة ترابية.,,,,,,,,,,
+,,,,غلي,B-004,,Alyqza AlآSywya,٦٠٪ هندي روبيستا + ٤٠٪ إندونيسي,60% Indian Robusta + 40% Indonesian,,"Bold cup.
+Flavor profile: full body.",مرارة 4 / قوام 5 / نكهة 3 / رائحة 3 / لون 3,Bitterness 4 / Body 5 / Flavor 3 / Aroma 3 / Color 3,غلي 15 دقيقة + فلفل وردي,Boil 15 min; add pink pepper.,اليقظة الآسيوية,لتركيز فوري، مشروب قوي جداً بنكهة عشبية ترابية.,,,,,,,,,,
+,,,,غلي,B-005,,إNdwnysy Aldbs,٧٠٪ إندونيسي + ٣٠٪ هندي مايسور,70% Indonesian + 30% Indian Mysore,,"Bold cup.
+Flavor profile: full body.",مرارة 4 / قوام 5 / نكهة 3 / رائحة 3 / لون 3,Bitterness 4 / Body 5 / Flavor 3 / Aroma 3 / Color 3,غلي 25 دقيقة + دبس رمان,Boil 25 min; add pomegranate molasses.,إندونيسي الدبس,لطاقة وقوة بدنية، مشروب قوي جداً بنكهة عشبية ترابية عميقة.,,,,,,,,,,
+,,,,غلي,B-006,,Taqa Altmryn,٦٠٪ فيتنامي + ٤٠٪ أوغندي,60% Vietnamese + 40% Ugandan,,"Bold cup.
+Flavor profile: full body.",مرارة 4 / قوام 5 / نكهة 3 / رائحة 3 / لون 3,Bitterness 4 / Body 5 / Flavor 3 / Aroma 3 / Color 3,غلي 10 دقائق + زنجبيل طازج,"Boil 10 min; add fresh ginger, ginger.",طاقة التمرين,لأداء رياضي عالي، مشروب قوي بنكهة عشبية جريئة.,,,,,,,,,,
+,,,,غلي,B-007,,Alqwa AlآSywya Almadla,٨٠٪ هندي روبيستا + ٢٠٪ كولومبي,80% Indian Robusta + 20% Colombian,,"Bold cup.
+Flavor profile: full body.",مرارة 4 / قوام 5 / نكهة 2.5 / رائحة 2 / لون 2,Bitterness 4 / Body 5 / Flavor 2.5 / Aroma 2 / Color 2,غلي 15 دقيقة + قشر برتقال,Boil 15 min; add orange peel.,القوة الآسيوية المعدلة,لطاقة قصوى، مشروب قوي ومر جداً بنكهة عشبية.,,,,,,,,,,
+,,,,غلي,B-008,,إNdwnysy Almmyz,١٠٠٪ بن إندونيسي,100% بن Indonesian,,"Bold cup.
+Flavor profile: full body.",مرارة 4 / قوام 5 / نكهة 3 / رائحة 3 / لون 3,Bitterness 4 / Body 5 / Flavor 3 / Aroma 3 / Color 3,غلي 30 دقيقة + جوزة الطيب,Boil 30 min; add nutmeg.,إندونيسي المميز,لدعم صحة المفاصل، مشروب قوي بنكهة عشبية ترابية عميقة.,,,,,,,,,,
+,,,,غلي,B-009,,Mnaaa Alshrq,٦٠٪ حبشي هراري + ٤٠٪ فيتنامي,60% Ethiopian Harrar + 40% Vietnamese,,Bold cup.Flavor profile: medium-full body.,مرارة 3 / قوام 4 / نكهة 4 / رائحة 3 / لون 3,Bitterness 3 / Body 4 / Flavor 4 / Aroma 3 / Color 3,غلي 15 دقيقة + قرفة,Boil 15 min; add cinnamon.,مناعة الشرق,لتعزيز المناعة، مشروب يجمع بين النكهات العشبية الفاكهية والقوية.,,,,,,,,,,
+,,,,غلي,B-010,,Mtana Alrwbwsta,٨٠٪ هندي روبيستا + ٢٠٪ برازيلي روبيستا,80% Indian Robusta + 20% Brazilian Robusta,,"Bold cup.
+Flavor profile: full body.",مرارة 5 / قوام 5 / نكهة 3 / رائحة 2 / لون 2,Bitterness 5 / Body 5 / Flavor 3 / Aroma 2 / Color 2,غلي 25 دقيقة + فانيليا,Boil 25 min; add vanilla.,متانة الروبوستا,لقوة تحمل عالية، مشروب قوي ومر جداً بنكهة عشبية.,,,,,,,,,,
+,,,,غلي,B-011,,Fjr أFryqya,٦٠٪ أوغندي + ٤٠٪ كينيا AAA,60% Ugandan + 40% Kenya AAA,,"Bold cup.
+Flavor profile: medium-full body.",مرارة 3 / قوام 4 / نكهة 4 / رائحة 4 / لون 4,Bitterness 3 / Body 4 / Flavor 4 / Aroma 4 / Color 4,غلي 10 دقائق + توت مجفف,Boil 10 min; add dried berries.,فجر أفريقيا,للنشاط والحيوية، مشروب يجمع بين النكهات العشبية القوية والمشرقة.,,,,,,,,,,
+,,,,غلي,B-012,,Alamq Albrazyly,١٠٠٪ برازيلي سانتوس,100% Brazilian Santos,,"Signature cup.
+Flavor profile: medium-full body.",مرارة 3 / قوام 4 / نكهة 4 / رائحة 4 / لون 4,Bitterness 3 / Body 4 / Flavor 4 / Aroma 4 / Color 4,غلي 15 دقيقة + كاكاو خام,Boil 15 min; add raw cacao.,العمق البرازيلي,لصحة القلب، مشروب بنكهة عشبية كلاسيكية وقوام ممتلئ.,,,,,,,,,,
+,,,,غلي,B-013,,Almrtfaat Alkhdraء,٦٠٪ كينيا AAA + ٤٠٪ أوغندي,60% Kenya AAA + 40% Ugandan,,"Bold cup.
+Flavor profile: medium-full body.",مرارة 3 / قوام 4 / نكهة 4 / رائحة 4 / لون 4,Bitterness 3 / Body 4 / Flavor 4 / Aroma 4 / Color 4,غلي 12 دقيقة + نعناع طازج,Boil 12 min; add fresh mint.,المرتفعات الخضراء,مضادات أكسدة وطاقة، مشروب يجمع بين النكهات العشبية المشرقة والقوية.,,,,,,,,,,
+,,,,غلي,B-014,,Twfyr Thlathy,٥٠٪ برازيلي روبيستا + ٣٠٪ أوغندي + ٢٠٪ إندونيسي,50% Brazilian Robusta + 30% Ugandan + 20% Indonesian,,"Bold cup.
+Flavor profile: medium-full body.",مرارة 4 / قوام 4 / نكهة 3 / رائحة 3 / لون 3,Bitterness 4 / Body 4 / Flavor 3 / Aroma 3 / Color 3,غلي 15 دقيقة,Boil 15 min.,توفير ثلاثي,طاقة اقتصادية، مشروب قوي ومر بنكهة عشبية.,,,,,,,,,,
+,,,,غلي,B-015,,Smwthy Aldytwks,٦٠٪ حبشي لقميتي + ٤٠٪ فيتنامي,60% Ethiopian Lekemti + 40% Vietnamese,,"Bold cup.
+Flavor profile: light body.",مرارة 3 / قوام 2 / نكهة 4 / رائحة 4 / لون 3,Bitterness 3 / Body 2 / Flavor 4 / Aroma 4 / Color 3,غلي 8 دقائق + ليمون,Boil 8 min; add lemon.,سموثي الديتوكس,لتنقية الجسم، مشروب يجمع بين النكهات العشبية الخفيفة والقوية.,,,,,,,,,,
+,,,,غلي,B-016,,Sbah Alrwbwsta,٨٠٪ برازيلي روبيستا + ٢٠٪ هندي روبيستا,80% Brazilian Robusta + 20% Indian Robusta,,"Bold cup.
+Flavor profile: full body.",مرارة 5 / قوام 5 / نكهة 3 / رائحة 2 / لون 2,Bitterness 5 / Body 5 / Flavor 3 / Aroma 2 / Color 2,غلي 8 دقائق + قرفة,Boil 8 min; add cinnamon.,صباح الروبوستا,ليقظة صباحية قوية، مشروب قوي ومر جداً.,,,,,,,,,,
+,,,,غلي,B-017,,Rwbwsta Mzdwja,٥٠٪ فيتنامي + ٥٠٪ هندي روبيستا,50% Vietnamese + 50% Indian Robusta,,"Bold cup.
+Flavor profile: full body.",مرارة 5 / قوام 5 / نكهة 3 / رائحة 2 / لون 2,Bitterness 5 / Body 5 / Flavor 3 / Aroma 2 / Color 2,غلي 20 دقيقة + هيل,Boil 20 min; add cardamom.,روبوستا مزدوجة,لطاقة مضاعفة، مشروب قوي ومر جداً.,,,,,,,,,,
+,,,,غلي,B-018,,Altaqa Alkhdraء,٦٠٪ حبشي لقميتي + ٤٠٪ فيتنامي,60% Ethiopian Lekemti + 40% Vietnamese,,"Bold cup.
+Flavor profile: medium body.",مرارة 3 / قوام 3 / نكهة 4 / رائحة 4 / لون 3,Bitterness 3 / Body 3 / Flavor 4 / Aroma 4 / Color 3,غلي 10 دقائق + زنجبيل,Boil 10 min; add ginger.,الطاقة الخضراء,للحيوية والنشاط، مشروب يجمع بين النكهات العشبية الخفيفة والقوية.,,,,,,,,,,
+,,,,غلي,B-019,,Bharat Alhnd,٧٠٪ هندي مايسور + ٣٠٪ هندي أرابيكا,70% Indian Mysore + 30% Indian Arabica,,"Signature cup.
+Flavor profile: medium-full body.",مرارة 4 / قوام 4 / نكهة 4 / رائحة 4 / لون 4,Bitterness 4 / Body 4 / Flavor 4 / Aroma 4 / Color 4,غلي 18 دقيقة + قرنفل,Boil 18 min; add clove.,بهارات الهند,لدعم الهضم، مشروب بنكهات عشبية ترابية معقدة.,,,,,,,,,,
+,,,,غلي,B-020,,أWghnda Alkhalsa,١٠٠٪ أوغندي,100% Ugandan,,"Bold cup.
+Flavor profile: medium-full body.",مرارة 3 / قوام 4 / نكهة 4 / رائحة 3 / لون 3,Bitterness 3 / Body 4 / Flavor 4 / Aroma 3 / Color 3,غلي 12 دقيقة + سكر بني,Boil 12 min; add brown sugar.,أوغندا الخالصة,لطاقة متوازنة، مشروب قوي بنكهة عشبية كلاسيكية.,,,,,,,,,,
+,,,,غلي,B-021,,Santws Almghly,١٠٠٪ برازيلي سانتوس,100% Brazilian Santos,,"Signature cup.
+Flavor profile: medium-full body.",مرارة 2 / قوام 4 / نكهة 4 / رائحة 4 / لون 4,Bitterness 2 / Body 4 / Flavor 4 / Aroma 4 / Color 4,غلي 15 دقيقة,Boil 15 min.,سانتوس المغلي,لصحة القلب والمزاج، مشروب بنكهة عشبية كلاسيكية متوازنة.,,,,,,,,,,
+,,,,غلي,B-022,,Byrw Almghly,١٠٠٪ بيرو,100% Peru,,"Signature cup.
+Flavor profile: medium-full body.",مرارة 2 / قوام 4 / نكهة 5 / رائحة 4 / لون 5,Bitterness 2 / Body 4 / Flavor 5 / Aroma 4 / Color 5,غلي 12 دقيقة,Boil 12 min.,بيرو المغلي,مضاد للالتهابات، مشروب بنكهة عشبية نقية وحمضية لطيفة.,,,,,,,,,,
+,,,,فرنش برس,FP-SIG-01,الديوان,Aldywan,٦٠٪ يمني + ٣٠٪ حبشي + ١٠٪ كولومبي,60% Yemeni + 30% Ethiopian + 10% Colombian,فنجان فاخر يليق بالخبراء، غني بالنكهات المعقدة ورائحة التوابل الشرقية العطرية.,"Luxurious cup.
+Flavor profile: balanced acidity; full body.",وضوح 3 / حمضية 3 / عطرية 5 / تعقيد 5 / قوام 5,Clarity 3 / Acidity 3 / Fragrance 5 / Complexity 5 / Body 5,نقع 5 دقائق، ماء 89°م,Steep; 5 min; water 89°C.,,,,,,,,,,,,
+,,,,فرنش برس,FP-SIG-01,الديوان,Aldywan,٦٠٪ يمني + ٣٠٪ حبشي + ١٠٪ كولومبي,60% Yemeni + 30% Ethiopian + 10% Colombian,فنجان فاخر يليق بالخبراء، غني بالنكهات المعقدة ورائحة التوابل الشرقية العطرية.,"Luxurious cup.
+Flavor profile: balanced acidity; full body.",وضوح 3 / حمضية 3 / عطرية 5 / تعقيد 5 / قوام 5,Clarity 3 / Acidity 3 / Fragrance 5 / Complexity 5 / Body 5,نقع 5 دقائق، ماء 89°م,Steep; 5 min; water 89°C.,,,,,,,,,,,,
+,,,,فرنش برس,FP-SIG-02,كريما الذهب,Crema Alihb,٧٠٪ برازيلي + ٢٠٪ بيرو + ١٠٪ هندي روبيستا,70% Brazilian + 20% Peru + 10% Indian Robusta,كوب كريمي ومتوازن، يمنحك نكهة المكسرات المحمصة المحببة وقوامًا غنيًا.,"Signature cup.
+Flavor profile: low acidity; full body.",وضوح 2 / حمضية 2 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 2 / Acidity 2 / Fragrance 4 / Complexity 4 / Body 5,نقع 4 دقائق، ماء 94°م,Steep; 4 min; water 94°C.,,,,,,,,,,,,
+,,,,فرنش برس,FP-SIG-02,كريما الذهب,Crema Alihb,٧٠٪ برازيلي + ٢٠٪ بيرو + ١٠٪ هندي روبيستا,70% Brazilian + 20% Peru + 10% Indian Robusta,كوب كريمي ومتوازن، يمنحك نكهة المكسرات المحمصة المحببة وقوامًا غنيًا.,"Signature cup.
+Flavor profile: low acidity; full body.",وضوح 2 / حمضية 2 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 2 / Acidity 2 / Fragrance 4 / Complexity 4 / Body 5,نقع 4 دقائق، ماء 94°م,Steep; 4 min; water 94°C.,,,,,,,,,,,,
+,,,,فرنش برس,FP01,توليفتي™ كلاسيكو,Tawlifti Classico,٧٠٪ برازيلي + ٣٠٪ هندي روبيستا,70% Brazilian + 30% Indian Robusta,كوب كلاسيكي بقوام كريمي غني، يمنحك نكهة الكراميل الحلوة التي تحبها.,"Signature cup.
+Flavor profile: caramel; low acidity; full body.",وضوح 2 / حمضية 2 / عطرية 3 / تعقيد 3 / قوام 5,Clarity 2 / Acidity 2 / Fragrance 3 / Complexity 3 / Body 5,نقع 4 دقائق، ماء 95°م، تقليب,Steep; 4 min; water 95°C; stir.,,,,,,,,,,,,
+,,,,فرنش برس,FP02,توليفتي™ سوبر كريما,Tawlifti Super Crema,٦٠٪ كولومبي + ٤٠٪ أوغندي,60% Colombian + 40% Ugandan,فنجان يتميز برغوته الكثيفة ونكهة الخبز المحمص الدافئة، مثالي لبداية اليوم.,"Signature cup.
+Flavor profile: balanced acidity; full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 3 / قوام 5,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 3 / Body 5,نقع 3:45 د، تقليب مزدوج,Steep; 3:45 min; double stir.,,,,,,,,,,,,
+,,,,فرنش برس,FP03,أصل سيدامو,Origin Sidamo,١٠٠٪ حبشي هراري,100% Ethiopian Harrar,تجربة إثيوبية عطرية، كأنك في حقل من الزهور البرية مع حمضية الليمون المنعشة.,"Refreshing cup.
+Flavor profile: floral; high acidity; light body.",وضوح 3 / حمضية 5 / عطرية 5 / تعقيد 4 / قوام 2,Clarity 3 / Acidity 5 / Fragrance 5 / Complexity 4 / Body 2,نقع 4 دقائق، ماء 90°م,Steep; 4 min; water 90°C.,,,,,,,,,,,,
+,,,,فرنش برس,FP04,أنتيغوا برس,Antigua Press,١٠٠٪ جواتيمالا,100% Guatemala,كوب غني ومريح، يجمع بين حلاوة الكرز الأسود ونعومة العسل الصافي.,"Comforting cup.
+Flavor profile: honey; balanced acidity; full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 4 / Body 5,نقع 5 دقائق، ماء 93°م,Steep; 5 min; water 93°C.,,,,,,,,,,,,
+,,,,فرنش برس,FP05,كوستاريكا تارازو,Costa Rica Tarrazu,٨٠٪ كوستا ريكي + ٢٠٪ بيرو,80% Costa Rican + 20% Peru,فنجان متوازن، يجمع بين حمضية التفاح الأخضر المنعشة ودفء جوزة الطيب.,"Comforting cup.
+Flavor profile: apple; bright acidity; medium-full body.",وضوح 4 / حمضية 4 / عطرية 4 / تعقيد 3 / قوام 4,Clarity 4 / Acidity 4 / Fragrance 4 / Complexity 3 / Body 4,نقع 4:30 د، تقليب أولي,Steep; 4:30 min; initial stir.,,,,,,,,,,,,
+,,,,فرنش برس,FP06,موكا اليمن,Mocha Alymn,١٠٠٪ يمني خولاني,100% Yemeni Khawlani,رحلة إلى اليمن، كوب غني بحلاوة التمر وعمق الكاكاو الخام الأصيل.,"A journey in a cup.
+Flavor profile: cocoa, date; low acidity; full body.",وضوح 2 / حمضية 2 / عطرية 5 / تعقيد 5 / قوام 5,Clarity 2 / Acidity 2 / Fragrance 5 / Complexity 5 / Body 5,نقع 5 دقائق، ماء 88°م,Steep; 5 min; water 88°C.,,,,,,,,,,,,
+,,,,فرنش برس,FP07,كينيا AA برس,Kynya Aa Press,١٠٠٪ كينا AAA,100% Kenya AAA,تجربة كينية جريئة، تتميز بحمضية الفواكه الحمراء اللاذعة ولمسة دافئة من التوابل.,"Signature cup.
+Flavor profile: high acidity; medium-full body.",وضوح 4 / حمضية 5 / عطرية 4 / تعقيد 5 / قوام 4,Clarity 4 / Acidity 5 / Fragrance 4 / Complexity 5 / Body 4,نقع 4 دقائق، ماء 92°م,Steep; 4 min; water 92°C.,,,,,,,,,,,,
+,,,,فرنش برس,FP08,سيرادو البرازيل,Cerrado Albrazyl,١٠٠٪ برازيلي سانتوس,100% Brazilian Santos,فنجان برازيلي أصيل، يجمع بين نكهة البندق المحمص وحلاوة السكر البني الدافئة.,"Signature cup.
+Flavor profile: hazelnut; low acidity; full body.",وضوح 3 / حمضية 2 / عطرية 3 / تعقيد 2 / قوام 5,Clarity 3 / Acidity 2 / Fragrance 3 / Complexity 2 / Body 5,نقع 4:30 د، ماء 94°م,Steep; 4:30 min; water 94°C.,,,,,,,,,,,,
+,,,,فرنش برس,FP09,بيرو أورجانيك,Byrw أWrjanyk,١٠٠٪ بيرو,100% Peru,كوب عضوي ممتع، يجمع بين حلاوة الكراميل المملح ونكهات الفواكه الاستوائية المنعشة.,"Refreshing cup.
+Flavor profile: caramel; bright acidity; medium-full body.",وضوح 4 / حمضية 4 / عطرية 3 / تعقيد 3 / قوام 4,Clarity 4 / Acidity 4 / Fragrance 3 / Complexity 3 / Body 4,نقع 4 دقائق، ماء 91°م,Steep; 4 min; water 91°C.,,,,,,,,,,,,
+,,,,فرنش برس,FP10,مانديلينج إندونيسيا,Mandheling إNdwnysya,٥٥٪ هندي مايسور + ٤٥٪ إندونيسي,55% Indian Mysore + 45% Indonesian,تجربة غنية وعميقة، تجمع بين رائحة خشب الصندل الفاخرة وحلاوة التوت الأسود.,"Luxurious cup.
+Flavor profile: berry; low acidity; full body.",وضوح 2 / حمضية 2 / عطرية 4 / تعقيد 4.5 / قوام 5,Clarity 2 / Acidity 2 / Fragrance 4 / Complexity 4.5 / Body 5,نقع 5 دقائق، ماء 95°م,Steep; 5 min; water 95°C.,,,,,,,,,,,,
+,,,,فرنش برس,FP11,دا لات فيتنام,Da Lat Fytnam,٧٠٪ فيتنامي + ٣٠٪ برازيلي,70% Vietnamese + 30% Brazilian,لمحبي القهوة القوية، كوب كلاسيكي بنكهة القهوة السوداء الصريحة ولمسة خشبية أصيلة.,"Bold cup.
+Flavor profile: very low acidity; full body.",وضوح 1 / حمضية 1 / عطرية 3 / تعقيد 2 / قوام 5,Clarity 1 / Acidity 1 / Fragrance 3 / Complexity 2 / Body 5,نقع 4:30 د، تقليب مكثّف,Steep; 4:30 min; vigorous stir.,,,,,,,,,,,,
+,,,,فرنش برس,FP12,أوغندا سيك,أWghnda Syk,٥٥٪ أوغندي + ٤٥٪ حبشي لقميتي,55% Ugandan + 45% Ethiopian Lekemti,فنجان قوي ودافئ، يجمع بين عمق الكاكاو ولمسة حارة من الفلفل الأسود.,"Bold cup.
+Flavor profile: cocoa; low acidity; full body.",وضوح 2 / حمضية 2.5 / عطرية 3.5 / تعقيد 3 / قوام 5,Clarity 2 / Acidity 2.5 / Fragrance 3.5 / Complexity 3 / Body 5,نقع 4 دقائق، ماء 93°م,Steep; 4 min; water 93°C.,,,,,,,,,,,,
+,,,,فرنش برس,FP13,هويلا كولومبيا,Huila Colombia,١٠٠٪ كولومبي,100% Colombian,كوب كولومبي مشرق، يجمع بين حمضية البرتقال المنعشة وحلاوة قصب السكر الطبيعية.,"Refreshing cup.
+Flavor profile: bright acidity; medium body.",وضوح 4 / حمضية 4 / عطرية 4 / تعقيد 3 / قوام 3,Clarity 4 / Acidity 4 / Fragrance 4 / Complexity 3 / Body 3,نقع 4 دقائق، ماء 92°م,Steep; 4 min; water 92°C.,,,,,,,,,,,,
+,,,,فرنش برس,FP14,كونا هاواي,Kwna Hawaii,٦٠٪ برازيلي + ٤٠٪ كوستا ريكي,60% Brazilian + 40% Costa Rican,إحساس استوائي دافئ، يجمع بين نعومة الفانيليا وحلاوة الأناناس المنعشة.,"Refreshing cup.
+Flavor profile: pineapple, vanilla; low acidity; full body.",وضوح 3 / حمضية 2.5 / عطرية 4 / تعقيد 4 / قوام 5.5,Clarity 3 / Acidity 2.5 / Fragrance 4 / Complexity 4 / Body 5.5,نقع 5 دقائق، ماء 91°م,Steep; 5 min; water 91°C.,,,,,,,,,,,,
+,,,,فرنش برس,FP15,مونسونيد الهند,Mwnswnyd Alhnd,٨٠٪ هندي أرابيكا + ٢٠٪ هندي روبيستا,80% Indian Arabica + 20% Indian Robusta,تجربة هندية فريدة، تجمع بين دفء التوابل العطرية وحلاوة التمر الهندي اللاذعة.,"Comforting cup.
+Flavor profile: date; low acidity; medium-full body.",وضوح 2 / حمضية 2 / عطرية 4 / تعقيد 5 / قوام 4,Clarity 2 / Acidity 2 / Fragrance 4 / Complexity 5 / Body 4,نقع 4:30 د، ماء 94°م,Steep; 4:30 min; water 94°C.,,,,,,,,,,,,
+,,,,فرنش برس,FP16,ألتورا المكسيك,أLtwra Almksyk,٦٠٪ بيرو + ٤٠٪ جواتيمالا,60% Peru + 40% Guatemala,كوب مريح ودافئ، يجمع بين حلاوة الفول السوداني المحمص ودفء القرفة العطرية.,"Comforting cup.
+Flavor profile: cinnamon; balanced acidity; medium-full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 4 / قوام 4,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 4 / Body 4,نقع 4 دقائق، ماء 92°م,Steep; 4 min; water 92°C.,,,,,,,,,,,,
+,,,,فرنش برس,FP17,روبوستا إنتنسو,Rwbwsta إNtnsw,٦٠٪ برازيلي روبيستا + ٤٠٪ فيتنامي,60% Brazilian Robusta + 40% Vietnamese,قوة مركزة، كوب بنكهة دخانية كلاسيكية وحلاوة الكراميل المحروق الداكن.,"Signature cup.
+Flavor profile: caramel; very low acidity; full body.",وضوح 1 / حمضية 1 / عطرية 3 / تعقيد 2.5 / قوام 5,Clarity 1 / Acidity 1 / Fragrance 3 / Complexity 2.5 / Body 5,نقع 4 دقائق، ماء 96°م,Steep; 4 min; water 96°C.,,,,,,,,,,,,
+,,,,فرنش برس,FP18,توفي كولومبيا,Twfy Colombia,١٠٠٪ كولومبي (فاتح),100% Colombian (فاتح),فنجان رقيق ومريح كالشاي، يجمع بين نكهات الأعشاب العطرية وحلاوة العسل الصافي.,"Comforting cup.
+Flavor profile: honey; bright acidity; medium body.",وضوح 5 / حمضية 4 / عطرية 4 / تعقيد 3 / قوام 3,Clarity 5 / Acidity 4 / Fragrance 4 / Complexity 3 / Body 3,نقع 3:30 د، ماء 89°م,Steep; 3:30 min; water 89°C.,,,,,,,,,,,,
+,,,,فرنش برس,FP19,لواك ستايل,Lwak Stayl,٥٠٪ إندونيسي + ٥٠٪ هندي مايسور,50% Indonesian + 50% Indian Mysore,تجربة كلاسيكية غنية، تجمع بين حلاوة التمر الداكنة وعمق النكهات الترابية الأصيلة.,"Signature cup.
+Flavor profile: date; very low acidity; full body.",وضوح 2 / حمضية 1 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 2 / Acidity 1 / Fragrance 4 / Complexity 4 / Body 5,نقع 5 دقائق، ماء 90°م,Steep; 5 min; water 90°C.,,,,,,,,,,,,
+,,,,فرنش برس,FP20,أفريكان بلند,أFrykan Blnd,٤٠٪ كيني + ٣٠٪ أوغندي + ٣٠٪ حبشي,40% Kenyan + 30% Ugandan + 30% Ethiopian,مزيج أفريقي معقد، يجمع بين حلاوة التين الداكنة ولمسة أنيقة من التوابل الحلوة.,"Signature cup.
+Flavor profile: high acidity; medium-full body.",وضوح 5 / حمضية 5 / عطرية 5 / تعقيد 5 / قوام 4,Clarity 5 / Acidity 5 / Fragrance 5 / Complexity 5 / Body 4,نقع 4:30 د، تقليب مكثّف,Steep; 4:30 min; vigorous stir.,,,,,,,,,,,,
+,,,,كاليتا,KW01,توليفتي™ غواتيمالا,Tawlifti Ghwatymala,١٠٠٪ بن جواتيمالا,100% بن Guatemala,فنجان متوازن وقوام ممتلئ، يجمع بين حلاوة الكرز ونعومة شوكولاتة الحليب.,"Signature cup.
+Flavor profile: chocolate; balanced acidity; full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 4 / Body 5,صب حلزوني بسرعة ثابتة,Spiral pour,,,,,,,,,,,,
+,,,,كاليتا,KW02,توليفتي™ برازيل,Tawlifti Brazyl,١٠٠٪ بن برازيلي سانتوس,100% بن Brazilian Santos,كوب كلاسيكي غني، بنكهة البندق المحمص والكراميل الحلو وقوام كريمي.,"Signature cup.
+Flavor profile: caramel, hazelnut; low acidity; full body.",وضوح 3 / حمضية 2 / عطرية 3 / تعقيد 2 / قوام 5,Clarity 3 / Acidity 2 / Fragrance 3 / Complexity 2 / Body 5,3 صبات متساوية,3 equal pours,,,,,,,,,,,,
+,,,,كاليتا,KW03,توليفتي™ إثيوبيا كاليتا,Tawlifti Ethiopia Kalita,١٠٠٪ بن حبشي هراري,100% بن Ethiopian Harrar,تجربة إثيوبية عطرية، تفوح منها رائحة الياسمين مع حمضية الليمون المنعشة وقوام متوازن.,"Refreshing cup.
+Flavor profile: jasmine; high acidity; medium body.",وضوح 5 / حمضية 5 / عطرية 5 / تعقيد 4 / قوام 3,Clarity 5 / Acidity 5 / Fragrance 5 / Complexity 4 / Body 3,صب دائري بطيء جداً,Circular pour (very slow),,,,,,,,,,,,
+,,,,كاليتا,KW04,كوستاريكا كريمي,Costa Rica Krymy,١٠٠٪ بن كوستا ريكي,100% بن Costa Rican,فنجان حلو وكريمي، يجمع بين حلاوة العسل الصافي ونعومة الفانيليا الدافئة.,"Signature cup.
+Flavor profile: honey, vanilla; bright acidity; medium-full body.",وضوح 4 / حمضية 4 / عطرية 4 / تعقيد 3 / قوام 4,Clarity 4 / Acidity 4 / Fragrance 4 / Complexity 3 / Body 4,صب مزدوج (40%+60%),Double pour; split 40%+60%,,,,,,,,,,,,
+,,,,كاليتا,KW05,موكا ديب,Mocha Dyb,١٠٠٪ بن يمني خولاني,100% بن Yemeni Khawlani,كوب يمني عميق وغني، يجمع حلاوة التمر مع مرارة الكاكاو الخام المحببة.,"Signature cup.
+Flavor profile: cocoa, date; low acidity; full body.",وضوح 2 / حمضية 2 / عطرية 5 / تعقيد 5 / قوام 5,Clarity 2 / Acidity 2 / Fragrance 5 / Complexity 5 / Body 5,ماء 88°م + صب طبقي,Layered pour; water 88°C,,,,,,,,,,,,
+,,,,كاليتا,KW06,كينيا برايت,Kynya Bright,١٠٠٪ كينا AAA,100% Kenya AAA,فنجان كيني جريء، يجمع بين حمضية العنب الأسود اللاذعة مع لمسة دافئة من التوابل.,"Bold cup.
+Flavor profile: high acidity; medium-full body.",وضوح 4 / حمضية 5 / عطرية 4 / تعقيد 5 / قوام 4,Clarity 4 / Acidity 5 / Fragrance 4 / Complexity 5 / Body 4,صب سريع متكرر,fast,,,,,,,,,,,,
+,,,,كاليتا,KW07,بيرو هاي ألتيتيود,Byrw Hay أLtytywd,١٠٠٪ بن بيرو,100% بن Peru,كوب حلو وناعم، يجمع بين حلاوة فاكهة الكمثرى ونعومة الشوكولاتة البيضاء.,"Signature cup.
+Flavor profile: chocolate; bright acidity; medium-full body.",وضوح 4 / حمضية 4 / عطرية 3 / تعقيد 3 / قوام 4,Clarity 4 / Acidity 4 / Fragrance 3 / Complexity 3 / Body 4,صب حلزوني مكثف,Spiral pour (intense),,,,,,,,,,,,
+,,,,كاليتا,KW08,مانديلينج كريمي,Mandheling Krymy,٧٠٪ هندي مايسور + ٣٠٪ إندونيسي,70% Indian Mysore + 30% Indonesian,تجربة غنية وقوام كريمي، تجمع بين حلاوة التوت الداكن وعمق رائحة خشب الصندل الفاخرة.,"Luxurious cup.
+Flavor profile: berry; low acidity; full body.",وضوح 2 / حمضية 2 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 2 / Acidity 2 / Fragrance 4 / Complexity 4 / Body 5,صب بطيء على مراحل,slow,,,,,,,,,,,,
+,,,,كاليتا,KW09,دا لات بولدر,Da Lat Bwldr,٨٠٪ فيتنامي + ٢٠٪ برازيلي,80% Vietnamese + 20% Brazilian,لمحبي القهوة القوية، فنجان جريء بنكهة خشب الأرز والكراميل المحروق وقوام ثقيل.,"Bold cup.
+Flavor profile: caramel; very low acidity; full body.",وضوح 1 / حمضية 1 / عطرية 3 / تعقيد 2 / قوام 5,Clarity 1 / Acidity 1 / Fragrance 3 / Complexity 2 / Body 5,ماء 94°م,water 94°C,,,,,,,,,,,,
+,,,,كاليتا,KW10,أوغندا شوكولاتي,أWghnda Shwkwlaty,٦٠٪ أوغندي + ٤٠٪ كولومبي,60% Ugandan + 40% Colombian,كوب غني بنكهة الشوكولاتة، يجمع بين عمق الكاكاو ولمسة دافئة من الفلفل الأسود.,"Signature cup.
+Flavor profile: chocolate, cocoa; low acidity; full body.",وضوح 2 / حمضية 2 / عطرية 3 / تعقيد 3 / قوام 5,Clarity 2 / Acidity 2 / Fragrance 3 / Complexity 3 / Body 5,صب دائري,Circular pour,,,,,,,,,,,,
+,,,,كاليتا,KW11,هويلا سويت,Huila Sweet,١٠٠٪ بن كولومبي,100% بن Colombian,فنجان كولومبي متوازن وحلو، يجمع بين نكهة التفاح الأحمر المنعشة وحلاوة العسل الصافي.,"Refreshing cup.
+Flavor profile: honey, apple; bright acidity; medium-full body.",وضوح 4 / حمضية 4 / عطرية 4 / تعقيد 3 / قوام 4,Clarity 4 / Acidity 4 / Fragrance 4 / Complexity 3 / Body 4,صب حلزوني سريع,Spiral pour (fast),,,,,,,,,,,,
+,,,,كاليتا,KW12,كونا كريم,Kwna Cream,٦٠٪ برازيلي + ٤٠٪ كوستا ريكي,60% Brazilian + 40% Costa Rican,كوب استوائي كريمي، يجمع بين حلاوة الأناناس المنعشة ونعومة الفانيليا الدافئة.,"Refreshing cup.
+Flavor profile: pineapple, vanilla; balanced acidity; full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 4 / Body 5,صب مزدوج بفواصل,Double pour,,,,,,,,,,,,
+,,,,كاليتا,KW13,سيدامو كلير,Sidamo Klyr,١٠٠٪ حبشي لقميتي,100% Ethiopian Lekemti,فنجان إثيوبي نقي ومشرق، يجمع بين حمضية البرتقال ولمسة الزنجبيل المنعشة.,"Refreshing cup.
+Flavor profile: high acidity; medium body.",وضوح 5 / حمضية 5 / عطرية 5 / تعقيد 4 / قوام 3,Clarity 5 / Acidity 5 / Fragrance 5 / Complexity 4 / Body 3,ماء 89°م + صب دائري,Circular pour; water 89°C,,,,,,,,,,,,
+,,,,كاليتا,KW14,مونسونيد إكسترا,Mwnswnyd إKstra,٨٥٪ هندي أرابيكا + ١٥٪ هندي روبيستا,85% Indian Arabica + 15% Indian Robusta,رحلة إلى الهند، فنجان غني بنكهات التوابل الدافئة وحلاوة التمر الهندي اللاذعة.,"A journey in a cup.
+Flavor profile: date; balanced acidity; medium-full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 5 / قوام 4,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 5 / Body 4,صب مركز,Center pour,,,,,,,,,,,,
+,,,,كاليتا,KW15,ألتورا سموث,أLtwra Smwth,٥٠٪ بيرو + ٥٠٪ جواتيمالا,50% Peru + 50% Guatemala,كوب مريح ودافئ، يجمع بين حلاوة الفول السوداني المحمص ودفء القرفة العطرية.,"Comforting cup.
+Flavor profile: cinnamon; balanced acidity; full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 4 / Body 5,إضافة عود قرفة,"add cinnamon stick, cinnamon",,,,,,,,,,,,
+,,,,كاليتا,KW16,روبوستا كريم,Rwbwsta Cream,٦٠٪ برازيلي روبيستا + ٤٠٪ فيتنامي,60% Brazilian Robusta + 40% Vietnamese,قوة ومتعة في فنجان واحد، يجمع بين النكهة الدخانية الكلاسيكية وحلاوة الكراميل الداكن.,"Signature cup.
+Flavor profile: caramel; very low acidity; full body.",وضوح 1 / حمضية 1 / عطرية 3 / تعقيد 2 / قوام 5,Clarity 1 / Acidity 1 / Fragrance 3 / Complexity 2 / Body 5,ماء 92°م,water 92°C,,,,,,,,,,,,
+,,,,كاليتا,KW17,توفي كولومبيا بالانس,Twfy Colombia Balance,١٠٠٪ كولومبي (فاتح),100% Colombian (فاتح),فنجان رقيق ومريح كالشاي، يجمع بين نكهات الأعشاب العطرية وحلاوة العسل الصافي.,"Comforting cup.
+Flavor profile: honey; bright acidity; medium body.",وضوح 5 / حمضية 4 / عطرية 4 / تعقيد 3 / قوام 3,Clarity 5 / Acidity 4 / Fragrance 4 / Complexity 3 / Body 3,صب بطيء على 4 مراحل,slow,,,,,,,,,,,,
+,,,,كاليتا,KW18,كاليتا شوكولاتة برتقالية,Kalita Shwkwlata Brtqalya,٤٠٪ كولومبي + ٤٠٪ يمني + ٢٠٪ برازيلي,40% Colombian + 40% Yemeni + 20% Brazilian,مزيج فاخر، يجمع بين عمق الكاكاو وحمضية البرتقال المنعشة مع لمسة دافئة من جوزة الطيب.,"Luxurious cup.
+Flavor profile: cocoa; balanced acidity; medium-full body.",وضوح 4 / حمضية 3 / عطرية 5 / تعقيد 5 / قوام 4,Clarity 4 / Acidity 3 / Fragrance 5 / Complexity 5 / Body 4,رش قشر برتقال مجفف,"add orange peel, dried orange peel",,,,,,,,,,,,
+,,,,كاليتا,KW19,أفريكان تويست,أFrykan Twyst,٣٠٪ كيني + ٤٠٪ حبشي + ٣٠٪ أوغندي,30% Kenyan + 40% Ethiopian + 30% Ugandan,احتفال أفريقي، يجمع بين حلاوة التوت ولمسة أنيقة من التوابل الحلوة في فنجان معقد.,"Signature cup.
+Flavor profile: berry; high acidity; medium-full body.",وضوح 5 / حمضية 5 / عطرية 5 / تعقيد 5 / قوام 4,Clarity 5 / Acidity 5 / Fragrance 5 / Complexity 5 / Body 4,صب دائري مكثف,Circular pour (intense),,,,,,,,,,,,
+,,,,كاليتا,KW20,كاليتا توازن ذهبي,Kalita Twazn Ihby,٥٠٪ كوستا ريكي + ٣٠٪ بيرو + ٢٠٪ جواتيمالا,50% Costa Rican + 30% Peru + 20% Guatemala,توازن مثالي، يجمع بين حلاوة الخوخ الصيفي ونعومة الفانيليا في كوب متناغم وفاخر.,"Luxurious cup.
+Flavor profile: peach, vanilla; bright acidity; full body.",وضوح 4 / حمضية 4 / عطرية 5 / تعقيد 5 / قوام 5,Clarity 4 / Acidity 4 / Fragrance 5 / Complexity 5 / Body 5,صب حلزوني بسرعة منخفضة,Spiral pour,,,,,,,,,,,,
+,,,,كاليتا,KW21,كاليتا كينيا AA,Kalita Kynya Aa,١٠٠٪ كينا AAA,100% Kenya AAA,تجربة كينية أصيلة، تتميز بحمضية العنب الأسود المشرقة وقوام غني وممتلئ.,"Signature cup.
+Flavor profile: high acidity; medium-full body.",وضوح 4 / حمضية 5 / عطرية 4 / تعقيد 5 / قوام 4,Clarity 4 / Acidity 5 / Fragrance 4 / Complexity 5 / Body 4,صب متقطع,Pulse pour,,,,,,,,,,,,
+,,,,كاليتا,KW22,كاليتا هويلا سويت,Kalita Huila Sweet,١٠٠٪ بن كولومبي,100% بن Colombian,فنجان حلو ومتوازن، يجمع بين نكهة التفاح الأحمر المنعشة وحلاوة السكر البني الدافئة.,"Refreshing cup.
+Flavor profile: apple; bright acidity; medium-full body.",وضوح 4 / حمضية 4 / عطرية 4 / تعقيد 4 / قوام 4,Clarity 4 / Acidity 4 / Fragrance 4 / Complexity 4 / Body 4,صب حلزوني,Spiral pour,,,,,,,,,,,,
+,,,,كولد برو,CB-SIG-01,ليالي القاهرة,Lyaly Alqahra,٧٠٪ كولومبي + ٢٠٪ يمني + هيل,70% Colombian + 20% Yemeni + هيل,سهرة في القاهرة، مشروب بارد ناعم بنكهة الشوكولاتة ولمسة دافئة من الهيل.,"Signature cup.
+Flavor profile: chocolate, cardamom; low acidity; full body.",وضوح 4 / حمضية 2 / عطرية 5 / تعقيد 4 / قوام 5,Clarity 4 / Acidity 2 / Fragrance 5 / Complexity 4 / Body 5,نقع 16 ساعة,Cold steep; 16 hrs.,,,,,,,,,,,,
+,,,,كولد برو,CB-SIG-02,نسمة صيف,Nsma Syf,٨٠٪ حبشي لقميتي + ٢٠٪ كوستا ريكي,80% Ethiopian Lekemti + 20% Costa Rican,نسمة صيف منعشة، مشروب بارد يجمع بين رائحة الزهور وحمضية الفواكه المنعشة.,"Refreshing cup.
+Flavor profile: floral; balanced acidity; medium body.",وضوح 5 / حمضية 3 / عطرية 5 / تعقيد 4 / قوام 3,Clarity 5 / Acidity 3 / Fragrance 5 / Complexity 4 / Body 3,نقع 20 ساعة,Cold steep; 20 hrs.,,,,,,,,,,,,
+,,,,كولد برو,CB01,توليفتي™ إثيوبيا كولد,Tawlifti Ethiopia Cold,١٠٠٪ حبشي هراري,100% Ethiopian Harrar,مشروب بارد نقي وعطري، يجمع بين رائحة الياسمين الفواحة وحمضية الليمون المنعشة.,"Refreshing cup.
+Flavor profile: jasmine; low acidity; medium body.",وضوح 5 / حمضية 2 / عطرية 5 / تعقيد 4 / قوام 3,Clarity 5 / Acidity 2 / Fragrance 5 / Complexity 4 / Body 3,نقع 18 ساعة، ماء 5°م,Cold steep; 18 hrs; water 5°C.,,,,,,,,,,,,
+,,,,كولد برو,CB02,توليفتي™ كينيا كولد,Tawlifti Kynya Cold,١٠٠٪ كينا AAA,100% Kenya AAA,مشروب كيني بارد وجريء، يجمع بين حمضية العنب الأسود اللاذعة ولمسة من التوابل الوردية.,"Bold cup.
+Flavor profile: balanced acidity; medium-full body.",وضوح 4 / حمضية 3 / عطرية 4 / تعقيد 5 / قوام 4,Clarity 4 / Acidity 3 / Fragrance 4 / Complexity 5 / Body 4,نقع 24 ساعة، تحريك أولي,Cold steep; 24 hrs; initial stir.,,,,,,,,,,,,
+,,,,كولد برو,CB03,توليفتي™ كولومبيا كولد,Tawlifti Colombia Cold,٧٠٪ كولومبي + ٣٠٪ برازيلي,70% Colombian + 30% Brazilian,مشروب بارد ومتوازن، يجمع بين حلاوة التفاح الأخضر ونعومة العسل الصافي.,"Signature cup.
+Flavor profile: honey, apple; low acidity; full body.",وضوح 4 / حمضية 2 / عطرية 3 / تعقيد 3 / قوام 5,Clarity 4 / Acidity 2 / Fragrance 3 / Complexity 3 / Body 5,نقع 12 ساعة، ماء 4°م,Cold steep; 12 hrs; water 4°C.,,,,,,,,,,,,
+,,,,كولد برو,CB04,توليفتي™ كوستاريكا كولد,Tawlifti Costa Rica Cold,١٠٠٪ كوستا ريكي,100% Costa Rican,كوب بارد وحلو، يجمع بين حلاوة عسل الأكاسيا ونكهة الخوخ الصيفي المنعشة.,"Refreshing cup.
+Flavor profile: honey, peach; low acidity; full body.",وضوح 3 / حمضية 2 / عطرية 4 / تعقيد 3 / قوام 5,Clarity 3 / Acidity 2 / Fragrance 4 / Complexity 3 / Body 5,نقع 20 ساعة,Cold steep; 20 hrs.,,,,,,,,,,,,
+,,,,كولد برو,CB05,موكا آيسد,Mocha آYsd,١٠٠٪ يمني خولاني + هيل,100% Yemeni Khawlani + هيل,تجربة يمنية باردة، تجمع بين عمق الكاكاو الخام وحلاوة التمر مع لمسة فاخرة من الهيل.,"Luxurious cup.
+Flavor profile: cocoa, cardamom, date; very low acidity; full body.",وضوح 2 / حمضية 1 / عطرية 5 / تعقيد 5 / قوام 5,Clarity 2 / Acidity 1 / Fragrance 5 / Complexity 5 / Body 5,نقع 18 ساعة + ½ ملعقة هيل,Cold steep; 18 hrs; add 1/2 tsp cardamom.,,,,,,,,,,,,
+,,,,كولد برو,CB06,أنتيغوا آيس,Antigua آYs,١٠٠٪ جواتيمالا,100% Guatemala,مشروب بارد وغني، يجمع بين حلاوة الكرز الداكن وعمق الشوكولاتة الفاخرة.,"Luxurious cup.
+Flavor profile: chocolate; low acidity; full body.",وضوح 3 / حمضية 2 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 3 / Acidity 2 / Fragrance 4 / Complexity 4 / Body 5,نقع 16 ساعة,Cold steep; 16 hrs.,,,,,,,,,,,,
+,,,,كولد برو,CB07,بيرو العضوي كولد,Byrw Aladwy Cold,١٠٠٪ بيرو,100% Peru,كوب عضوي بارد ومنعش، يجمع بين حلاوة الأناناس الاستوائية وحلاوة قصب السكر الطبيعية.,"Refreshing cup.
+Flavor profile: pineapple; balanced acidity; medium-full body.",وضوح 4 / حمضية 3 / عطرية 3 / تعقيد 3 / قوام 4,Clarity 4 / Acidity 3 / Fragrance 3 / Complexity 3 / Body 4,نقع 14 ساعة,Cold steep; 14 hrs.,,,,,,,,,,,,
+,,,,كولد برو,CB08,مانديلينج آيس,Mandheling آYs,٦٠٪ هندي مايسور + ٤٠٪ إندونيسي,60% Indian Mysore + 40% Indonesian,مشروب بارد غني وعميق، يجمع بين حلاوة توت العليق والنكهات الترابية الأصيلة.,"Signature cup.
+Flavor profile: berry; very low acidity; full body.",وضوح 2 / حمضية 1 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 2 / Acidity 1 / Fragrance 4 / Complexity 4 / Body 5,نقع 24 ساعة,Cold steep; 24 hrs.,,,,,,,,,,,,
+,,,,كولد برو,CB09,دا لات آيسد,Da Lat آYsd,٨٠٪ فيتنامي + ٢٠٪ برازيلي,80% Vietnamese + 20% Brazilian,مشروب بارد وقوي، بنكهة الكراميل المحروق وحلاوة جوز الهند.,"Bold cup.
+Flavor profile: caramel; very low acidity; full body.",وضوح 1 / حمضية 1 / عطرية 3 / تعقيد 2 / قوام 5,Clarity 1 / Acidity 1 / Fragrance 3 / Complexity 2 / Body 5,نقع 18 ساعة,Cold steep; 18 hrs.,,,,,,,,,,,,
+,,,,كولد برو,CB10,أفريكان كولد,أFrykan Cold,٥٠٪ كيني + ٥٠٪ حبشي لقميتي,50% Kenyan + 50% Ethiopian Lekemti,احتفال أفريقي بارد، يجمع بين حمضية اليوسفي المنعشة ولمسة الزنجبيل الحارة.,"Refreshing cup.
+Flavor profile: bright acidity; medium body.",وضوح 5 / حمضية 4 / عطرية 5 / تعقيد 5 / قوام 3,Clarity 5 / Acidity 4 / Fragrance 5 / Complexity 5 / Body 3,نقع 20 ساعة + قشر برتقال,Cold steep; 20 hrs; add orange peel.,,,,,,,,,,,,
+,,,,كولد برو,CB11,سيرادو كولد,Cerrado Cold,٩٠٪ برازيلي + ١٠٪ كولومبي,90% Brazilian + 10% Colombian,مشروب برازيلي كلاسيكي بارد، يجمع بين نكهة البندق المحمص وحلاوة الكراميل.,"Signature cup.
+Flavor profile: caramel, hazelnut; low acidity; full body.",وضوح 3 / حمضية 2 / عطرية 3.5 / تعقيد 2.5 / قوام 5,Clarity 3 / Acidity 2 / Fragrance 3.5 / Complexity 2.5 / Body 5,نقع 16 ساعة,Cold steep; 16 hrs.,,,,,,,,,,,,
+,,,,كولد برو,CB12,كونا آيسد,Kwna آYsd,٧٠٪ برازيلي + ٣٠٪ كوستا ريكي,70% Brazilian + 30% Costa Rican,تجربة استوائية باردة، تجمع بين نعومة الفانيليا وحلاوة الأناناس المنعشة.,"Refreshing cup.
+Flavor profile: pineapple, vanilla; balanced acidity; full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 4 / Body 5,نقع 14 ساعة,Cold steep; 14 hrs.,,,,,,,,,,,,
+,,,,كولد برو,CB13,أوغندا روبوستا آيس,أWghnda Rwbwsta آYs,١٠٠٪ أوغندي,100% Ugandan,مشروب قوي ومركز، بنكهة الكاكاو المر واللمسة الدخانية الكلاسيكية.,"Bold cup.
+Flavor profile: cocoa; very low acidity; full body.",وضوح 1 / حمضية 1 / عطرية 2 / تعقيد 1 / قوام 5,Clarity 1 / Acidity 1 / Fragrance 2 / Complexity 1 / Body 5,نقع 12 ساعة,Cold steep; 12 hrs.,,,,,,,,,,,,
+,,,,كولد برو,CB14,كولومبيا بالعسل,Colombia Balasl,١٠٠٪ كولومبي + عسل,100% Colombian + عسل,حلاوة مضاعفة، يجمع بين نكهة التفاح الأحمر وحلاوة عسل الأوكالبتوس الطبيعي.,"Signature cup.
+Flavor profile: honey, apple; low acidity; medium-full body.",وضوح 4 / حمضية 2 / عطرية 5 / تعقيد 4 / قوام 4,Clarity 4 / Acidity 2 / Fragrance 5 / Complexity 4 / Body 4,نقع 18 ساعة + عسل عند التقديم,Cold steep; 18 hrs; add honey at serve.,,,,,,,,,,,,
+,,,,كولد برو,CB15,سيدامو آيس,Sidamo آYs,١٠٠٪ حبشي لقميتي,100% Ethiopian Lekemti,مشروب إثيوبي بارد ونقي، يجمع بين حمضية البرتقال ونعومة الشاي الأخضر.,"Signature cup.
+Flavor profile: balanced acidity; light body.",وضوح 5 / حمضية 3 / عطرية 5 / تعقيد 4 / قوام 2,Clarity 5 / Acidity 3 / Fragrance 5 / Complexity 4 / Body 2,نقع 16 ساعة,Cold steep; 16 hrs.,,,,,,,,,,,,
+,,,,كولد برو,CB16,مونسونيد آيسد,Mwnswnyd آYsd,٨٠٪ هندي أرابيكا + ٢٠٪ هندي روبيستا,80% Indian Arabica + 20% Indian Robusta,مشروب هندي فريد، يجمع بين دفء التوابل الذهبية وحلاوة التمر الهندي اللاذعة.,"Comforting cup.
+Flavor profile: date; very low acidity; medium-full body.",وضوح 2 / حمضية 1 / عطرية 4 / تعقيد 5 / قوام 4,Clarity 2 / Acidity 1 / Fragrance 4 / Complexity 5 / Body 4,نقع 24 ساعة,Cold steep; 24 hrs.,,,,,,,,,,,,
+,,,,كولد برو,CB17,ألتورا كولد,أLtwra Cold,٥٥٪ بيرو + ٤٥٪ جواتيمالا,55% Peru + 45% Guatemala,مشروب بارد ومريح، يجمع بين حلاوة الفول السوداني المحمص ودفء القرفة العطرية.,"Comforting cup.
+Flavor profile: cinnamon; low acidity; full body.",وضوح 3 / حمضية 2 / عطرية 4 / تعقيد 4 / قوام 5.5,Clarity 3 / Acidity 2 / Fragrance 4 / Complexity 4 / Body 5.5,نقع 18 ساعة + عود قرفة,Cold steep; 18 hrs; add cinnamon.,,,,,,,,,,,,
+,,,,كولد برو,CB18,روبوستا آيسد,Rwbwsta آYsd,٥٥٪ برازيلي روبيستا + ٤٥٪ فيتنامي,55% Brazilian Robusta + 45% Vietnamese,قوة مركزة، مشروب بارد بنكهة الكراميل الأسود وعمق الكاكاو الخام.,"Signature cup.
+Flavor profile: caramel, cocoa; very low acidity; full body.",وضوح 1 / حمضية 1 / عطرية 3 / تعقيد 2.2 / قوام 5,Clarity 1 / Acidity 1 / Fragrance 3 / Complexity 2.2 / Body 5,نقع 12 ساعة,Cold steep; 12 hrs.,,,,,,,,,,,,
+,,,,كولد برو,CB19,توفي إثيوبيا كولد,Twfy Ethiopia Cold,٩٠٪ حبشي هراري + ١٠٪ كولومبي,90% Ethiopian Harrar + 10% Colombian,مشروب بارد فاخر، يجمع بين عطرية الشاي الفاخر وحمضية التوت البري المنعشة.,"Luxurious cup.
+Flavor profile: berry; low acidity; medium-full body.",وضوح 5 / حمضية 2 / عطرية 5 / تعقيد 4.5 / قوام 3.5,Clarity 5 / Acidity 2 / Fragrance 5 / Complexity 4.5 / Body 3.5,نقع 20 ساعة,Cold steep; 20 hrs.,,,,,,,,,,,,
+,,,,كولد برو,CB20,أرابيان آيسد,أRabyan آYsd,٤٠٪ يمني + ٣٠٪ حبشي + ٣٠٪ كولومبي,40% Yemeni + 30% Ethiopian + 30% Colombian,ليالٍ عربية باردة، يجمع بين حلاوة التمر الفاخرة ولمسة من الزعفران والهيل.,"Luxurious cup.
+Flavor profile: saffron, cardamom, date; balanced acidity; medium-full body.",وضوح 4 / حمضية 3 / عطرية 5 / تعقيد 5 / قوام 4,Clarity 4 / Acidity 3 / Fragrance 5 / Complexity 5 / Body 4,نقع 18 ساعة + هيل,Cold steep; 18 hrs; add cardamom.,,,,,,,,,,,,
+,,,,كيمكس,CM01,توليفتي™ إثيوبيا كيمكس,Tawlifti Ethiopia Chemex,١٠٠٪ حبشي هراري,100% Ethiopian Harrar,كوب نقي وصافٍ كالشاي، تفوح منه رائحة الياسمين العطرية مع حمضية الليمون المنعشة.,"Refreshing cup.
+Flavor profile: jasmine; high acidity; light body.",وضوح 5 / حمضية 5 / عطرية 5 / تعقيد 4 / قوام 2,Clarity 5 / Acidity 5 / Fragrance 5 / Complexity 4 / Body 2,4 صبات متدرجة,4 staged pours; Staged pour,,,,,,,,,,,,
+,,,,كيمكس,CM02,توليفتي™ كينيا كيمكس,Tawlifti Kynya Chemex,١٠٠٪ كينيا AAA,100% Kenya AAA,تجربة كينية جريئة ونقية، تتميز بحمضية الفواكه اللاذعة مع لمسة عطرية من التوابل الوردية الرقيقة.,"Signature cup.
+Flavor profile: high acidity; medium body.",وضوح 4 / حمضية 5 / عطرية 4 / تعقيد 5 / قوام 3,Clarity 4 / Acidity 5 / Fragrance 4 / Complexity 5 / Body 3,صب حلزوني بطيء,Spiral pour (slow),,,,,,,,,,,,
+,,,,كيمكس,CM03,توليفتي™ كولومبيا كيمكس,Tawlifti Colombia Chemex,٧٠٪ كولومبي + ٣٠٪ برازيلي,70% Colombian + 30% Brazilian,فنجان متوازن ومثالي، يجمع بين حلاوة التفاح الأخضر ونعومة العسل الصافي.,"Signature cup.
+Flavor profile: honey, apple; balanced acidity; medium-full body.",وضوح 4 / حمضية 3 / عطرية 3 / تعقيد 3 / قوام 4,Clarity 4 / Acidity 3 / Fragrance 3 / Complexity 3 / Body 4,3 صبات متساوية,3 equal pours,,,,,,,,,,,,
+,,,,كيمكس,CM04,توليفتي™ كوستاريكا كيمكس,Tawlifti Costa Rica Chemex,١٠٠٪ كوستا ريكي,100% Costa Rican,كوب صافٍ وحلو، يجمع بين حلاوة العسل الذهبي ونكهة الخوخ الصيفي المنعشة.,"Refreshing cup.
+Flavor profile: honey, peach; bright acidity; medium body.",وضوح 3 / حمضية 4 / عطرية 4 / تعقيد 3 / قوام 3,Clarity 3 / Acidity 4 / Fragrance 4 / Complexity 3 / Body 3,صب دائري مكثف,Circular pour (intense),,,,,,,,,,,,
+,,,,كيمكس,CM05,موكا كلاسيك,Mocha Classic,١٠٠٪ يمني خولاني,100% Yemeni Khawlani,رحلة إلى اليمن في فنجان، بنكهة الكاكاو الأصيلة وحمضية التوت البري في كوب صافٍ ونقي.,"A journey in a cup.
+Flavor profile: cocoa, berry; low acidity; medium-full body.",وضوح 2 / حمضية 2 / عطرية 5 / تعقيد 5 / قوام 4,Clarity 2 / Acidity 2 / Fragrance 5 / Complexity 5 / Body 4,ماء 90°م + صب طبقات,Layered pour; water 90°C,,,,,,,,,,,,
+,,,,كيمكس,CM06,أنتيغوا بريميوم,Antigua Brymywm,١٠٠٪ جواتيمالا,100% Guatemala,فنجان فاخر ونقي، يبرز نكهة الكرز الأسود الحلو مع عمق الشوكولاتة الداكنة.,"Luxurious cup.
+Flavor profile: chocolate; balanced acidity; full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 4 / Body 5,صب مزدوج (30%+70%),Double pour; split 30%+70%,,,,,,,,,,,,
+,,,,كيمكس,CM07,بيرو العضوية,Byrw Aladwya,١٠٠٪ بن بيرو,100% بن Peru,كوب عضوي منعش، يجمع بين حلاوة الأناناس الاستوائية وحلاوة قصب السكر الطبيعية.,"Refreshing cup.
+Flavor profile: pineapple; bright acidity; medium body.",وضوح 4 / حمضية 4 / عطرية 3 / تعقيد 3 / قوام 3,Clarity 4 / Acidity 4 / Fragrance 3 / Complexity 3 / Body 3,صب دائري سريع,Circular pour (fast),,,,,,,,,,,,
+,,,,كيمكس,CM08,مانديلينج كيمكس,Mandheling Chemex,٦٠٪ هندي مايسور + ٤٠٪ إندونيسي,60% Indian Mysore + 40% Indonesian,تجربة ترابية غنية، تجمع بين حلاوة التوت الأسود وعمق النكهات الأصيلة في كوب صافٍ.,"Signature cup.
+Flavor profile: berry; low acidity; full body.",وضوح 2 / حمضية 2 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 2 / Acidity 2 / Fragrance 4 / Complexity 4 / Body 5,صب مركز + تقليب,Center pour,,,,,,,,,,,,
+,,,,كيمكس,CM09,دا لات ريزرف,Da Lat Ryzrf,٨٠٪ فيتنامي + ٢٠٪ برازيلي,80% Vietnamese + 20% Brazilian,فنجان قوي ونقي، بنكهة خشب الأرز والكراميل الداكن، مثالي لمحبي القهوة الكلاسيكية.,"Bold cup.
+Flavor profile: caramel; very low acidity; full body.",وضوح 1 / حمضية 1 / عطرية 3 / تعقيد 2 / قوام 5,Clarity 1 / Acidity 1 / Fragrance 3 / Complexity 2 / Body 5,ماء 95°م,water 95°C,,,,,,,,,,,,
+,,,,كيمكس,CM10,أفريكان بلند كيمكس,أFrykan Blnd Chemex,٥٠٪ كينيا AAA + ٥٠٪ حبشي لقميتي,50% Kenya AAA + 50% Ethiopian Lekemti,احتفال بالنكهات الأفريقية، يجمع بين حمضية اليوسفي المنعشة ولمسة الزنجبيل الحارة في كوب نقي.,"Refreshing cup.
+Flavor profile: high acidity; medium body.",وضوح 5 / حمضية 5 / عطرية 5 / تعقيد 5 / قوام 3,Clarity 5 / Acidity 5 / Fragrance 5 / Complexity 5 / Body 3,إضافة قشر برتقال,add orange peel,,,,,,,,,,,,
+,,,,كيمكس,CM11,سيرادو سويتال,Cerrado Swytal,١٠٠٪ برازيلي سانتوس,100% Brazilian Santos,كوب برازيلي صافٍ وحلو، يبرز نكهة البندق المحمص والكراميل الذهبي.,"Signature cup.
+Flavor profile: caramel, hazelnut; low acidity; medium-full body.",وضوح 3 / حمضية 2 / عطرية 3 / تعقيد 2 / قوام 4,Clarity 3 / Acidity 2 / Fragrance 3 / Complexity 2 / Body 4,صب حلزوني,Spiral pour,,,,,,,,,,,,
+,,,,كيمكس,CM12,كونا الذهبي,Kwna Alihby,٧٠٪ برازيلي + ٣٠٪ كوستا ريكي,70% Brazilian + 30% Costa Rican,فنجان استوائي نقي، يجمع بين حلاوة الفانيليا ونكهة الأناناس المنعشة.,"Refreshing cup.
+Flavor profile: pineapple, vanilla; balanced acidity; medium-full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 3 / قوام 4,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 3 / Body 4,صب دائري بطيء,Circular pour (slow),,,,,,,,,,,,
+,,,,كيمكس,CM13,أوغندا فلات,أWghnda Flat,١٠٠٪ بن أوغندي,100% بن Ugandan,كوب قوي وصريح، بنكهة الكاكاو المر واللمسة الدخانية الكلاسيكية.,"Bold cup.
+Flavor profile: cocoa; very low acidity; full body.",وضوح 1 / حمضية 1 / عطرية 2 / تعقيد 1 / قوام 5,Clarity 1 / Acidity 1 / Fragrance 2 / Complexity 1 / Body 5,4 صبات بفواصل,4 pours,,,,,,,,,,,,
+,,,,كيمكس,CM14,هويلا ميدل,Huila Mydl,١٠٠٪ بن كولومبي,100% بن Colombian,فنجان كولومبي متوازن، يجمع بين حلاوة التفاح الأحمر والعسل الصافي في كوب نقي.,"Signature cup.
+Flavor profile: honey, apple; bright acidity; medium body.",وضوح 4 / حمضية 4 / عطرية 4 / تعقيد 3 / قوام 3,Clarity 4 / Acidity 4 / Fragrance 4 / Complexity 3 / Body 3,صب سريع متكرر,fast,,,,,,,,,,,,
+,,,,كيمكس,CM15,سيدامو أروماتيك,Sidamo أRwmatyk,١٠٠٪ حبشي لقميتي,100% Ethiopian Lekemti,عطر فاخر في فنجانك، يجمع بين حمضية البرتقال ولمسة الزنجبيل المنعشة.,"Luxurious cup.
+Flavor profile: high acidity; light body.",وضوح 5 / حمضية 5 / عطرية 5 / تعقيد 4 / قوام 2,Clarity 5 / Acidity 5 / Fragrance 5 / Complexity 4 / Body 2,ماء 89°م,water 89°C,,,,,,,,,,,,
+,,,,كيمكس,CM16,مونسونيد سبيشل,Mwnswnyd Sbyshl,٨٠٪ هندي أرابيكا + ٢٠٪ هندي روبيستا,80% Indian Arabica + 20% Indian Robusta,تجربة هندية فريدة، تجمع بين دفء التوابل الذهبية وحلاوة التمر الهندي اللاذعة.,"Comforting cup.
+Flavor profile: date; low acidity; medium-full body.",وضوح 2 / حمضية 2 / عطرية 4 / تعقيد 5 / قوام 4,Clarity 2 / Acidity 2 / Fragrance 4 / Complexity 5 / Body 4,صب حلزوني مكثف,Spiral pour (intense),,,,,,,,,,,,
+,,,,كيمكس,CM17,ألتورا بالانس,أLtwra Balance,٦٠٪ بيرو + ٤٠٪ جواتيمالا,60% Peru + 40% Guatemala,كوب متوازن ومريح، يجمع بين حلاوة الفول السوداني المحمص ودفء القرفة.,"Comforting cup.
+Flavor profile: cinnamon; balanced acidity; medium-full body.",وضوح 3 / حمضية 3 / عطرية 4 / تعقيد 4 / قوام 4,Clarity 3 / Acidity 3 / Fragrance 4 / Complexity 4 / Body 4,إضافة عود قرفة,"add cinnamon stick, cinnamon",,,,,,,,,,,,
+,,,,كيمكس,CM18,روبوستا إسبرسو بلند,Rwbwsta إSbrsw Blnd,٥٠٪ برازيلي روبيستا + ٥٠٪ فيتنامي,50% Brazilian Robusta + 50% Vietnamese,قوة الإسبريسو في كوب فلتر، بنكهة الكراميل الأسود والكاكاو الخام.,"Signature cup.
+Flavor profile: caramel, cocoa; very low acidity; full body.",وضوح 1 / حمضية 1 / عطرية 3 / تعقيد 2 / قوام 5,Clarity 1 / Acidity 1 / Fragrance 3 / Complexity 2 / Body 5,ماء 96°م,water 96°C,,,,,,,,,,,,
+,,,,كيمكس,CM19,توفي إثيوبيا زهري,Twfy Ethiopia Zhry,١٠٠٪ بن حبشي هراري,100% بن Ethiopian Harrar,فنجان شاعري، يجمع بين عطرية الشاي الفاخر وحمضية التوت البري مع لمسة رقيقة من الزهور.,"Luxurious cup.
+Flavor profile: berry, floral; high acidity; light body.",وضوح 5 / حمضية 5 / عطرية 5 / تعقيد 4 / قوام 2,Clarity 5 / Acidity 5 / Fragrance 5 / Complexity 4 / Body 2,إضافة وردة مجففة,add rose,,,,,,,,,,,,
+,,,,كيمكس,CM20,كيمكس شوكولاتة برتقالية,Chemex Shwkwlata Brtqalya,٥٠٪ كولومبي + ٣٠٪ يمني + ٢٠٪ كيني,50% Colombian + 30% Yemeni + 20% Kenyan,مزيج فاخر ومبتكر، يجمع بين عمق الكاكاو وحمضية البرتقال المنعشة في كوب واحد.,"Luxurious cup.
+Flavor profile: cocoa; bright acidity; medium-full body.",وضوح 4 / حمضية 4 / عطرية 5 / تعقيد 5 / قوام 4,Clarity 4 / Acidity 4 / Fragrance 5 / Complexity 5 / Body 4,رش قشر برتقال فوق المرشح,"add orange peel, orange peel on filter",,,,,,,,,,,,
+,,,,كيمكس,CM21,كيمكس غواتيمالا,Chemex Ghwatymala,١٠٠٪ بن جواتيمالا,100% بن Guatemala,كوب نقي جداً، يبرز نكهة الشوكولاتة الداكنة الفاخرة مع حلاوة الكرز الحلو.,"Luxurious cup.
+Flavor profile: chocolate; balanced acidity; full body.",وضوح 5 / حمضية 3 / عطرية 4 / تعقيد 4 / قوام 5,Clarity 5 / Acidity 3 / Fragrance 4 / Complexity 4 / Body 5,صب مزدوج,Double pour,,,,,,,,,,,,
+,,,,كيمكس,CM22,كيمكس كنوز اليمن,Chemex Knwz Alymn,١٠٠٪ بن يمني خولاني,100% بن Yemeni Khawlani,كنز من النكهات في فنجان، يجمع حلاوة الفواكه المجففة مع تعقيد التوابل الشرقية الفاخرة.,"Luxurious cup.
+Flavor profile: balanced acidity; medium-full body.",وضوح 4 / حمضية 3 / عطرية 5 / تعقيد 5 / قوام 4,Clarity 4 / Acidity 3 / Fragrance 5 / Complexity 5 / Body 4,صب طبقات,Layered pour,,,,,,,,,,,,
+,,,,نقع بارد,CS-001,,أFrykan Frwt,٧٠٪ كينيا AAA + ٣٠٪ حبشي لقميتي,70% Kenya AAA + 30% Ethiopian Lekemti,,"Refreshing cup.
+Flavor profile: medium body.",مرارة 2 / قوام 3 / نكهة 5 / رائحة 5 / لون 5,Bitterness 2 / Body 3 / Flavor 5 / Aroma 5 / Color 5,نقع 24 ساعة في الثلاجة,Cold soak 24 hrs refrigerated.,أفريكان فروت,مشروب صحي غني بمضادات الأكسدة، بنكهة فاكهية طبيعية ولمسة عشبية منعشة.,,,,,,,,,,
+,,,,نقع بارد,CS-002,,Latynw Fakhr,٦٠٪ كولومبي + ٤٠٪ كوستا ريكي,60% Colombian + 40% Costa Rican,,"Signature cup.
+Flavor profile: medium body.",مرارة 2 / قوام 3 / نكهة 5 / رائحة 5 / لون 4,Bitterness 2 / Body 3 / Flavor 5 / Aroma 5 / Color 4,نقع 18 ساعة + قشر برتقال,Cold soak 18 hrs; add orange peel.,لاتينو فاخر,عزز مزاجك بمشروب صحي، يجمع بين النكهات العشبية اللطيفة مع لمسة حمضية خفيفة.,,,,,,,,,,
+,,,,نقع بارد,CS-003,,Jryn Bwst,٤٠٪ حبشي لقميتي + ٦٠٪ كولومبي,40% Ethiopian Lekemti + 60% Colombian,,"Signature cup.
+Flavor profile: medium body.",مرارة 2 / قوام 3 / نكهة 4 / رائحة 5 / لون 4,Bitterness 2 / Body 3 / Flavor 4 / Aroma 5 / Color 4,نقع 36 ساعة لاستخلاص أقصى مضادات,Cold soak 36 hrs; max antioxidant extraction.,جرين بوست,جرعة من مضادات الأكسدة، بنكهة عشبية نقية وحمضية خفيفة.,,,,,,,,,,
+,,,,نقع بارد,CS-004,,Althlathy Almlky,٤٠٪ كولومبي + ٣٠٪ يمني + ٣٠٪ كيني,40% Colombian + 30% Yemeni + 30% Kenyan,,"Luxurious cup.
+Flavor profile: medium-full body.",مرارة 1 / قوام 4 / نكهة 5 / رائحة 5 / لون 5,Bitterness 1 / Body 4 / Flavor 5 / Aroma 5 / Color 5,نقع 48 ساعة + هيل مطحون,Cold soak 48 hrs; add ground cardamom.,الثلاثي الملكي,لدعم المناعة والطاقة، مشروب فاخر بنكهات عشبية معقدة ولمسة فاكهية.,,,,,,,,,,
+,,,,نقع بارد,CS-005,,Mocha Adn,٥٠٪ يمني + ٥٠٪ حبشي لقميتي,50% Yemeni + 50% Ethiopian Lekemti,,"Signature cup.
+Flavor profile: medium-full body.",مرارة 2 / قوام 4 / نكهة 5 / رائحة 5 / لون 5,Bitterness 2 / Body 4 / Flavor 5 / Aroma 5 / Color 5,نقع 72 ساعة في وعاء زجاجي,Cold soak 72 hrs in glass jar.,موكا عدن,لتركيز ذهني وعطري، مشروب بنكهة عشبية غنية مع لمحات فاكهية.,,,,,,,,,,
+,,,,نقع بارد,CS-006,,Nqaء Adwy,١٠٠٪ بيرو,100% Peru,,"Signature cup.
+Flavor profile: medium body.",مرارة 1 / قوام 3 / نكهة 5 / رائحة 5 / لون 5,Bitterness 1 / Body 3 / Flavor 5 / Aroma 5 / Color 5,نقع 12 ساعة بماء معدني,Cold soak 12 hrs in mineral water.,نقاء عضوي,لتنقية الجسم، مشروب عضوي نقي بنكهة عشبية لطيفة وحمضية ناعمة.,,,,,,,,,,
+,,,,نقع بارد,CS-007,,أFrw-آSywy,٥٠٪ كيني + ٥٠٪ فيتنامي,50% Kenyan + 50% Vietnamese,,"Bold cup.
+Flavor profile: medium-full body.",مرارة 4 / قوام 4 / نكهة 4 / رائحة 3 / لون 3,Bitterness 4 / Body 4 / Flavor 4 / Aroma 3 / Color 3,نقع 18 ساعة + كاكاو خام,Cold soak 18 hrs; add raw cacao.,أفرو-آسيوي,للطاقة والتركيز، مشروب قوي بنكهة عشبية جريئة ولمسة ترابية.,,,,,,,,,,
+,,,,نقع بارد,CS-008,,Super Jryn,٤٠٪ حبشي + ٤٠٪ كولومبي + ٢٠٪ بيرو,40% Ethiopian + 40% Colombian + 20% Peru,,"Signature cup.
+Flavor profile: medium body.",مرارة 2 / قوام 3 / نكهة 5 / رائحة 5 / لون 5,Bitterness 2 / Body 3 / Flavor 5 / Aroma 5 / Color 5,نقع 24 ساعة + بذور شيا,Cold soak 24 hrs; add chia seeds.,سوبر جرين,غني بالفيتامينات والمعادن، مشروب بنكهات عشبية متنوعة وحمضية لطيفة.,,,,,,,,,,
+,,,,نقع بارد,CS-009,,Krystal Colombia,١٠٠٪ كولومبي,100% Colombian,,"Signature cup.
+Flavor profile: medium body.",مرارة 2 / قوام 3 / نكهة 5 / رائحة 5 / لون 5,Bitterness 2 / Body 3 / Flavor 5 / Aroma 5 / Color 5,نقع 18 ساعة بماء فاتر,Cold soak 18 hrs in lukewarm water.,كريستال كولومبيا,للحيوية والنشاط، مشروب نقي بنكهة عشبية كلاسيكية وحمضية متوازنة.,,,,,,,,,,
+,,,,نقع بارد,CS-010,,Nqaء Costa Rica,١٠٠٪ كوستا ريكي,100% Costa Rican,,"Refreshing cup.
+Flavor profile: medium body.",مرارة 1 / قوام 3 / نكهة 5 / رائحة 5 / لون 5,Bitterness 1 / Body 3 / Flavor 5 / Aroma 5 / Color 5,نقع 24 ساعة + عود فانيليا,"Cold soak 24 hrs; add vanilla bean, vanilla.",نقاء كوستاريكا,مضاد للأكسدة ومنعش، مشروب نقي جداً بنكهة عشبية رقيقة وحمضية مشرقة.,,,,,,,,,,
+,,,,نقع بارد,CS-011,,Jbal AlأNdyz,٧٠٪ كوستا ريكي + ٣٠٪ كولومبي,70% Costa Rican + 30% Colombian,,"Signature cup.
+Flavor profile: medium body.",مرارة 2 / قوام 3 / نكهة 5 / رائحة 5 / لون 4,Bitterness 2 / Body 3 / Flavor 5 / Aroma 5 / Color 4,نقع 24 ساعة مع قرفة,Cold soak 24 hrs; add cinnamon.,جبال الأنديز,لطاقة متوازنة، مشروب يجمع بين النكهات العشبية المشرقة والناعمة.,,,,,,,,,,
+,,,,نقع بارد,CS-012,,Zhwr أFryqya,٦٠٪ حبشي لقميتي + ٤٠٪ كينيا AAA,60% Ethiopian Lekemti + 40% Kenya AAA,,"Signature cup.
+Flavor profile: medium body.",مرارة 1 / قوام 3 / نكهة 5 / رائحة 5 / لون 5,Bitterness 1 / Body 3 / Flavor 5 / Aroma 5 / Color 5,نقع 36 ساعة في وعاء خزفي,Cold soak 36 hrs in ceramic vessel.,زهور أفريقيا,لتعزيز المناعة، مشروب بنكهات عشبية وزهرية مع حمضية لطيفة.,,,,,,,,,,
+,,,,نقع بارد,CS-013,,Brysw Aljbal,٦٠٪ هندي أرابيكا + ٤٠٪ بيرو,60% Indian Arabica + 40% Peru,,"Signature cup.
+Flavor profile: medium-full body.",مرارة 3 / قوام 4 / نكهة 4 / رائحة 4 / لون 4,Bitterness 3 / Body 4 / Flavor 4 / Aroma 4 / Color 4,نقع 24 ساعة + ورد مجفف,Cold soak 24 hrs; add dried rose.,بريسو الجبال,للاسترخاء والتوازن، مشروب بنكهة عشبية مع لمسة ترابية خفيفة.,,,,,,,,,,
+,,,,نقع بارد,CS-014,,Hawaii Albkr,٧٠٪ كوستا ريكي + ٣٠٪ برازيلي,70% Costa Rican + 30% Brazilian,,"Refreshing cup.
+Flavor profile: medium-full body.",مرارة 2 / قوام 4 / نكهة 5 / رائحة 4 / لون 4,Bitterness 2 / Body 4 / Flavor 5 / Aroma 4 / Color 4,نقع 18 ساعة بماء الينابيع,Cold soak 18 hrs.,هاواي البكر,نكهة غنية ومنعشة، مشروب يجمع بين النكهات العشبية المشرقة والناعمة.,,,,,,,,,,
+,,,,نقع بارد,CS-015,,Alnsym AlآSywy,٥٠٪ فيتنامي + ٥٠٪ إندونيسي,50% Vietnamese + 50% Indonesian,,"Bold cup.
+Flavor profile: medium-full body.",مرارة 3 / قوام 4 / نكهة 4 / رائحة 3 / لون 3,Bitterness 3 / Body 4 / Flavor 4 / Aroma 3 / Color 3,نقع 24 ساعة + ليمون كفيري,"Cold soak 24 hrs; add kaffir lime, lemon.",النسيم الآسيوي,لطاقة مستدامة، مشروب قوي بنكهات عشبية جريئة ولمسة ترابية.,,,,,,,,,,
+,,,,نقع بارد,CS-016,,أTls Almtwst,٥٠٪ كولومبي + ٥٠٪ حبشي هراري,50% Colombian + 50% Ethiopian Harrar,,"Signature cup.
+Flavor profile: medium-full body.",مرارة 3 / قوام 4 / نكهة 4 / رائحة 4 / لون 4,Bitterness 3 / Body 4 / Flavor 4 / Aroma 4 / Color 4,نقع 36 ساعة بنسبة 1:12,Cold soak 36 hrs; ratio 1:12.,أطلس المتوسط,لتركيز ووضوح ذهني، مشروب يجمع بين النكهات العشبية والفاكهية.,,,,,,,,,,
+,,,,نقع بارد,CS-017,,Alghaba Alswdaء,٦٠٪ برازيلي + ٤٠٪ أوغندي,60% Brazilian + 40% Ugandan,,"Signature cup.
+Flavor profile: medium-full body.",مرارة 2 / قوام 4 / نكهة 4 / رائحة 3 / لون 3,Bitterness 2 / Body 4 / Flavor 4 / Aroma 3 / Color 3,نقع 24 ساعة + كرز مجفف,Cold soak 24 hrs; add dried cherries.,الغابة السوداء,للطاقة والقوة، مشروب بنكهات عشبية مع لمسة ترابية خفيفة.,,,,,,,,,,
+,,,,نقع بارد,CS-018,,Alharb AlإFryqy,٧٠٪ أوغندي + ٣٠٪ كينيا AAA,70% Ugandan + 30% Kenya AAA,,"Bold cup.
+Flavor profile: medium-full body.",مرارة 3 / قوام 4 / نكهة 4 / رائحة 4 / لون 4,Bitterness 3 / Body 4 / Flavor 4 / Aroma 4 / Color 4,نقع 18 ساعة بمياه غازية,Cold soak 18 hrs in sparkling water.,الهارب الإفريقي,لأداء بدني عالي، مشروب قوي بنكهات عشبية جريئة وحمضية لاذعة.,,,,,,,,,,
+,,,,نقع بارد,CS-019,,Basyfyk Blynz,٦٠٪ بيرو + ٤٠٪ كوستا ريكي,60% Peru + 40% Costa Rican,,"Signature cup.
+Flavor profile: medium body.",مرارة 2 / قوام 3 / نكهة 5 / رائحة 5 / لون 5,Bitterness 2 / Body 3 / Flavor 5 / Aroma 5 / Color 5,نقع 24 ساعة في إبريق زجاجي,Cold soak 24 hrs in glass pitcher.,باسيفيك بلينز,مضادات أكسدة عالية، مشروب نقي يجمع بين النكهات العشبية المشرقة والناعمة.,,,,,,,,,,
+,,,,نقع بارد,CS-020,,Alnda Alsbahy,٥٠٪ هندي مايسور + ٥٠٪ حبشي لقميتي,50% Indian Mysore + 50% Ethiopian Lekemti,,"Signature cup.
+Flavor profile: medium-full body.",مرارة 2 / قوام 4 / نكهة 5 / رائحة 5 / لون 5,Bitterness 2 / Body 4 / Flavor 5 / Aroma 5 / Color 5,نقع 48 ساعة مع عسل طبيعي,"Cold soak 48 hrs; add natural honey, honey.",الندى الصباحي,لحيوية البشرة والشعر، مشروب يجمع بين النكهات العشبية والترابية مع لمسة زهرية.,,,,,,,,,,
+,,,,نقع بارد,CS-021,,Origin Hrr (Kwld Brw),١٠٠٪ بن حبشي هراري,100% بن Ethiopian Harrar,,"Signature cup.
+Flavor profile: medium body.",مرارة 2 / قوام 3 / نكهة 5 / رائحة 5 / لون 5,Bitterness 2 / Body 3 / Flavor 5 / Aroma 5 / Color 5,نقع 20 ساعة,Cold soak 20 hrs.,أصل هرر (كولد برو),مضادات أكسدة فائقة، مشروب بنكهة عشبية فاكهية مميزة.,,,,,,,,,,
+,,,,نقع بارد,CS-022,,Colombia Alnqy (Kwld Brw),١٠٠٪ بن كولومبي,100% بن Colombian,,"Signature cup.
+Flavor profile: medium body.",مرارة 2 / قوام 3 / نكهة 5 / رائحة 5 / لون 4,Bitterness 2 / Body 3 / Flavor 5 / Aroma 5 / Color 4,نقع 18 ساعة,Cold soak 18 hrs.,كولومبيا النقي (كولد برو),لتوازن المزاج والطاقة، مشروب نقي بنكهة عشبية كلاسيكية.,,,,,,,,,,
+,,,,نقع ساخن,HS-001,,Aljsm Albrazyly,٥٠٪ برازيلي + ٥٠٪ أوغندي,50% Brazilian + 50% Ugandan,,"Bold cup.
+Flavor profile: medium-full body.",مرارة 2 / قوام 4 / نكهة 4 / رائحة 4 / لون 4,Bitterness 2 / Body 4 / Flavor 4 / Aroma 4 / Color 4,نقع 6 ساعات عند 85°م,Hot soak 6 hrs at 85°C.,الجسم البرازيلي,للطاقة والقوة، مشروب يجمع بين النكهات العشبية الكلاسيكية والقوية.,,,,,,,,,,
+,,,,نقع ساخن,HS-002,,Altkhsys Almtwazn,٥٠٪ برازيلي + ٥٠٪ كينيا AAA,50% Brazilian + 50% Kenya AAA,,"Signature cup.
+Flavor profile: medium body.",مرارة 3 / قوام 3 / نكهة 4 / رائحة 4 / لون 4,Bitterness 3 / Body 3 / Flavor 4 / Aroma 4 / Color 4,نقع 10 ساعات عند 80°م,Hot soak 10 hrs at 80°C.,التخسيس المتوازن,لحرق الدهون، مشروب يجمع بين النكهات العشبية الناعمة والمشرقة.,,,,,,,,,,
+,,,,نقع ساخن,HS-003,,Albrazyly Alnaam,١٠٠٪ برازيلي سانتوس,100% Brazilian Santos,,"Signature cup.
+Flavor profile: medium-full body.",مرارة 1 / قوام 4 / نكهة 4 / رائحة 4 / لون 4,Bitterness 1 / Body 4 / Flavor 4 / Aroma 4 / Color 4,نقع 8 ساعات + قشر ليمون,"Hot soak 8 hrs; add lemon peel, lemon.",البرازيلي الناعم,للاسترخاء، مشروب بنكهة عشبية كلاسيكية لطيفة جداً.,,,,,,,,,,
+,,,,نقع ساخن,HS-004,,Latyny Alastrkhaء,٧٠٪ كولومبي + ٣٠٪ برازيلي,70% Colombian + 30% Brazilian,,"Signature cup.
+Flavor profile: berry; medium body.",مرارة 2 / قوام 3 / نكهة 4 / رائحة 4 / لون 4,Bitterness 2 / Body 3 / Flavor 4 / Aroma 4 / Color 4,نقع 4 ساعات عند 75°م,Hot soak 4 hrs at 75°C.,لاتيني الاسترخاء,لتقليل التوتر، مشروب بنكهات عشبية ناعمة ومتوازنة.,,,,,,,,,,
+,,,,نقع ساخن,HS-005,,Mktby Alkhfyf,٧٠٪ برازيلي + ٣٠٪ أوغندي,70% Brazilian + 30% Ugandan,,"Signature cup.
+Flavor profile: medium body.",مرارة 2 / قوام 3 / نكهة 4 / رائحة 3 / لون 3,Bitterness 2 / Body 3 / Flavor 4 / Aroma 3 / Color 3,نقع 8 ساعات في ترمس,Hot soak 8 hrs in thermos.,مكتبي الخفيف,لتركيز هادئ، مشروب بنكهات عشبية كلاسيكية معتدلة.,,,,,,,,,,
+,,,,نقع ساخن,HS-006,,Mnaaa Thlathya,٤٠٪ حبشي + ٣٠٪ بيرو + ٣٠٪ كيني,40% Ethiopian + 30% Peru + 30% Kenyan,,"Signature cup.
+Flavor profile: medium-full body.",مرارة 3 / قوام 4 / نكهة 4 / رائحة 4 / لون 4,Bitterness 3 / Body 4 / Flavor 4 / Aroma 4 / Color 4,نقع 6 ساعات + زنجبيل طازج,"Hot soak 6 hrs; add fresh ginger, ginger.",مناعة ثلاثية,لدعم المناعة، مشروب بنكهات عشبية متنوعة تجمع بين الفاكهية والنقاء.,,,,,,,,,,
+,,,,نقع ساخن,HS-007,,Aqtsad Aljsm,٥٠٪ إندونيسي + ٥٠٪ برازيلي,50% Indonesian + 50% Brazilian,,"Signature cup.
+Flavor profile: medium-full body.",مرارة 3 / قوام 4 / نكهة 3 / رائحة 3 / لون 3,Bitterness 3 / Body 4 / Flavor 3 / Aroma 3 / Color 3,نقع 5 ساعات عند 70°م,Hot soak 5 hrs at 70°C.,اقتصاد الجسم,طاقة اقتصادية، مشروب يجمع بين النكهات العشبية الترابية والناعمة.,,,,,,,,,,
+,,,,نقع ساخن,HS-008,,Alhjyn Almtkaml,٣٠٪ برازيلي + ٤٠٪ كيني + ٣٠٪ حبشي,30% Brazilian + 40% Kenyan + 30% Ethiopian,,"Signature cup.
+Flavor profile: medium-full body.",مرارة 2 / قوام 4 / نكهة 5 / رائحة 4 / لون 4,Bitterness 2 / Body 4 / Flavor 5 / Aroma 4 / Color 4,نقع 8 ساعات + قرفة,Hot soak 8 hrs; add cinnamon.,الهجين المتكامل,مضادات أكسدة وطاقة، مشروب بنكهات عشبية متنوعة تجمع بين النقاء والفاكهية.,,,,,,,,,,
+,,,,نقع ساخن,HS-009,,Safana Alihbya,٥٠٪ أوغندي + ٥٠٪ كينيا AAA,50% Ugandan + 50% Kenya AAA,,"Bold cup.
+Flavor profile: medium-full body.",مرارة 3 / قوام 4 / نكهة 4 / رائحة 4 / لون 4,Bitterness 3 / Body 4 / Flavor 4 / Aroma 4 / Color 4,نقع 7 ساعات عند 80°م + هيل,Hot soak 7 hrs at 80°C; add cardamom.,سافانا الذهبية,للحيوية والنشاط، مشروب يجمع بين النكهات العشبية القوية والمشرقة.,,,,,,,,,,
+,,,,نقع ساخن,HS-010,,أNdyz Alatrya,٦٠٪ كولومبي + ٤٠٪ كوستا ريكي,60% Colombian + 40% Costa Rican,,"Signature cup.
+Flavor profile: medium body.",مرارة 2 / قوام 3 / نكهة 5 / رائحة 5 / لون 4,Bitterness 2 / Body 3 / Flavor 5 / Aroma 5 / Color 4,نقع 6 ساعات + فانيليا,Hot soak 6 hrs; add vanilla.,أنديز العطرية,لتحسين المزاج، مشروب بنكهات عشبية مشرقة وعطرية.,,,,,,,,,,
+,,,,نقع ساخن,HS-011,,Bhr Alkaryby,٧٠٪ برازيلي + ٣٠٪ كوستا ريكي,70% Brazilian + 30% Costa Rican,,"Signature cup.
+Flavor profile: medium-full body.",مرارة 2 / قوام 4 / نكهة 4 / رائحة 4 / لون 4,Bitterness 2 / Body 4 / Flavor 4 / Aroma 4 / Color 4,نقع 5 ساعات عند 75°م + جوزة الطيب,Hot soak 5 hrs at 75°C; add nutmeg.,بحر الكاريبي,للاسترخاء والإنعاش، مشروب يجمع بين النكهات العشبية الناعمة والمشرقة.,,,,,,,,,,
+,,,,نقع ساخن,HS-012,,Alghaba Almtyra,٥٠٪ بيرو + ٥٠٪ إندونيسي,50% Peru + 50% Indonesian,,"Signature cup.
+Flavor profile: medium-full body.",مرارة 3 / قوام 4 / نكهة 4 / رائحة 4 / لون 3,Bitterness 3 / Body 4 / Flavor 4 / Aroma 4 / Color 3,نقع 8 ساعات + كاكاو ني,Hot soak 8 hrs; add raw cacao.,الغابة المطيرة,مضاد للالتهابات، مشروب يجمع بين النكهات العشبية النقية والترابية.,,,,,,,,,,
+,,,,نقع ساخن,HS-013,,Alfydan AlآSywy,٦٠٪ فيتنامي + ٤٠٪ هندي روبيستا,60% Vietnamese + 40% Indian Robusta,,"Bold cup.
+Flavor profile: medium-full body.",مرارة 4 / قوام 4 / نكهة 3 / رائحة 3 / لون 3,Bitterness 4 / Body 4 / Flavor 3 / Aroma 3 / Color 3,نقع 6 ساعات + قرنفل,Hot soak 6 hrs; add clove.,الفيضان الآسيوي,لطاقة عالية، مشروب قوي ومر بنكهة عشبية جريئة.,,,,,,,,,,
+,,,,نقع ساخن,HS-014,,Shraء Altwabl,٦٠٪ هندي مايسور + ٤٠٪ يمني,60% Indian Mysore + 40% Yemeni,,"Signature cup.
+Flavor profile: medium-full body.",مرارة 3 / قوام 4 / نكهة 5 / رائحة 5 / لون 5,Bitterness 3 / Body 4 / Flavor 5 / Aroma 5 / Color 5,نقع 9 ساعات عند 85°م + هال,Hot soak 9 hrs at 85°C; add cardamom.,صحراء التوابل,لدعم الهضم، مشروب بنكهات عشبية ترابية وفاكهية معقدة.,,,,,,,,,,
+,,,,نقع ساخن,HS-015,,Jbl AlأWlymb,٥٠٪ حبشي هراري + ٥٠٪ كولومبي,50% Ethiopian Harrar + 50% Colombian,,"Signature cup.
+Flavor profile: medium-full body.",مرارة 3 / قوام 4 / نكهة 4 / رائحة 4 / لون 4,Bitterness 3 / Body 4 / Flavor 4 / Aroma 4 / Color 4,نقع 7 ساعات + عسل,Hot soak 7 hrs; add honey.,جبل الأوليمب,للطاقة والتركيز، مشروب يجمع بين النكهات العشبية الفاكهية والناعمة.,,,,,,,,,,
+,,,,نقع ساخن,HS-016,,Wady Alnyl,٦٠٪ حبشي لقميتي + ٤٠٪ أوغندي,60% Ethiopian Lekemti + 40% Ugandan,,"Bold cup.
+Flavor profile: medium body.",مرارة 2 / قوام 3 / نكهة 5 / رائحة 5 / لون 5,Bitterness 2 / Body 3 / Flavor 5 / Aroma 5 / Color 5,نقع 6 ساعات + تمر مجفف,Hot soak 6 hrs; add dried dates.,وادي النيل,غني بمضادات الأكسدة، مشروب يجمع بين النكهات العشبية الفاكهية والقوية.,,,,,,,,,,
+,,,,نقع ساخن,HS-017,,Almhyt Alhadئ,٦٠٪ كوستا ريكي + ٤٠٪ بيرو,60% Costa Rican + 40% Peru,,"Signature cup.
+Flavor profile: medium body.",مرارة 2 / قوام 3 / نكهة 5 / رائحة 5 / لون 5,Bitterness 2 / Body 3 / Flavor 5 / Aroma 5 / Color 5,نقع 8 ساعات + زهرات برتقال,Hot soak 8 hrs; add orange blossom.,المحيط الهادئ,لنضارة البشرة، مشروب بنكهات عشبية مشرقة ونقية.,,,,,,,,,,
+,,,,نقع ساخن,HS-018,,Alshwl Alkhdraء,٥٠٪ برازيلي + ٥٠٪ كولومبي,50% Brazilian + 50% Colombian,,"Signature cup.
+Flavor profile: medium-full body.",مرارة 3 / قوام 4 / نكهة 4 / رائحة 4 / لون 4,Bitterness 3 / Body 4 / Flavor 4 / Aroma 4 / Color 4,نقع 5 ساعات عند 80°م,Hot soak 5 hrs at 80°C.,السهول الخضراء,لطاقة متوازنة، مشروب بنكهات عشبية كلاسيكية متوازنة.,,,,,,,,,,
+,,,,نقع ساخن,HS-019,,Alghrwb AlأHmr,٤٠٪ يمني + ٦٠٪ كينيا AAA,40% Yemeni + 60% Kenya AAA,,"Signature cup.
+Flavor profile: medium-full body.",مرارة 2 / قوام 4 / نكهة 5 / رائحة 5 / لون 5,Bitterness 2 / Body 4 / Flavor 5 / Aroma 5 / Color 5,نقع 10 ساعات + قرفة,Hot soak 10 hrs; add cinnamon.,الغروب الأحمر,لصحة القلب، مشروب يجمع بين النكهات العشبية الفاكهية والمشرقة.,,,,,,,,,,
+,,,,نقع ساخن,HS-020,,Alnsr AlإFryqy,٧٠٪ كينيا AAA + ٣٠٪ أوغندي,70% Kenya AAA + 30% Ugandan,,"Bold cup.
+Flavor profile: medium-full body.",مرارة 3 / قوام 4 / نكهة 4 / رائحة 4 / لون 4,Bitterness 3 / Body 4 / Flavor 4 / Aroma 4 / Color 4,نقع 6 ساعات + ليمون مجفف,"Hot soak 6 hrs; add dried lemon, lemon.",النسر الإفريقي,لتعزيز الأداء الذهني، مشروب يجمع بين النكهات العشبية المشرقة والقوية.,,,,,,,,,,
+,,,,نقع ساخن,HS-021,,Kynya Alnqy (Nqa),١٠٠٪ كينا AAA,100% Kenya AAA,,"Bold cup.
+Flavor profile: medium body.",مرارة 2 / قوام 3 / نكهة 5 / رائحة 5 / لون 5,Bitterness 2 / Body 3 / Flavor 5 / Aroma 5 / Color 5,نقع 8 ساعات عند 80°م,Hot soak 8 hrs at 80°C.,كينيا النقي (نقع),لحرق الدهون ومضادات أكسدة، مشروب بنكهة عشبية مشرقة وقوية.,,,,,,,,,,
+,,,,نقع ساخن,HS-022,,Costa Rica Alnqy (Nqa),١٠٠٪ كوستا ريكي,100% Costa Rican,,"Signature cup.
+Flavor profile: medium body.",مرارة 1 / قوام 3 / نكهة 5 / رائحة 5 / لون 5,Bitterness 1 / Body 3 / Flavor 5 / Aroma 5 / Color 5,نقع 6 ساعات عند 75°م,Hot soak 6 hrs at 75°C.,كوستاريكا النقي (نقع),للإنعاش والتركيز، مشروب بنكهة عشبية مشرقة ونقية جداً.,,,,,,,,,,
+,,,,,ESP-01,ذهب روما,Gold Roma,40% برازيلي + 30% كولومبي + 30% روبوستا هندي,40% Brazilian + 30% Colombian + 30% روبوستا Indian,إسبريسو إيطالي كلاسيكي، بكريمة ذهبية غنية ونكهة تجمع بين الكاكاو والمكسرات مع لمسة دافئة من التوابل.,"Signature cup.
+Flavor profile: cocoa; full body.",كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 4 / كثافة 5,Crema 5 / Body 5 / Balance 4 / Aftertaste 4 / Intensity 5,,,,,4.0,Medium-Dark,,,,,,,,
+,,,,,ESP-02,نوار إنتنسو,Noir إNtnsw,50% برازيلي + 20% يمني + 30% روبوستا فيتنامي,50% Brazilian + 20% Yemeni + 30% روبوستا Vietnamese,إسبريسو قوي وعميق للخبراء، يجمع بين مرارة الكاكاو الداكنة وحلاوة التوت الأسود مع لمسة دخانية كلاسيكية.,"Bold cup.
+Flavor profile: cocoa, berry; full body.",كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 5 / كثافة 5,Crema 5 / Body 5 / Balance 4 / Aftertaste 5 / Intensity 5,,,,,5.0,Dark,,,,,,,,
+,,,,,ESP-03,كريما فيلفيت,Crema Velvet,60% جواتيمالا + 20% بيرو + 20% روبوستا أوغندي,60% Guatemala + 20% Peru + 20% روبوستا Ugandan,شوت إسبريسو ناعم ومخملي، يجمع بين حلاوة الكراميل والفواكه المجففة مع قوام كريمي يذوب في الفم.,"Signature cup.
+Flavor profile: caramel; medium-full body.",كريما 4 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4,,,,,3.0,Medium,,,,,,,,
+,,,,,ESP-04,نبض أفريقيا,Nbd أFryqya,70% كينيا AAA + 30% حبشي هراري,70% Kenya AAA + 30% Ethiopian Harrar,تجربة أفريقية مشرقة، شوت إسبريسو بحمضية التوت البري المنعشة ورائحة الزهور مع لمسة ليمونية لاذعة.,"Refreshing cup.
+Flavor profile: berry, floral; medium body.",كريما 3 / قوام 3 / توازن 5 / مذاق لاحق 4 / كثافة 3,Crema 3 / Body 3 / Balance 5 / Aftertaste 4 / Intensity 3,,,,,2.0,Light-Medium,,,,,,,,
+,,,,,ESP-05,حرير الأنديز,Hryr AlأNdyz,40% كولومبي + 40% بيرو + 20% هندي أرابيكا,40% Colombian + 40% Peru + 20% Indian Arabica,إسبريسو ناعم كالحرير، يجمع بين حمضية التفاح الأخضر المنعشة وحلاوة العسل الصافي وقوام متوازن.,"Refreshing cup.
+Flavor profile: honey, apple; medium-full body.",كريما 4 / قوام 4 / توازن 5 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 4 / Balance 5 / Aftertaste 4 / Intensity 4,,,,,3.0,Medium,,,,,,,,
+,,,,,ESP-06,ياقوت الحبشة,Yaqwt Alhbsha,٦٠٪ حبشي لقميتي + ٤٠٪ كوستا ريكي,60% Ethiopian Lekemti + 40% Costa Rican,شوت إسبريسو فاكهي وعصيري، يجمع بين حلاوة الخوخ والشوكولاتة البيضاء مع حمضية مشرقة وممتعة.,"Signature cup.
+Flavor profile: chocolate, peach; medium body.",كريما 3 / قوام 3 / توازن 5 / مذاق لاحق 4 / كثافة 3.5,Crema 3 / Body 3 / Balance 5 / Aftertaste 4 / Intensity 3.5,,,,,2.0,Light-Medium,,,,,,,,
+,,,,,ESP-07,روح سومطرة,Rwh Swmtra,60% هندي مايسور + 40% روبوستا إندونيسي,60% Indian Mysore + 40% روبوستا Indonesian,رحلة إلى آسيا، إسبريسو غني وعميق يجمع بين رائحة خشب الصندل الفاخرة وحلاوة التمر مع لمسة قرفة دافئة.,"Luxurious cup.
+Flavor profile: cinnamon, date; full body.",كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 5 / كثافة 5,Crema 5 / Body 5 / Balance 4 / Aftertaste 5 / Intensity 5,,,,,4.0,Medium-Dark,,,,,,,,
+,,,,,ESP-08,توازن جنيف,Twazn Jnyf,70% جواتيمالا + 30% روبوستا برازيلي,70% Guatemala + 30% روبوستا Brazilian,إسبريسو متوازن وأنيق، يجمع بين نكهة جوز البقان المحمص وحلاوة الكرز الأسود مع نهاية نظيفة ومنعشة.,"Refreshing cup.
+Flavor profile: pecan; medium-full body.",كريما 4 / قوام 4 / توازن 5 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 4 / Balance 5 / Aftertaste 4 / Intensity 4,,,,,3.0,Medium,,,,,,,,
+,,,,,ESP-09,عطر زنجبار,Atr Znjbar,٧٥٪ حبشي هراري + ٢٥٪ كينيا AAA,75% Ethiopian Harrar + 25% Kenya AAA,عطر فاخر في فنجان، إسبريسو يجمع بين رائحة الياسمين وحلاوة المانجو مع لمسة زنجبيل منعشة.,"Luxurious cup.
+Flavor profile: jasmine; medium body.",كريما 3 / قوام 3 / توازن 5.5 / مذاق لاحق 4 / كثافة 3,Crema 3 / Body 3 / Balance 5.5 / Aftertaste 4 / Intensity 3,,,,,2.0,Light-Medium,,,,,,,,
+,,,,,ESP-10,التحميصة الذهبية,Althmysa Alihbya,٤٥٪ برازيلي + ٣٠٪ كولومبي + ٢٥٪ روبوستا فيتنامي,45% Brazilian + 30% Colombian + 25% روبوستا Vietnamese,إسبريسو متوازن وكلاسيكي، يجمع بين نكهة الكاجو والخبز المحمص مع حلاوة خفيفة وكريمة ذهبية.,"Signature cup.
+Flavor profile: medium-full body.",كريما 4.5 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4.5,Crema 4.5 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4.5,,,,,3.0,Medium,,,,,,,,
+,,,,,ESP-11,لندن بلند,Lndn Blnd,٣٥٪ هندي أرابيكا + ٤٥٪ برازيلي + ٢٠٪ روبوستا أوغندي,35% Indian Arabica + 45% Brazilian + 20% روبوستا Ugandan,مزيج لندني أنيق، يجمع بين حلاوة شوكولاتة الحليب والكراميل المملح في شوت إسبريسو غني.,"Signature cup.
+Flavor profile: caramel, chocolate; medium-full body.",كريما 4 / قوام 4.5 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 4.5 / Balance 4 / Aftertaste 4 / Intensity 4,,,,,4.0,Medium-Dark,,,,,,,,
+,,,,,ESP-12,قافلة الملوك,Qafla Almlwk,٤٥٪ يمني + ٣٥٪ بيرو + ٢٠٪ روبوستا أوغندي,45% Yemeni + 35% Peru + 20% روبوستا Ugandan,رحلة مع قافلة الملوك، إسبريسو فاخر يجمع بين حلاوة التمر والتين المجفف مع لمسة دافئة من العنبر.,"Luxurious cup.
+Flavor profile: date; medium-full body.",كريما 4 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4.5,Crema 4 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4.5,,,,,3.0,Medium,,,,,,,,
+,,,,,ESP-13,بركان حمضي,Brkan Hmdy,٥٥٪ كوستا ريكي + ٢٥٪ كيني + ٢٠٪ حبشي,55% Costa Rican + 25% Kenyan + 20% Ethiopian,انفجار من النكهات، إسبريسو بحمضية البرتقال الأحمر والتوت مع نهاية مقرمشة من اللوز المحمص.,"Signature cup.
+Flavor profile: berry; medium body.",كريما 3 / قوام 3 / توازن 5.2 / مذاق لاحق 4 / كثافة 3,Crema 3 / Body 3 / Balance 5.2 / Aftertaste 4 / Intensity 3,,,,,2.0,Light-Medium,,,,,,,,
+,,,,,ESP-14,الختم الأسود,Alkhtm AlأSwd,٤٥٪ كولومبي + ٢٥٪ برازيلي + ٣٠٪ روبوستا هندي,45% Colombian + 25% Brazilian + 30% روبوستا Indian,إسبريسو قوي وجريء، يجمع بين النكهة الدخانية الكلاسيكية وحلاوة الكرز الأسود مع لمسة قرنفل دافئة.,"Bold cup.
+Flavor profile: medium-full body.",كريما 5 / قوام 4.5 / توازن 4.5 / مذاق لاحق 4 / كثافة 5,Crema 5 / Body 4.5 / Balance 4.5 / Aftertaste 4 / Intensity 5,,,,,4.0,Medium-Dark,,,,,,,,
+,,,,,ESP-15,توت وكراميل,Twt Wkramyl,٦٥٪ برازيلي + ٢٠٪ بيرو + ١٥٪ كيني,65% Brazilian + 20% Peru + 15% Kenyan,مزيج ممتع، يجمع بين حلاوة الكراميل ونكهة المكسرات مع حمضية توت العليق المنعشة.,"Refreshing cup.
+Flavor profile: caramel, berry; medium-full body.",كريما 4 / قوام 4 / توازن 3.5 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 4 / Balance 3.5 / Aftertaste 4 / Intensity 4,,,,,3.0,Medium,,,,,,,,
+,,,,,ESP-16,أصل هرر,Origin Hrr,100% حبشي هراري,100% Ethiopian Harrar,إسبريسو إثيوبي أصيل، يجمع بين حلاوة البرقوق ونكهات الأعشاب العطرية ورائحة زهور البرتقال.,"Signature cup.
+Flavor profile: floral; medium body.",كريما 2 / قوام 3 / توازن 5 / مذاق لاحق 4 / كثافة 3,Crema 2 / Body 3 / Balance 5 / Aftertaste 4 / Intensity 3,,,,,2.0,Light-Medium,,,,,,,,
+,,,,,ESP-17,كينيا AA+,Kynya Aa+,70% كينيا AAA + 30% حبشي لقمتي,70% Kenya AAA + 30% Ethiopian لقمتي,تجربة كينية جريئة، تتميز بحمضية الفواكه اللاذعة ونكهة العنب الأسود مع لمسة حمضية مشرقة.,"Signature cup.
+Flavor profile: medium body.",كريما 2 / قوام 3 / توازن 5 / مذاق لاحق 4 / كثافة 3,Crema 2 / Body 3 / Balance 5 / Aftertaste 4 / Intensity 3,,,,,2.0,Light-Medium,,,,,,,,
+,,,,,ESP-18,كريما برازيليا,Crema Brazylya,٧٥٪ برازيلي + ٢٥٪ روبوستا برازيلي,75% Brazilian + 25% روبوستا Brazilian,إسبريسو برازيلي غني بكريمة كثيفة، يجمع بين نكهة اللوز والكراميل وقوام دسم وممتلئ.,"Signature cup.
+Flavor profile: caramel; full body.",كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 4 / كثافة 5.5,Crema 5 / Body 5 / Balance 4 / Aftertaste 4 / Intensity 5.5,,,,,4.0,Medium-Dark,,,,,,,,
+,,,,,ESP-19,كنز اليمن,Knz Alymn,60% يمني خولاني + 40% هندي مايسور,60% Yemeni Khawlani + 40% Indian Mysore,كنز من النكهات، إسبريسو يجمع بين حلاوة التمر والكمثرى المجففة مع لمسة ترابية أصيلة.,"Signature cup.
+Flavor profile: date; medium-full body.",كريما 4 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4,,,,,4.0,Medium-Dark,,,,,,,,
+,,,,,ESP-20,شوكو جواتيمالا,Choco Jwatymala,100% جواتيمالا,100% Guatemala,لعشاق الشوكولاتة، إسبريسو بنكهة الكاكاو الخام وجوز البقان مع حمضية برتقال خفيفة.,"Signature cup.
+Flavor profile: pecan, chocolate, cocoa; medium-full body.",كريما 3 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 3 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4,,,,,3.0,Medium,,,,,,,,
+,,,,,ESP-21,بيرو بالانس,Byrw Balance,٤٥٪ بيرو + ٣٠٪ كولومبي + ٢٥٪ هندي أرابيكا,45% Peru + 30% Colombian + 25% Indian Arabica,إسبريسو متوازن وناعم، يجمع بين حلاوة التفاح والعسل مع نكهة البندق المحببة.,"Signature cup.
+Flavor profile: hazelnut, honey, apple; medium-full body.",كريما 3 / قوام 4.5 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 3 / Body 4.5 / Balance 4 / Aftertaste 4 / Intensity 4,,,,,3.0,Medium,,,,,,,,
+,,,,,ESP-22,فولكانو إنتنسو,Fwlkanw إNtnsw,50% برازيلي + 50% روبوستا فيتنامي,50% Brazilian + 50% روبوستا Vietnamese,بركان من القوة، إسبريسو بنكهة الشوكولاتة الداكنة ولمسة فلفل حارة مع كريمة ثقيلة جداً.,"Signature cup.
+Flavor profile: chocolate; full body.",كريما 5 / قوام 5 / توازن 3 / مذاق لاحق 4 / كثافة 5,Crema 5 / Body 5 / Balance 3 / Aftertaste 4 / Intensity 5,,,,,5.0,Dark,,,,,,,,
+,,,,,ESP-23,سوبريمو كولومبيا,Swbrymw Colombia,100% كولومبي,100% Colombian,إسبريسو كولومبي كلاسيكي، يتميز بحلاوة السكر البني ونكهة التفاح وقوام ناعم ومريح.,"Comforting cup.
+Flavor profile: apple; medium-full body.",كريما 3 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 3 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4,,,,,3.0,Medium,,,,,,,,
+,,,,,ESP-24,شروق أوسلو,Shrwq أWslw,٤٥٪ حبشي + ٣٥٪ كيني + ٢٠٪ كوستا ريكي,45% Ethiopian + 35% Kenyan + 20% Costa Rican,شروق الشمس في فنجان، إسبريسو مشرق يجمع بين حمضية العنب الأخضر والزنجبيل وحلاوة عسل الأكاسيا.,"Signature cup.
+Flavor profile: honey; medium body.",كريما 2 / قوام 3 / توازن 5 / مذاق لاحق 4 / كثافة 3.5,Crema 2 / Body 3 / Balance 5 / Aftertaste 4 / Intensity 3.5,,,,,2.0,Light-Medium,,,,,,,,
+,,,,,ESP-25,دبس سومطرة,Dbs Swmtra,٧٥٪ هندي مايسور + ٢٥٪ روبوستا إندونيسي,75% Indian Mysore + 25% روبوستا Indonesian,إسبريسو آسيوي غني، يجمع بين رائحة خشب الأرز وحلاوة دبس التمر مع لمسة فانيليا ناعمة.,"Signature cup.
+Flavor profile: vanilla, date; medium-full body.",كريما 4 / قوام 4.5 / توازن 5 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 4.5 / Balance 5 / Aftertaste 4 / Intensity 4,,,,,4.0,Medium-Dark,,,,,,,,
+,,,,,ESP-26,بهارات سايجون,Bharat Sayjwn,60% روبوستا فيتنامي + 40% يمني خولاني,60% روبوستا Vietnamese + 40% Yemeni Khawlani,رحلة إلى سايجون، إسبريسو قوي يجمع بين حلاوة الكراميل المحروق ودفء القرفة وجوزة الطيب.,"A journey in a cup.
+Flavor profile: caramel, cinnamon; full body.",كريما 5 / قوام 5 / توازن 3 / مذاق لاحق 4 / كثافة 5,Crema 5 / Body 5 / Balance 3 / Aftertaste 4 / Intensity 5,,,,,4.0,Medium-Dark,,,,,,,,
+,,,,,ESP-27,أوغندا باور,أWghnda Bawr,50% روبوستا أوغندي + 50% برازيلي ريو,50% روبوستا Ugandan + 50% Brazilian ريو,قوة مطلقة، إسبريسو بنكهة الكاجو واللمسة الدخانية مع نهاية مرة قوية ومميزة.,"Bold cup.
+Flavor profile: full body.",كريما 5 / قوام 5 / توازن 3 / مذاق لاحق 4 / كثافة 5,Crema 5 / Body 5 / Balance 3 / Aftertaste 4 / Intensity 5,,,,,5.0,Dark,,,,,,,,
+,,,,,ESP-28,برتقال كوستا,Brtqal Kwsta,٧٠٪ كوستا ريكي + ٢٠٪ حبشي + ١٠٪ بيرو,70% Costa Rican + 20% Ethiopian + 10% Peru,إسبريسو فاكهي ومنعش، يجمع بين حمضية البرتقال والتوت الأزرق مع حلاوة قصب السكر.,"Refreshing cup.
+Flavor profile: berry; medium-full body.",كريما 3 / قوام 3.5 / توازن 5 / مذاق لاحق 4 / كثافة 3,Crema 3 / Body 3.5 / Balance 5 / Aftertaste 4 / Intensity 3,,,,,2.0,Light-Medium,,,,,,,,
+,,,,,ESP-29,شاي الهند,Shay Alhnd,60% هندي أرابيكا + 40% هندي مايسور,60% Indian Arabica + 40% Indian Mysore,تجربة هندية أنيقة، إسبريسو يجمع بين حلاوة الخوخ المجفف ودفء القرنفل ونكهة الشاي الأسود.,"Comforting cup.
+Flavor profile: peach; medium-full body.",كريما 4 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4,,,,,3.0,Medium,,,,,,,,
+,,,,,ESP-30,إكسير الشرق,إKsyr Alshrq,50% حبشي هراري + 50% يمني خولاني,50% Ethiopian Harrar + 50% Yemeni Khawlani,إكسير شرقي فاخر، إسبريسو يجمع بين دفء العنبر وحلاوة الزبيب مع رائحة الورد العطرية.,"Luxurious cup.
+Flavor profile: medium-full body.",كريما 3 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 3 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4,,,,,3.0,Medium,,,,,,,,
+,,,,,ESP-31,نعناع الكيوي,Nanaa Alkywy,٦٠٪ بيرو + ٤٠٪ كينيا AAA,60% Peru + 40% Kenya AAA,مزيج مبتكر ومنعش، إسبريسو يجمع بين حمضية الكيوي وحلاوة الشوكولاتة البيضاء مع لمسة نعناع باردة.,"Refreshing cup.
+Flavor profile: chocolate; medium-full body.",كريما 3 / قوام 3.5 / توازن 4.5 / مذاق لاحق 4 / كثافة 3,Crema 3 / Body 3.5 / Balance 4.5 / Aftertaste 4 / Intensity 3,,,,,2.0,Light-Medium,,,,,,,,
+,,,,,ESP-32,كلاسيك بلند,Classic Blnd,60% برازيلي + 40% كولومبي,60% Brazilian + 40% Colombian,المزيج الكلاسيكي المحبوب، إسبريسو يجمع بين حلاوة الكراميل والبندق مع نهاية حلوة ومريحة.,"Comforting cup.
+Flavor profile: caramel, hazelnut; medium-full body.",كريما 4 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4,,,,,4.0,Medium-Dark,,,,,,,,
+,,,,,ESP-33,كاكاو فلورال,Kakaw Flwral,50% جواتيمالا + 50% حبشي هراري,50% Guatemala + 50% Ethiopian Harrar,مزيج متناقض وممتع، يجمع بين مرارة الكاكاو المحببة ورائحة زهور البرتقال وحمضية الجريب فروت.,"Signature cup.
+Flavor profile: cocoa, floral; medium-full body.",كريما 3 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 3 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4,,,,,3.0,Medium,,,,,,,,
+,,,,,ESP-34,لاتيه آرت,Latyh آRt,70% برازيلي + 30% روبوستا هندي,70% Brazilian + 30% روبوستا Indian,الخيار الأمثل للاتيه، إسبريسو بقوام حريري يجمع بين حلاوة الكراميل المملح ونكهة الكعك اللذيذ.,"Signature cup.
+Flavor profile: caramel; full body.",كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 4 / كثافة 5,Crema 5 / Body 5 / Balance 4 / Aftertaste 4 / Intensity 5,,,,,3.0,Medium,,,,,,,,
+,,,,,ESP-35,نيويورك دارك,Nywywrk Dark,40% كولومبي + 30% كيني + 30% روبوستا أوغندي,40% Colombian + 30% Kenyan + 30% روبوستا Ugandan,إسبريسو قوي وعصري، يجمع بين حلاوة التوت الأسود والشوكولاتة مع دفء جوزة الطيب.,"Comforting cup.
+Flavor profile: chocolate, berry; medium-full body.",كريما 4 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4,,,,,4.0,Medium-Dark,,,,,,,,
+,,,,,ESP-36,هيل وزعفران,Hyl Wzafran,60% يمني + 20% حبشي + 20% هندي,60% Yemeni + 20% Ethiopian + 20% Indian,تجربة عربية فاخرة، إسبريسو يجمع بين حلاوة التمر ودفء الهيل ورائحة الزعفران الفاخرة.,"Luxurious cup.
+Flavor profile: saffron, cardamom, date; medium-full body.",كريما 4 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4,,,,,4.0,Medium-Dark,,,,,,,,
+,,,,,ESP-37,عسل الأنديز,Asl AlأNdyz,٥٥٪ كوستا ريكي + ٤٥٪ بيرو,55% Costa Rican + 45% Peru,إسبريسو حلو ومشرق، يجمع بين حلاوة الكمثرى وعسل الأكاسيا مع حمضية الليمون المنعشة.,"Refreshing cup.
+Flavor profile: honey; medium-full body.",كريما 3 / قوام 4 / توازن 4.5 / مذاق لاحق 4 / كثافة 3,Crema 3 / Body 4 / Balance 4.5 / Aftertaste 4 / Intensity 3,,,,,2.0,Light-Medium,,,,,,,,
+,,,,,ESP-38,ياقوت نيروبي,Yaqwt Nyrwby,100% كينيا AAA,100% Kenya AAA,ياقوتة كينية، إسبريسو بحمضية الفواكه الحمراء اللاذعة ونكهة العنب وحمضيات لامعة.,"Signature cup.
+Flavor profile: medium body.",كريما 2 / قوام 3 / توازن 5 / مذاق لاحق 4 / كثافة 3,Crema 2 / Body 3 / Balance 5 / Aftertaste 4 / Intensity 3,,,,,2.0,Light-Medium,,,,,,,,
+,,,,,ESP-39,بركان الكريما,Brkan Alkryma,٨٥٪ برازيلي + ١٥٪ روبوستا فيتنامي,85% Brazilian + 15% روبوستا Vietnamese,بركان من الكريما، إسبريسو قوي جداً بنكهة الكراميل المحروق وجوز البقان مع لمسة دخانية.,"Bold cup.
+Flavor profile: caramel, pecan; full body.",كريما 5 / قوام 5 / توازن 3 / مذاق لاحق 4 / كثافة 5.5,Crema 5 / Body 5 / Balance 3 / Aftertaste 4 / Intensity 5.5,,,,,4.0,Medium-Dark,,,,,,,,
+,,,,,ESP-40,شاي ليمو,Shay Lymw,70% حبشي هراري + 30% حبشي لقمتي,70% Ethiopian Harrar + 30% Ethiopian لقمتي,فنجان شاي في شوت إسبريسو، يجمع بين حمضية الليمون ورائحة شاي إيرل جراي والزهور العطرية.,"Signature cup.
+Flavor profile: floral; light body.",كريما 2 / قوام 2 / توازن 5 / مذاق لاحق 4 / كثافة 3,Crema 2 / Body 2 / Balance 5 / Aftertaste 4 / Intensity 3,,,,,1.0,Light,,,,,,,,
+,,,,,ESP-41,توابل كيرلا,Twabl Kyrla,50% هندي مايسور + 50% روبوستا هندي,50% Indian Mysore + 50% روبوستا Indian,رحلة إلى كيرلا، إسبريسو حار ودافئ يجمع بين لمسة الفلفل الأسود والتوابل الذهبية وحلاوة التين.,"A journey in a cup.
+Flavor profile: full body.",كريما 5 / قوام 5 / توازن 3 / مذاق لاحق 4 / كثافة 5,Crema 5 / Body 5 / Balance 3 / Aftertaste 4 / Intensity 5,,,,,4.0,Medium-Dark,,,,,,,,
+,,,,,ESP-42,رياح الأنديز,Ryah AlأNdyz,50% كولومبي + 30% بيرو + 20% جواتيمالا,50% Colombian + 30% Peru + 20% Guatemala,إسبريسو منعش، يجمع بين حمضية التفاح الأخضر ونكهة البندق مع لمسة من عشب الليمون.,"Refreshing cup.
+Flavor profile: hazelnut, apple; medium-full body.",كريما 3 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 3 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4,,,,,3.0,Medium,,,,,,,,
+,,,,,ESP-43,الختم الإيطالي,Alkhtm AlإYtaly,٣٥٪ فيتنامي + ٣٠٪ برازيلي + ٣٥٪ يمني,35% Vietnamese + 30% Brazilian + 35% Yemeni,الختم الإيطالي الأصيل، إسبريسو قوي جداً يجمع بين النكهة الدخانية وحمضية توت العليق وعمق الشوكولاتة الداكنة.,"Bold cup.
+Flavor profile: chocolate, berry; full body.",كريما 5 / قوام 5 / توازن 3 / مذاق لاحق 4.5 / كثافة 5.5,Crema 5 / Body 5 / Balance 3 / Aftertaste 4.5 / Intensity 5.5,,,,,5.0,Dark,,,,,,,,
+,,,,,ESP-44,سفاري بلند,Sfary Blnd,50% كينيا AAA + 30% حبشي + 20% روبوستا أوغندي,50% Kenya AAA + 30% Ethiopian + 20% روبوستا Ugandan,مغامرة سفاري، إسبريسو يجمع بين حلاوة الأناناس ودفء الزنجبيل وعمق الكاكاو الخام.,"Comforting cup.
+Flavor profile: cocoa, pineapple; medium-full body.",كريما 4 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4,,,,,3.0,Medium,,,,,,,,
+,,,,,ESP-45,أورجانيك بيرو,أWrjanyk Byrw,80% بيرو + 20% هندي أرابيكا,80% Peru + 20% Indian Arabica,إسبريسو عضوي نقي، يجمع بين نكهة الجوز وحمضية التفاح الأخضر وحلاوة عسل الزهور.,"Signature cup.
+Flavor profile: honey, apple, floral; medium-full body.",كريما 3 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 3 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4,,,,,3.0,Medium,,,,,,,,
+,,,,,ESP-46,موكا عدن,Mocha Adn,50% يمني + 50% حبشي,50% Yemeni + 50% Ethiopian,رحلة إلى عدن، إسبريسو بنكهة شرقية أصيلة يجمع بين دفء العنبر وحمضية الرمان.,"A journey in a cup.
+Flavor profile: medium-full body.",كريما 3 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 3 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4,,,,,4.0,Medium-Dark,,,,,,,,
+,,,,,ESP-47,شوكو كرز,Choco Krz,60% جواتيمالا + 40% كينيا AAA,60% Guatemala + 40% Kenya AAA,مزيج لذيذ، إسبريسو يجمع بين عمق الكاكاو وحلاوة الكرز الأسود مع لمسة من جوز الهند.,"Signature cup.
+Flavor profile: cocoa; medium-full body.",كريما 3 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 3 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4,,,,,3.0,Medium,,,,,,,,
+,,,,,ESP-48,آيس بلند,آYs Blnd,40% روبوستا أوغندي + 30% برازيلي + 30% هندي,40% روبوستا Ugandan + 30% Brazilian + 30% Indian,المزيج المثالي للقهوة الباردة، إسبريسو يقطع الحليب بنكهات الفانيليا وجوز الهند والكراميل.,"Signature cup.
+Flavor profile: caramel, vanilla; full body.",كريما 5 / قوام 5 / توازن 4 / مذاق لاحق 4 / كثافة 5,Crema 5 / Body 5 / Balance 4 / Aftertaste 4 / Intensity 5,,,,,4.0,Medium-Dark,,,,,,,,
+,,,,,ESP-49,شاي المونسون,Shay Almwnswn,40% كولومبي + 40% كيني + 20% حبشي,40% Colombian + 40% Kenyan + 20% Ethiopian,إسبريسو رقيق كالشاي، يجمع بين حلاوة الخوخ والعسل مع نعومة الشاي الأخضر.,"Signature cup.
+Flavor profile: honey, peach; medium body.",كريما 3 / قوام 3 / توازن 5 / مذاق لاحق 4 / كثافة 3,Crema 3 / Body 3 / Balance 5 / Aftertaste 4 / Intensity 3,,,,,2.0,Light-Medium,,,,,,,,
+,,,,,ESP-50,الختم الذهبي,Alkhtm Alihby,30% يمني + 30% حبشي + 20% كيني + 20% روبوستا,30% Yemeni + 30% Ethiopian + 20% Kenyan + 20% روبوستا,الختم الذهبي للخبراء، مزيج معقد يجمع دفء العنبر، حلاوة الزبيب، عمق الكاكاو، ورائحة زهور البرتقال.,"Comforting cup.
+Flavor profile: cocoa, floral; medium-full body.",كريما 4 / قوام 4 / توازن 4 / مذاق لاحق 4 / كثافة 4,Crema 4 / Body 4 / Balance 4 / Aftertaste 4 / Intensity 4,,,,,3.0,Medium,,,,,,,,
+,,,,,TRB-001,ميدان التحرير,Mydan Althryr,٥٠٪ برازيلي • ٣٠٪ كولومبي • ١٥٪ بيرو • ٥٪ حبشي,50% Brazilian + 30% Colombian + 15% Peru + 5% Ethiopian,فنجان متوازن وحيوي، يجمع بين الكراميل والمكسرات والشوكولاتة.,"Signature cup.
+Flavor profile: caramel, chocolate; bright acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 4 / مرارة 1.5 / نكهة 5 / رائحة 5,Foam 4 / Body 4 / Acidity 4 / Bitterness 1.5 / Flavor 5 / Aroma 5,,,,,,,-,Medium,,,,,,
+,,,,,TRB-002,مصر الجديدة,Msr Aljdyda,٥٠٪ جواتيمالا • ٢٥٪ هندي • ٢٠٪ برازيلي • ٥٪ كيني,50% Guatemala + 25% Indian + 20% Brazilian + 5% Kenyan,فنجان كلاسيكي، يجمع بين شوكولاتة الحليب والبندق مع قوام كريمي ومريح.,"Comforting cup.
+Flavor profile: hazelnut, chocolate; balanced acidity; full body.",رغوة 4 / قوام 5 / حمضية 3 / مرارة 3 / نكهة 4 / رائحة 4,Foam 4 / Body 5 / Acidity 3 / Bitterness 3 / Flavor 4 / Aroma 4,,,,,,,-,Medium,,,,,,
+,,,,,TRB-003,المقطم,Almqtm,٤٠٪ كولومبي • ٣٥٪ بيرو • ٢٠٪ جواتيمالا • ٥٪ يمني,40% Colombian + 35% Peru + 20% Guatemala + 5% Yemeni,فنجان فاكهي، يجمع بين حلاوة التفاح الأحمر والفانيليا والتوابل الحلوة.,"Signature cup.
+Flavor profile: apple, vanilla; high acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 5 / مرارة 2 / نكهة 5 / رائحة 5,Foam 4 / Body 4 / Acidity 5 / Bitterness 2 / Flavor 5 / Aroma 5,,,,,,,-,Medium,,,,,,
+,,,,,TRB-004,مدينة نصر,Mdyna Nsr,٣٥٪ برازيلي • ٢٠٪ كولومبي • ٢٠٪ جواتيمالا • ١٠٪ هندي • ١٥٪ بيرو,35% Brazilian + 20% Colombian + 20% Guatemala + 10% Indian + 15% Peru,فنجان معقد، يجمع بين الشوكولاتة والتوابل مع حمضية الفاكهة المنعشة.,"Refreshing cup.
+Flavor profile: chocolate; bright acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 4.5 / مرارة 2.5 / نكهة 4 / رائحة 4,Foam 4 / Body 4 / Acidity 4.5 / Bitterness 2.5 / Flavor 4 / Aroma 4,,,,,,,-,Medium,,,,,,
+,,,,,TRB-007,شبرا,Shbra,٢٥٪ برازيلي • ٣٠٪ كولومبي • ١٥٪ هندي • ٢٠٪ بيرو • ١٠٪ حبشي,25% Brazilian + 30% Colombian + 15% Indian + 20% Peru + 10% Ethiopian,فنجان شعبي وغني، يجمع بين حلاوة الكراميل والبندق والفواكه المجففة.,"Signature cup.
+Flavor profile: caramel, hazelnut; bright acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 4 / مرارة 3 / نكهة 4 / رائحة 5,Foam 4 / Body 4 / Acidity 4 / Bitterness 3 / Flavor 4 / Aroma 5,,,,,,,-,Medium,,,,,,
+,,,,,TRB-012,المعادي,Almaady,٣٠٪ حبشي • ٤٠٪ برازيلي • ١٥٪ هندي • ١٥٪ كيني,30% Ethiopian + 40% Brazilian + 15% Indian + 15% Kenyan,فنجان عطري، يجمع بين دفء الهيل ورائحة زهور البرتقال والتوابل.,"Comforting cup.
+Flavor profile: cardamom, floral; bright acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 4 / مرارة 2 / نكهة 5 / رائحة 5,Foam 4 / Body 4 / Acidity 4 / Bitterness 2 / Flavor 5 / Aroma 5,,,,,,,-,Medium,,,,,,
+,,,,,TRB-014,لوران,Lwran,٣٥٪ بيرو • ٤٠٪ جواتيمالا • ٢٠٪ كولومبي • ٥٪ فيتنامي,35% Peru + 40% Guatemala + 20% Colombian + 5% Vietnamese,فنجان منعش، يجمع بين حمضية التفاح الأخضر وحلاوة الفانيليا والمكسرات.,"Refreshing cup.
+Flavor profile: apple, vanilla; high acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 5 / مرارة 2 / نكهة 5 / رائحة 4,Foam 4 / Body 4 / Acidity 5 / Bitterness 2 / Flavor 5 / Aroma 4,,,,,,,-,Medium,,,,,,
+,,,,,TRB-025,الأنفوشي,AlأNfwshy,٤٥٪ حبشي • ٣٠٪ كوستا ريكي • ٢٠٪ بيرو • ٥٪ يمني,45% Ethiopian + 30% Costa Rican + 20% Peru + 5% Yemeni,فنجان عطري فاخر، يجمع بين رائحة الياسمين وحمضية البرتقال وحلاوة العسل.,"Luxurious cup.
+Flavor profile: honey, jasmine; high acidity; medium body.",رغوة 4 / قوام 3 / حمضية 5 / مرارة 2 / نكهة 4 / رائحة 5,Foam 4 / Body 3 / Acidity 5 / Bitterness 2 / Flavor 4 / Aroma 5,,,,,,,-,Medium,,,,,,
+,,,,,TRB-026,جليم,Jlym,٣٠٪ كيني • ٤٠٪ جواتيمالا • ٢٠٪ بيرو • ١٠٪ برازيلي,30% Kenyan + 40% Guatemala + 20% Peru + 10% Brazilian,فنجان أنيق، يجمع بين حمضية العنب الأسود وعمق الشوكولاتة مع حلاوة متوازنة.,"Signature cup.
+Flavor profile: chocolate; bright acidity; medium-full body.",رغوة 4.5 / قوام 4 / حمضية 3.5 / مرارة 2 / نكهة 5 / رائحة 4,Foam 4.5 / Body 4 / Acidity 3.5 / Bitterness 2 / Flavor 5 / Aroma 4,,,,,,,-,Medium,,,,,,
+,,,,,TRB-028,زيزينيا,Zyzynya,٤٠٪ كيني • ٣٠٪ برازيلي • ٢٥٪ كولومبي • ٥٪ بيرو,40% Kenyan + 30% Brazilian + 25% Colombian + 5% Peru,فنجان متوازن، يجمع بين حلاوة التوت الأسود والمكسرات مع حمضية مشرقة.,"Signature cup.
+Flavor profile: berry; bright acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 4.5 / مرارة 2 / نكهة 5 / رائحة 4,Foam 4 / Body 4 / Acidity 4.5 / Bitterness 2 / Flavor 5 / Aroma 4,,,,,,,-,Medium,,,,,,
+,,,,,TRB-029,العجوزة,Alajwza,٤٠٪ كولومبي • ٤٠٪ بيرو • ٢٠٪ جواتيمالا,40% Colombian + 40% Peru + 20% Guatemala,فنجان كلاسيكي، يجمع بين حلاوة الكراميل والتفاح الأحمر والمكسرات.,"Signature cup.
+Flavor profile: caramel, apple; bright acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 4 / مرارة 2 / نكهة 4 / رائحة 4,Foam 4 / Body 4 / Acidity 4 / Bitterness 2 / Flavor 4 / Aroma 4,,,,,,,متوسط,Medium,,,,,,
+,,,,,TRB-030,المنيل,Almnyl,٣٥٪ حبشي • ٣٥٪ كيني • ٣٠٪ برازيلي,35% Ethiopian + 35% Kenyan + 30% Brazilian,فنجان أنيق، يجمع بين حلاوة التوت الأسود ورائحة الزهور ونعومة الشوكولاتة.,"Signature cup.
+Flavor profile: chocolate, berry, floral; bright acidity; medium-full body.",رغوة 3.5 / قوام 3.5 / حمضية 4.5 / مرارة 2 / نكهة 5 / رائحة 5,Foam 3.5 / Body 3.5 / Acidity 4.5 / Bitterness 2 / Flavor 5 / Aroma 5,,,,,,,متوسط فاتح,Light,,,,,,
+,,,,,TRB-031,رشدي,Rshdy,٥٠٪ جواتيمالا • ٣٠٪ كوستا ريكي • ٢٠٪ كولومبي,50% Guatemala + 30% Costa Rican + 20% Colombian,فنجان منعش، يجمع بين حمضية الفواكه وحلاوة الكراميل والتفاح.,"Refreshing cup.
+Flavor profile: caramel, apple; bright acidity; medium-full body.",رغوة 3 / قوام 4 / حمضية 4.5 / مرارة 2 / نكهة 5 / رائحة 5,Foam 3 / Body 4 / Acidity 4.5 / Bitterness 2 / Flavor 5 / Aroma 5,,,,,,,متوسط فاتح,Light,,,,,,
+,,,,,TRB-032,سبورتنج,Sbwrtnj,٤٠٪ بيرو • ٤٠٪ كيني • ٢٠٪ جواتيمالا,40% Peru + 40% Kenyan + 20% Guatemala,فنجان رياضي وحيوي، يجمع بين حلاوة التوت الأسود وشوكولاتة الحليب والمكسرات.,"Signature cup.
+Flavor profile: chocolate, berry; bright acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 4 / مرارة 2 / نكهة 5 / رائحة 4,Foam 4 / Body 4 / Acidity 4 / Bitterness 2 / Flavor 5 / Aroma 4,,,,,,,متوسط,Medium,,,,,,
+,,,,,TRB-033,إدفو,إDfw,٤٥٪ كولومبي • ٢٠٪ يمني • ٢٠٪ حبشي • ١٥٪ بيرو,45% Colombian + 20% Yemeni + 20% Ethiopian + 15% Peru,فنجان غني، يجمع بين التوابل الشرقية والكراميل وحلاوة الفواكه الداكنة.,"Signature cup.
+Flavor profile: caramel; bright acidity; full body.",رغوة 5 / قوام 5.5 / حمضية 4 / مرارة 2 / نكهة 5 / رائحة 5,Foam 5 / Body 5.5 / Acidity 4 / Bitterness 2 / Flavor 5 / Aroma 5,,,,,,,-,Medium,,,,,,
+,,,,,TRB-035,سقارة,Sqara,٤٥٪ برازيلي • ٢٠٪ يمني • ٢٠٪ كولومبي • ١٥٪ حبشي,45% Brazilian + 20% Yemeni + 20% Colombian + 15% Ethiopian,فنجان تاريخي، يجمع بين المكسرات المحمصة والتوابل مع لمسة زهرية عطرية.,"Signature cup.
+Flavor profile: bright acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 4 / مرارة 2 / نكهة 5 / رائحة 5.5,Foam 4 / Body 4 / Acidity 4 / Bitterness 2 / Flavor 5 / Aroma 5.5,,,,,,,-,Medium,,,,,,
+,,,,,TRB-037,الدقي,Aldqy,٤٠٪ جواتيمالا • ٤٠٪ كولومبي • ٢٠٪ يمني,40% Guatemala + 40% Colombian + 20% Yemeni,فنجان معقد، يجمع بين الشوكولاتة وحلاوة الفواكه الحمراء والتوابل الدافئة.,"Signature cup.
+Flavor profile: chocolate; bright acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 4 / مرارة 3 / نكهة 4 / رائحة 4,Foam 4 / Body 4 / Acidity 4 / Bitterness 3 / Flavor 4 / Aroma 4,,,,,,,متوسط,Medium,,,,,,
+,,,,,TRB-038,دهشور,Dhshwr,٤٥٪ برازيلي • ٣٠٪ كيني • ١٥٪ بيرو • ١٠٪ أوغندي,45% Brazilian + 30% Kenyan + 15% Peru + 10% Ugandan,فنجان قوي، يجمع بين الشوكولاتة وحلاوة التوت مع قوام غني وممتلئ.,"Bold cup.
+Flavor profile: chocolate, berry; bright acidity; full body.",رغوة 5 / قوام 5 / حمضية 4 / مرارة 2.5 / نكهة 4 / رائحة 4,Foam 5 / Body 5 / Acidity 4 / Bitterness 2.5 / Flavor 4 / Aroma 4,,,,,,,-,Medium,,,,,,
+,,,,,TRB-039,سان ستيفانو,San Styfanw,٤٥٪ حبشي • ٣٥٪ بيرو • ٢٠٪ فيتنامي,45% Ethiopian + 35% Peru + 20% Vietnamese,فنجان راقٍ، يجمع بين حمضية الليمون ورائحة الزهور ونكهة الشاي الأسود.,"Signature cup.
+Flavor profile: floral; bright acidity; medium body.",رغوة 4 / قوام 3 / حمضية 4 / مرارة 2 / نكهة 4 / رائحة 5,Foam 4 / Body 3 / Acidity 4 / Bitterness 2 / Flavor 4 / Aroma 5,,,,,,,فاتح,Light,,,,,,
+,,,,,TRB-046,المنصورة,Almnswra,٣٥٪ بيرو • ٣٠٪ كوستا ريكي • ٢٠٪ كولومبي • ١٠٪ حبشي • ٥٪ بيرو,35% Peru + 30% Costa Rican + 20% Colombian + 10% Ethiopian + 5% Peru,فنجان غني بالطبقات، يجمع بين حلاوة العسل والجوز مع حمضية خفيفة ومنعشة.,"Refreshing cup.
+Flavor profile: honey; bright acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 4 / مرارة 1 / نكهة 5 / رائحة 5.5,Foam 4 / Body 4 / Acidity 4 / Bitterness 1 / Flavor 5 / Aroma 5.5,,,,,,,-,Medium,,,,,,
+,,,,,TRB-049,طنطا,Tnta,٤٠٪ كولومبي • ٣٠٪ جواتيمالا • ٣٠٪ فيتنامي,40% Colombian + 30% Guatemala + 30% Vietnamese,فنجان متوازن، يجمع بين حمضية التفاح الأخضر ونكهة المكسرات وعمق الكاكاو.,"Signature cup.
+Flavor profile: cocoa, apple; bright acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 4 / مرارة 2 / نكهة 4 / رائحة 3,Foam 4 / Body 4 / Acidity 4 / Bitterness 2 / Flavor 4 / Aroma 3,,,,,,,متوسط,Medium,,,,,,
+,,,,,TRB-050,العجمي,Alajmy,٤٠٪ هندي • ٣٥٪ كوستا ريكي • ١٥٪ إندونيسي • ١٠٪ جواتيمالا,40% Indian + 35% Costa Rican + 15% Indonesian + 10% Guatemala,فنجان هادئ، يجمع بين نكهة الشاي الأسود وجوز الهند والأعشاب العطرية.,"Signature cup.
+Flavor profile: bright acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 4 / مرارة 2 / نكهة 4 / رائحة 4,Foam 4 / Body 4 / Acidity 4 / Bitterness 2 / Flavor 4 / Aroma 4,,,,,,,-,Medium,,,,,,
+,,,,,TRB-051,كليوباترا,Klywbatra,٥٠٪ برازيلي • ٣٥٪ هندي • ١٠٪ أوغندي • ٥٪ كيني,50% Brazilian + 35% Indian + 10% Ugandan + 5% Kenyan,فنجان ملكي، يجمع بين نعومة الشوكولاتة البيضاء ورائحة الياسمين ونكهة المكسرات.,"Signature cup.
+Flavor profile: chocolate, jasmine; bright acidity; medium-full body.",رغوة 4 / قوام 4.5 / حمضية 3.5 / مرارة 2 / نكهة 5 / رائحة 4,Foam 4 / Body 4.5 / Acidity 3.5 / Bitterness 2 / Flavor 5 / Aroma 4,,,,,,,-,Medium,,,,,,
+,,,,,TRB-057,عابدين,Aabdyn,٤٠٪ برازيلي • ٣٠٪ يمني • ٣٠٪ بيرو,40% Brazilian + 30% Yemeni + 30% Peru,فخامة عابدين، فنجان يجمع بين حلاوة الفواكه المجففة ودفء الهيل وعمق الشوكولاتة الداكنة.,"Comforting cup.
+Flavor profile: chocolate, cardamom; balanced acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 3 / مرارة 2 / نكهة 5 / رائحة 5,Foam 4 / Body 4 / Acidity 3 / Bitterness 2 / Flavor 5 / Aroma 5,,,,,,,متوسط,Medium,,,,,,
+,,,,,TRB-062,كوم أمبو,Kwm أMbw,٥٠٪ يمني • ٣٠٪ كيني • ٢٠٪ هندي مايسور,50% Yemeni + 30% Kenyan + 20% Indian Mysore,فنجان فرعوني، يجمع بين حلاوة المشمش المجفف والزبيب ودفء التوابل.,"Comforting cup.
+Flavor profile: bright acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 4 / مرارة 2 / نكهة 5 / رائحة 4,Foam 4 / Body 4 / Acidity 4 / Bitterness 2 / Flavor 5 / Aroma 4,,,,,,,فاتح,Light,,,,,,
+,,,,,TRB-063,الغردقة,Alghrdqa,٤٥٪ بيرو • ٣٥٪ كوستا ريكي • ١٠٪ هندي • ١٠٪ برازيلي,45% Peru + 35% Costa Rican + 10% Indian + 10% Brazilian,إجازة في الغردقة، فنجان استوائي يجمع بين حلاوة الأناناس والمانجو والفانيليا.,"Signature cup.
+Flavor profile: pineapple, vanilla; bright acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 4 / مرارة 1.5 / نكهة 5 / رائحة 4,Foam 4 / Body 4 / Acidity 4 / Bitterness 1.5 / Flavor 5 / Aroma 4,,,,,,,-,Medium,,,,,,
+,,,,,TRB-064,أبيدوس,أBydws,٦٠٪ جواتيمالا • ٢٠٪ حبشي • ٢٠٪ برازيلي ريو,60% Guatemala + 20% Ethiopian + 20% Brazilian ريو,فنجان عطري، يجمع بين رائحة زهور البرتقال وحلاوة العسل وعمق الكاكاو.,"Signature cup.
+Flavor profile: cocoa, honey, floral; bright acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 4 / مرارة 2 / نكهة 5 / رائحة 5,Foam 4 / Body 4 / Acidity 4 / Bitterness 2 / Flavor 5 / Aroma 5,,,,,,,فاتح,Light,,,,,,
+,,,,,TRB-069,المهندسين,Almhndsyn,٣٥٪ كولومبي • ٢٥٪ برازيلي • ٢٥٪ جواتيمالا • ١٥٪ أوغندي,35% Colombian + 25% Brazilian + 25% Guatemala + 15% Ugandan,فنجان عصري ومتوازن، يجمع بين نكهة المكسرات والشوكولاتة مع حمضية لطيفة.,"Signature cup.
+Flavor profile: chocolate; balanced acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 3 / مرارة 2 / نكهة 4 / رائحة 4,Foam 4 / Body 4 / Acidity 3 / Bitterness 2 / Flavor 4 / Aroma 4,,,,,,,متوسط,Medium,,,,,,
+,,,,,TRB-070,بورسعيد,Bwrsayd,٣٠٪ كوستا ريكي • ٣٠٪ بيرو • ٢٠٪ برازيلي • ٢٠٪ فيتنامي,30% Costa Rican + 30% Peru + 20% Brazilian + 20% Vietnamese,فنجان ناعم، يجمع بين حلاوة الكراميل والمكسرات مع قوام مريح.,"Comforting cup.
+Flavor profile: caramel; balanced acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 3 / مرارة 2 / نكهة 5 / رائحة 4,Foam 4 / Body 4 / Acidity 3 / Bitterness 2 / Flavor 5 / Aroma 4,,,,,,,متوسط,Medium,,,,,,
+,,,,,TRB-078,الواحات البحرية,Alwahat Albhrya,٤٥٪ بيرو • ٣٥٪ جواتيمالا • ٢٠٪ هندي أرابيكا,45% Peru + 35% Guatemala + 20% Indian Arabica,فنجان منعش، يجمع بين حمضية التفاح الأخضر المشرقة وحلاوة العسل.,"Refreshing cup.
+Flavor profile: honey, apple; high acidity; medium body.",رغوة 3 / قوام 3 / حمضية 5 / مرارة 2 / نكهة 5 / رائحة 4,Foam 3 / Body 3 / Acidity 5 / Bitterness 2 / Flavor 5 / Aroma 4,,,,,,,فاتح,Light,,,,,,
+,,,,,TRB-079,السويس,Alswys,٦٠٪ كولومبي • ٢٥٪ يمني • ١٥٪ فيتنامي,60% Colombian + 25% Yemeni + 15% Vietnamese,فنجان قوي، يجمع بين حلاوة الكرز وعمق الشوكولاتة الداكنة ودفء التوابل.,"Comforting cup.
+Flavor profile: chocolate; bright acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 4 / مرارة 2 / نكهة 4 / رائحة 4,Foam 4 / Body 4 / Acidity 4 / Bitterness 2 / Flavor 4 / Aroma 4,,,,,,,متوسط,Medium,,,,,,
+,,,,,TRB-080,دندرة,Dndra,٥٠٪ هندي أرابيكا • ٣٠٪ هندي مايسور • ٢٠٪ برازيلي,50% Indian Arabica + 30% Indian Mysore + 20% Brazilian,فنجان رقيق، يجمع بين نعومة الشاي الأبيض وحلاوة التوت البري.,"Signature cup.
+Flavor profile: berry; high acidity; medium body.",رغوة 3 / قوام 3 / حمضية 5 / مرارة 2 / نكهة 5 / رائحة 5,Foam 3 / Body 3 / Acidity 5 / Bitterness 2 / Flavor 5 / Aroma 5,,,,,,,فاتح,Light,,,,,,
+,,,,,TRB-087,المنصورية,Almnswrya,٣٥٪ كولومبي • ٤٥٪ برازيلي • ١٥٪ يمني • ٥٪ بيرو,35% Colombian + 45% Brazilian + 15% Yemeni + 5% Peru,فنجان متوازن، يجمع بين حلاوة الكراميل وحمضية التفاح المنعشة.,"Refreshing cup.
+Flavor profile: caramel, apple; bright acidity; medium-full body.",رغوة 4.5 / قوام 4.5 / حمضية 4 / مرارة 2 / نكهة 4 / رائحة 4,Foam 4.5 / Body 4.5 / Acidity 4 / Bitterness 2 / Flavor 4 / Aroma 4,,,,,,,-,Medium,,,,,,
+,,,,,TRB-088,النوبة,Alnwba,٥٠٪ جواتيمالا • ٣٠٪ حبشي • ١٥٪ كولومبي • ٥٪ يمني,50% Guatemala + 30% Ethiopian + 15% Colombian + 5% Yemeni,ألوان النوبة، فنجان يجمع بين رائحة الزهور وحلاوة العسل والخوخ.,"Signature cup.
+Flavor profile: honey, peach, floral; bright acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 4 / مرارة 1 / نكهة 5 / رائحة 5,Foam 4 / Body 4 / Acidity 4 / Bitterness 1 / Flavor 5 / Aroma 5,,,,,,,-,Medium,,,,,,
+,,,,,TRB-091,العلمين,Alalmyn,٤٠٪ هندي • ٣٠٪ كولومبي • ١٥٪ فيتنامي • ١٥٪ برازيلي,40% Indian + 30% Colombian + 15% Vietnamese + 15% Brazilian,فنجان رقيق، يجمع بين حلاوة الخوخ الأبيض ونكهة الشاي الناعمة.,"Signature cup.
+Flavor profile: peach; bright acidity; medium-full body.",رغوة 4.5 / قوام 4 / حمضية 4 / مرارة 1.5 / نكهة 4 / رائحة 4,Foam 4.5 / Body 4 / Acidity 4 / Bitterness 1.5 / Flavor 4 / Aroma 4,,,,,,,-,Medium,,,,,,
+,,,,,TRB-094,الأهرامات,AlأHramat,٣٠٪ كولومبي • ٢٥٪ حبشي • ٢٥٪ هندي • ٥٪ فيتنامي • ١٥٪ يمني,30% Colombian + 25% Ethiopian + 25% Indian + 5% Vietnamese + 15% Yemeni,عظمة الأهرامات، فنجان معقد يجمع بين حمضية الفواكه وحلاوة العسل والتوابل الفاخرة.,"Luxurious cup.
+Flavor profile: honey; high acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 5 / مرارة 1.5 / نكهة 5 / رائحة 5.5,Foam 4 / Body 4 / Acidity 5 / Bitterness 1.5 / Flavor 5 / Aroma 5.5,,,,,,,-,Medium,,,,,,
+,,,,,TRB-096,الإسماعيلية,AlإSmaaylya,٣٥٪ بيرو • ٢٥٪ هندي • ٢٥٪ كولومبي • ١٥٪ إندونيسي,35% Peru + 25% Indian + 25% Colombian + 15% Indonesian,فنجان كريمي، يجمع بين حلاوة الكمثرى ونكهة الجوز مع قوام غني.,"Signature cup.
+Flavor profile: bright acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 4 / مرارة 2 / نكهة 5 / رائحة 4,Foam 4 / Body 4 / Acidity 4 / Bitterness 2 / Flavor 5 / Aroma 4,,,,,,,متوسط,Medium,,,,,,
+,,,,,TRB-098,أبو الهول,أBw Alhwl,٤٠٪ بيرو • ٣٠٪ جواتيمالا • ٢٠٪ هندي • ١٠٪ كيني,40% Peru + 30% Guatemala + 20% Indian + 10% Kenyan,غموض أبو الهول، فنجان يجمع بين حمضية التفاح الأخضر المشرقة وحلاوة العسل.,"Signature cup.
+Flavor profile: honey, apple; high acidity; medium-full body.",رغوة 4 / قوام 4.5 / حمضية 5 / مرارة 2 / نكهة 5 / رائحة 4,Foam 4 / Body 4.5 / Acidity 5 / Bitterness 2 / Flavor 5 / Aroma 4,,,,,,,-,Medium,,,,,,
+,,,,,TRB-099,وادي الملوك,Wady Almlwk,٣٥٪ يمني • ٤٠٪ حبشي • ٢٠٪ كولومبي • ٥٪ برازيلي,35% Yemeni + 40% Ethiopian + 20% Colombian + 5% Brazilian,كنز وادي الملوك، فنجان يجمع بين حلاوة المشمش المجفف والفواكه الداكنة مع قوام حريري.,"Signature cup.
+Flavor profile: high acidity; medium body.",رغوة 4 / قوام 3 / حمضية 5 / مرارة 2 / نكهة 5 / رائحة 5,Foam 4 / Body 3 / Acidity 5 / Bitterness 2 / Flavor 5 / Aroma 5,,,,,,,-,Medium,,,,,,
+,,,,,TRB-104,الفسطاط,Alfstat,٢٠٪ برازيلي • ٢٥٪ كولومبي • ٢٥٪ جواتيمالا • ٢٥٪ بيرو • ٥٪ يمني,20% Brazilian + 25% Colombian + 25% Guatemala + 25% Peru + 5% Yemeni,فنجان كلاسيكي، يجمع بين المكسرات والكراميل وشوكولاتة الحليب.,"Signature cup.
+Flavor profile: caramel, chocolate; bright acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 4 / مرارة 2.5 / نكهة 4 / رائحة 5,Foam 4 / Body 4 / Acidity 4 / Bitterness 2.5 / Flavor 4 / Aroma 5,,,,,,,-,Medium,,,,,,
+,,,,,TRB-113,حتشبسوت,Htshbswt,٣٠٪ حبشي • ٤٥٪ جواتيمالا • ١٥٪ كولومبي • ١٠٪ كيني,30% Ethiopian + 45% Guatemala + 15% Colombian + 10% Kenyan,قوة حتشبسوت، فنجان يجمع بين رائحة الزهور وحمضية الفواكه وعمق الشوكولاتة.,"Signature cup.
+Flavor profile: chocolate, floral; high acidity; medium-full body.",رغوة 4 / قوام 4.5 / حمضية 5 / مرارة 2 / نكهة 5 / رائحة 5,Foam 4 / Body 4.5 / Acidity 5 / Bitterness 2 / Flavor 5 / Aroma 5,,,,,,,-,Medium,,,,,,
+,,,,,TRB-114,رمسيس,Rmsys,٣٥٪ كيني • ٤٥٪ بيرو • ١٥٪ جواتيمالا • ٥٪ برازيلي,35% Kenyan + 45% Peru + 15% Guatemala + 5% Brazilian,فنجان ملكي، يجمع بين حلاوة التوت الأسود والشوكولاتة والمكسرات.,"Signature cup.
+Flavor profile: chocolate, berry; bright acidity; medium-full body.",رغوة 4 / قوام 4.5 / حمضية 4 / مرارة 2 / نكهة 5 / رائحة 4,Foam 4 / Body 4.5 / Acidity 4 / Bitterness 2 / Flavor 5 / Aroma 4,,,,,,,-,Medium,,,,,,
+,,,,,TRB-115,توت عنخ آمون,Twt Ankh آMwn,٣٥٪ كوستا ريكي • ٤٠٪ كولومبي • ٢٠٪ بيرو • ٥٪ فيتنامي,35% Costa Rican + 40% Colombian + 20% Peru + 5% Vietnamese,كنز توت عنخ آمون، فنجان يجمع بين حمضية البرتقال وحلاوة السكر البني.,"Signature cup.
+Flavor profile: berry; high acidity; medium-full body.",رغوة 3 / قوام 4 / حمضية 5 / مرارة 2 / نكهة 5 / رائحة 5,Foam 3 / Body 4 / Acidity 5 / Bitterness 2 / Flavor 5 / Aroma 5,,,,,,,-,Medium,,,,,,
+,,,,,TRB-118,إخناتون,إKhnatwn,٤٠٪ هندي • ٢٥٪ يمني • ٢٠٪ جواتيمالا • ١٥٪ كولومبي,40% Indian + 25% Yemeni + 20% Guatemala + 15% Colombian,فنجان فريد، يجمع بين التوابل والشوكولاتة وحلاوة الفواكه المجففة.,"Signature cup.
+Flavor profile: chocolate; bright acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 4 / مرارة 2.5 / نكهة 5 / رائحة 4,Foam 4 / Body 4 / Acidity 4 / Bitterness 2.5 / Flavor 5 / Aroma 4,,,,,,,-,Medium,,,,,,
+,,,,,TRB-120,نفرتيتي,Nfrtyty,٤٥٪ بيرو • ٣٠٪ هندي • ١٥٪ كوستا ريكي • ١٠٪ أوغندي,45% Peru + 30% Indian + 15% Costa Rican + 10% Ugandan,جمال نفرتيتي، فنجان متوازن يجمع بين حلاوة الكمثرى والعسل مع حمضية لطيفة.,"Signature cup.
+Flavor profile: honey; high acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 5 / مرارة 2.5 / نكهة 4 / رائحة 4,Foam 4 / Body 4 / Acidity 5 / Bitterness 2.5 / Flavor 4 / Aroma 4,,,,,,,-,Medium,,,,,,
+,,,,,TRB-125,نفرتاري,Nfrtary,٤٠٪ يمني • ٣٠٪ جواتيمالا • ٢٠٪ كولومبي • ١٠٪ برازيلي,40% Yemeni + 30% Guatemala + 20% Colombian + 10% Brazilian,فنجان رقيق، يجمع بين حلاوة الخوخ الأبيض ورائحة الزهور مع حلاوة فاكهية.,"Signature cup.
+Flavor profile: peach, floral; high acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 5 / مرارة 2 / نكهة 5 / رائحة 5,Foam 4 / Body 4 / Acidity 5 / Bitterness 2 / Flavor 5 / Aroma 5,,,,,,,-,Medium,,,,,,
+,,,,,TRB-126,الخارجة,Alkharja,٤٥٪ كوستا ريكي • ٢٥٪ حبشي • ٣٠٪ هندي أرابيكا,45% Costa Rican + 25% Ethiopian + 30% Indian Arabica,فنجان يجمع بين حمضية التفاح الأخضر وحلاوة العسل مع لمسة تابلية خفيفة.,"Signature cup.
+Flavor profile: honey, apple; bright acidity; medium-full body.",رغوة 3 / قوام 4 / حمضية 4 / مرارة 2 / نكهة 5 / رائحة 5,Foam 3 / Body 4 / Acidity 4 / Bitterness 2 / Flavor 5 / Aroma 5,,,,,,,فاتح,Light,,,,,,
+,,,,,TRB-127,محطة الرمل,Mhta Alrml,٤٠٪ بيرو • ٣٥٪ كيني • ٢٥٪ برازيلي,40% Peru + 35% Kenyan + 25% Brazilian,فنجان مشرق، يجمع بين حلاوة التوت الأحمر والكراميل والشوكولاتة.,"Signature cup.
+Flavor profile: caramel, chocolate, berry; bright acidity; medium-full body.",رغوة 4.5 / قوام 4 / حمضية 3.5 / مرارة 1 / نكهة 5 / رائحة 5,Foam 4.5 / Body 4 / Acidity 3.5 / Bitterness 1 / Flavor 5 / Aroma 5,,,,,,,فاتح جداً,Light,,,,,,
+,,,,,TRB-160,مارينا,Maryna,٩٠٪ برازيلي • ١٠٪ حبشي,90% Brazilian + 10% Ethiopian,فنجان بسيط وأنيق، يجمع بين نكهة المكسرات والشوكولاتة مع لمسة زهرية خفيفة.,"Signature cup.
+Flavor profile: chocolate; bright acidity; medium body.",رغوة 3 / قوام 3 / حمضية 4 / مرارة 2 / نكهة 4 / رائحة 3,Foam 3 / Body 3 / Acidity 4 / Bitterness 2 / Flavor 4 / Aroma 3,,,,,,,وسط,Medium,,,,,,
+,,,,,TRB-161,سيدي عبد الرحمن,Sydy Abd Alrhmn,٦٠٪ جواتيمالا • ٤٠٪ هندي أرابيكا,60% Guatemala + 40% Indian Arabica,فنجان دافئ، يجمع بين نعومة شوكولاتة الحليب ودفء التوابل وحلاوة الكراميل.,"Comforting cup.
+Flavor profile: caramel, chocolate; balanced acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 3 / مرارة 2 / نكهة 4 / رائحة 4,Foam 4 / Body 4 / Acidity 3 / Bitterness 2 / Flavor 4 / Aroma 4,,,,,,,وسط,Medium,,,,,,
+,,,,,TRB-201,حدائق المنتزه,Montaza Gardens,٢٥٪ حبشي • ٢٥٪ كيني • ٥٠٪ بيرو,25% Ethiopian + 25% Kenyan + 50% Peru,نزهة في حدائق المنتزه، فنجان يجمع بين حلاوة التوت الأسود والعسل مع حمضية الليمون المنعشة.,"Refreshing cup.
+Flavor profile: honey, berry; bright acidity; full body.",رغوة 5 / قوام 5 / حمضية 3.5 / مرارة 1 / نكهة 5 / رائحة 5,Foam 5 / Body 5 / Acidity 3.5 / Bitterness 1 / Flavor 5 / Aroma 5,,,,,,,فاتح,Light,,,,,,
+,,,,,TRB-202,واحة سيوة,Siwa Oasis,٤٠٪ يمني • ٤٠٪ بيرو • ٢٠٪ كوستا ريكي,40% Yemeni + 40% Peru + 20% Costa Rican,رحلة إلى سيوة، فنجان دافئ يجمع بين حلاوة الفواكه المجففة ودفء القرفة وعمق الكاكاو.,"A journey in a cup.
+Flavor profile: cocoa, cinnamon; bright acidity; full body.",رغوة 4 / قوام 5 / حمضية 4 / مرارة 1 / نكهة 5 / رائحة 5,Foam 4 / Body 5 / Acidity 4 / Bitterness 1 / Flavor 5 / Aroma 5,,,,,,,متوسط,Medium,,,,,,
+,,,,,TRB-203,المعز,Al-Muizz,٦٠٪ كولومبي • ٢٠٪ حبشي • ٢٠٪ برازيلي,60% Colombian + 20% Ethiopian + 20% Brazilian,فنجان كلاسيكي أصيل كشارع المعز، يجمع بين حلاوة الكراميل والجوز وشوكولاتة الحليب.,"Signature cup.
+Flavor profile: caramel, chocolate; balanced acidity; medium-full body.",رغوة 5 / قوام 4 / حمضية 3 / مرارة 1 / نكهة 5 / رائحة 5,Foam 5 / Body 4 / Acidity 3 / Bitterness 1 / Flavor 5 / Aroma 5,,,,,,,متوسط,Medium,,,,,,
+,,,,,TRB-204,سهل حشيش,Sahl Hasheesh,٧٠٪ جواتيمالا • ١٥٪ هندي • ١٥٪ فيتنامي,70% Guatemala + 15% Indian + 15% Vietnamese,استرخاء على الشاطئ، فنجان ناعم يجمع بين حلاوة الشوكولاتة البيضاء والفانيليا وجوز الهند.,"Signature cup.
+Flavor profile: chocolate, vanilla; balanced acidity; full body.",رغوة 4 / قوام 5 / حمضية 3 / مرارة 1 / نكهة 5 / رائحة 5,Foam 4 / Body 5 / Acidity 3 / Bitterness 1 / Flavor 5 / Aroma 5,,,,,,,متوسط فاتح,Light,,,,,,
+,,,,,TRB-205,القرنة,Al-Qurna,٤٥٪ بيرو • ٣٥٪ حبشي • ٢٠٪ يمني,45% Peru + 35% Ethiopian + 20% Yemeni,فنجان فاكهي وعطري، يجمع بين حلاوة المشمش ورائحة الزهور مع حلاوة عسل السدر الفاخرة.,"Luxurious cup.
+Flavor profile: honey, floral; high acidity; medium-full body.",رغوة 5 / قوام 4 / حمضية 5 / مرارة 1 / نكهة 5 / رائحة 5,Foam 5 / Body 4 / Acidity 5 / Bitterness 1 / Flavor 5 / Aroma 5,,,,,,,فاتح,Light,,,,,,
+,,,,,TRB-207,الحسين,Al-Hussein,٥٥٪ برازيلي • ٢٥٪ يمني • ٢٠٪ بيرو,55% Brazilian + 25% Yemeni + 20% Peru,فنجان شعبي وأصيل كأجواء الحسين، يجمع بين نكهة المكسرات المحمصة وحلاوة التمر والشوكولاتة.,"Signature cup.
+Flavor profile: chocolate, date; balanced acidity; full body.",رغوة 5 / قوام 5 / حمضية 3 / مرارة 1 / نكهة 5 / رائحة 5,Foam 5 / Body 5 / Acidity 3 / Bitterness 1 / Flavor 5 / Aroma 5,,,,,,,متوسط,Medium,,,,,,
+,,,,,TRB-208,أسوان,Aswan,٥٠٪ حبشي • ٣٥٪ بيرو • ١٥٪ هندي روبيستا,50% Ethiopian + 35% Peru + 15% Indian Robusta,دفء أسوان في فنجان، يجمع بين حلاوة التين المجفف والتوابل الدافئة وعمق الكاكاو.,"Comforting cup.
+Flavor profile: cocoa; bright acidity; medium-full body.",رغوة 4 / قوام 4.5 / حمضية 4 / مرارة 0.5 / نكهة 5 / رائحة 5,Foam 4 / Body 4.5 / Acidity 4 / Bitterness 0.5 / Flavor 5 / Aroma 5,,,,,,,متوسط فاتح,Light,,,,,,
+,,,,,TRB-210,شالي,Shali,٦٥٪ جواتيمالا • ١٥٪ حبشي • ١٥٪ فيتنامي • ٥٪ يمني,65% Guatemala + 15% Ethiopian + 15% Vietnamese + 5% Yemeni,فنجان أنيق، يجمع بين حلاوة الخوخ ونكهة الشاي الأسود الراقية مع حلاوة العسل الصافي.,"Signature cup.
+Flavor profile: honey, peach; bright acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 4 / مرارة 1 / نكهة 5 / رائحة 5,Foam 4 / Body 4 / Acidity 4 / Bitterness 1 / Flavor 5 / Aroma 5,,,,,,,فاتح,Light,,,,,,
+,,,,,TRB-211,دهب,Dahab,٥٠٪ أوغندي • ٣٠٪ كيني • ٢٠٪ حبشي,50% Ugandan + 30% Kenyan + 20% Ethiopian,مغامرة في دهب، فنجان يجمع بين حلاوة الفواكه الاستوائية والكراميل مع قوام غني وممتلئ.,"Signature cup.
+Flavor profile: caramel; bright acidity; full body.",رغوة 5 / قوام 5 / حمضية 4 / مرارة 2 / نكهة 5 / رائحة 5,Foam 5 / Body 5 / Acidity 4 / Bitterness 2 / Flavor 5 / Aroma 5,,,,,,,متوسط,Medium,,,,,,
+,,,,,TRB-212,الفيوم,Fayoum,٦٠٪ بيرو • ٢٠٪ يمني • ٢٠٪ فيتنامي,60% Peru + 20% Yemeni + 20% Vietnamese,هدوء وجمال الفيوم، فنجان يجمع بين حلاوة الكمثرى والفانيليا مع لمسة دخانية خفيفة.,"Signature cup.
+Flavor profile: vanilla; bright acidity; full body.",رغوة 4 / قوام 5 / حمضية 4 / مرارة 1 / نكهة 4 / رائحة 5,Foam 4 / Body 5 / Acidity 4 / Bitterness 1 / Flavor 4 / Aroma 5,,,,,,,متوسط فاتح,Light,,,,,,
+,,,,,TRB-213,الأقصر,Luxor,٤٥٪ كولومبي • ٣٥٪ هندي • ٢٠٪ إندونيسي,45% Colombian + 35% Indian + 20% Indonesian,عظمة الأقصر في فنجان، يجمع بين دفء القرفة وحلاوة الكراميل وجوز الهند المحمص.,"Comforting cup.
+Flavor profile: caramel, cinnamon; bright acidity; medium-full body.",رغوة 5 / قوام 4 / حمضية 4 / مرارة 2 / نكهة 5 / رائحة 5,Foam 5 / Body 4 / Acidity 4 / Bitterness 2 / Flavor 5 / Aroma 5,,,,,,,داكن خفيف,Dark,,,,,,
+,,,,,TRB-214,الساحل الشمالي,North Coast,٦٠٪ كوستا ريكي • ١٥٪ حبشي • ١٥٪ برازيلي • ١٠٪ جواتيمالا,60% Costa Rican + 15% Ethiopian + 15% Brazilian + 10% Guatemala,انتعاش الساحل، فنجان يجمع بين حمضية الفواكه المنعشة وحلاوة العسل الأبيض ورائحة الزهور.,"Refreshing cup.
+Flavor profile: honey, floral; bright acidity; medium-full body.",رغوة 4 / قوام 4.5 / حمضية 4 / مرارة 1 / نكهة 5 / رائحة 5,Foam 4 / Body 4.5 / Acidity 4 / Bitterness 1 / Flavor 5 / Aroma 5,,,,,,,فاتح,Light,,,,,,
+,,,,,TRB-215,فيلة,Philae,٤٠٪ حبشي • ٤٠٪ بيرو • ٢٠٪ أوغندي,40% Ethiopian + 40% Peru + 20% Ugandan,سحر معبد فيلة، فنجان فاكهي غني يجمع بين حلاوة المشمش المجفف والبرقوق.,"Signature cup.
+Flavor profile: high acidity; full body.",رغوة 5 / قوام 5 / حمضية 5 / مرارة 1 / نكهة 5 / رائحة 5,Foam 5 / Body 5 / Acidity 5 / Bitterness 1 / Flavor 5 / Aroma 5,,,,,,,فاتح,Light,,,,,,
+,,,,,TRB-216,مصر القديمة,Old Cairo,٥٥٪ يمني • ٢٥٪ جواتيمالا • ٢٠٪ فيتنامي,55% Yemeni + 25% Guatemala + 20% Vietnamese,رحلة إلى مصر القديمة، فنجان يجمع بين حلاوة التمر وعمق الكاكاو الخام والتوابل الشرقية الأصيلة.,"A journey in a cup.
+Flavor profile: cocoa, date; balanced acidity; full body.",رغوة 4 / قوام 5 / حمضية 3 / مرارة 1 / نكهة 5 / رائحة 5,Foam 4 / Body 5 / Acidity 3 / Bitterness 1 / Flavor 5 / Aroma 5,,,,,,,متوسط,Medium,,,,,,
+,,,,,TRB-217,هليوبوليس,Heliopolis,٥٠٪ كيني • ٣٠٪ هندي أرابيكا • ٢٠٪ برازيلي,50% Kenyan + 30% Indian Arabica + 20% Brazilian,أناقة هليوبوليس، فنجان يجمع بين حلاوة التوت الأسود والفستق مع عمق الشوكولاتة.,"Signature cup.
+Flavor profile: chocolate, berry; bright acidity; full body.",رغوة 5 / قوام 5 / حمضية 4 / مرارة 2 / نكهة 4 / رائحة 5,Foam 5 / Body 5 / Acidity 4 / Bitterness 2 / Flavor 4 / Aroma 5,,,,,,,متوسط,Medium,,,,,,
+,,,,,TRB-218,جاردن سيتي,Garden City,٦٥٪ جواتيمالا • ٢٠٪ بيرو • ١٠٪ برازيلي • ٥٪ يمني,65% Guatemala + 20% Peru + 10% Brazilian + 5% Yemeni,هدوء جاردن سيتي، فنجان يجمع بين نعومة شوكولاتة الحليب وحلاوة العسل مع لمسة خشبية دافئة.,"Signature cup.
+Flavor profile: chocolate, honey; balanced acidity; full body.",رغوة 4 / قوام 5 / حمضية 3 / مرارة 1 / نكهة 5 / رائحة 5,Foam 4 / Body 5 / Acidity 3 / Bitterness 1 / Flavor 5 / Aroma 5,,,,,,,متوسط فاتح,Light,,,,,,
+,,,,,TRB-219,قصر البارون,Baron Palace,٤٥٪ حبشي • ٣٥٪ كولومبي • ١٠٪ بيرو • ١٠٪ برازيلي,45% Ethiopian + 35% Colombian + 10% Peru + 10% Brazilian,فخامة قصر البارون، فنجان عطري يجمع بين رائحة الياسمين وحلاوة الكمثرى والعسل.,"Signature cup.
+Flavor profile: honey, jasmine; bright acidity; medium-full body.",رغوة 5 / قوام 4 / حمضية 4 / مرارة 1 / نكهة 5 / رائحة 5,Foam 5 / Body 4 / Acidity 4 / Bitterness 1 / Flavor 5 / Aroma 5,,,,,,,فاتح,Light,,,,,,
+,,,,,TRB-220,القلعة,Alqlaa,٦٠٪ برازيلي • ٢٠٪ أوغندي • ٢٠٪ يمني,60% Brazilian + 20% Ugandan + 20% Yemeni,قوة وصلابة القلعة، فنجان قوي يجمع بين نكهة الجوز المحمص والكراميل الداكن مع قوام كريمي.,"Bold cup.
+Flavor profile: caramel; balanced acidity; full body.",رغوة 5 / قوام 5 / حمضية 3 / مرارة 2 / نكهة 5 / رائحة 5,Foam 5 / Body 5 / Acidity 3 / Bitterness 2 / Flavor 5 / Aroma 5,,,,,,,داكن,Dark,,,,,,
+,,,,,TRB-221,مرسى علم,Mrsa Alm,٥٠٪ بيرو • ٣٠٪ كوستا ريكي • ٢٠٪ فيتنامي,50% Peru + 30% Costa Rican + 20% Vietnamese,انتعاش مرسى علم، فنجان يجمع بين حمضية التفاح الأخضر وحلاوة العسل في تجربة منعشة.,"Refreshing cup.
+Flavor profile: honey, apple; high acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 5 / مرارة 1 / نكهة 5 / رائحة 5,Foam 4 / Body 4 / Acidity 5 / Bitterness 1 / Flavor 5 / Aroma 5,,,,,,,فاتح,Light,,,,,,
+,,,,,TRB-222,أبو سمبل,أBw Smbl,٣٥٪ إندونيسي • ٤٥٪ هندي • ٢٠٪ كيني,35% Indonesian + 45% Indian + 20% Kenyan,رهبة أبو سمبل، فنجان غني يجمع بين حلاوة توت العليق ودفء جوزة الطيب والقرفة.,"Comforting cup.
+Flavor profile: berry, cinnamon; balanced acidity; full body.",رغوة 4 / قوام 5 / حمضية 3 / مرارة 2 / نكهة 4 / رائحة 5,Foam 4 / Body 5 / Acidity 3 / Bitterness 2 / Flavor 4 / Aroma 5,,,,,,,متوسط داكن,Dark,,,,,,
+,,,,,TRB-223,جزيرة النباتات,Jzyra Alnbatat,٥٠٪ حبشي • ٣٠٪ كولومبي • ٢٠٪ أوغندي,50% Ethiopian + 30% Colombian + 20% Ugandan,حديقة عطرية، فنجان يجمع بين رائحة زهور البرتقال وحلاوة الكمثرى والعسل.,"Signature cup.
+Flavor profile: honey, floral; bright acidity; medium-full body.",رغوة 5 / قوام 4.5 / حمضية 4.5 / مرارة 1 / نكهة 5 / رائحة 5,Foam 5 / Body 4.5 / Acidity 4.5 / Bitterness 1 / Flavor 5 / Aroma 5,,,,,,,فاتح,Light,,,,,,
+,,,,,TRB-224,الكرنك,Alkrnk,٧٠٪ يمني • ١٥٪ كيني • ١٥٪ برازيلي,70% Yemeni + 15% Kenyan + 15% Brazilian,تاريخ الكرنك، فنجان يجمع بين حلاوة المشمش وعسل السدر الفاخر مع التوابل الدافئة.,"Luxurious cup.
+Flavor profile: honey; bright acidity; full body.",رغوة 4 / قوام 5 / حمضية 4 / مرارة 1 / نكهة 4 / رائحة 5,Foam 4 / Body 5 / Acidity 4 / Bitterness 1 / Flavor 4 / Aroma 5,,,,,,,متوسط,Medium,,,,,,
+,,,,,TRB-225,بورفؤاد,BwrfؤAd,٤٥٪ فيتنامي • ٣٠٪ بيرو • ٢٥٪ هندي أرابيكا,45% Vietnamese + 30% Peru + 25% Indian Arabica,فنجان كلاسيكي، يجمع بين الشوكولاتة الداكنة والمكسرات مع لمسة ترابية أصيلة.,"Signature cup.
+Flavor profile: chocolate; bright acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 4 / مرارة 2 / نكهة 5 / رائحة 5,Foam 4 / Body 4 / Acidity 4 / Bitterness 2 / Flavor 5 / Aroma 5,,,,,,,متوسط,Medium,,,,,,
+,,,,,TRB-226,شرم الشيخ,Shrm Alshykh,٥٥٪ أوغندي • ٢٥٪ حبشي • ٢٠٪ كولومبي,55% Ugandan + 25% Ethiopian + 20% Colombian,متعة شرم الشيخ، فنجان فاكهي يجمع بين حلاوة الأناناس والكراميل والفواكه الاستوائية.,"Signature cup.
+Flavor profile: caramel, pineapple; bright acidity; full body.",رغوة 5 / قوام 5 / حمضية 4.5 / مرارة 2 / نكهة 5 / رائحة 5.5,Foam 5 / Body 5 / Acidity 4.5 / Bitterness 2 / Flavor 5 / Aroma 5.5,,,,,,,متوسط فاتح,Light,,,,,,
+,,,,,TRB-227,المعمورة,Almamwra,٤٥٪ كوستا ريكي • ٣٥٪ حبشي • ٢٠٪ إندونيسي,45% Costa Rican + 35% Ethiopian + 20% Indonesian,فنجان راقٍ، يجمع بين رائحة شاي الياسمين وحلاوة الخوخ مع حمضية الليمون المنعشة.,"Refreshing cup.
+Flavor profile: peach, jasmine; high acidity; medium-full body.",رغوة 4 / قوام 4 / حمضية 5.5 / مرارة 1 / نكهة 5 / رائحة 5,Foam 4 / Body 4 / Acidity 5.5 / Bitterness 1 / Flavor 5 / Aroma 5,,,,,,,فاتح,Light,,,,,,
+,,,,,TRB-229,العين السخنة,Alayn Alskhna,٦٠٪ جواتيمالا • ٢٥٪ بيرو • ١٥٪ فيتنامي,60% Guatemala + 25% Peru + 15% Vietnamese,استرخاء العين السخنة، فنجان يجمع بين حلاوة الكراميل وشوكولاتة الحليب مع قوام ناعم جداً.,"Signature cup.
+Flavor profile: caramel, chocolate; bright acidity; full body.",رغوة 4 / قوام 5.5 / حمضية 4 / مرارة 0.5 / نكهة 4 / رائحة 5,Foam 4 / Body 5.5 / Acidity 4 / Bitterness 0.5 / Flavor 4 / Aroma 5,,,,,,,متوسط,Medium,,,,,,
+,,,,,TRB-230,الدرب الأحمر,Aldrb AlأHmr,٤٥٪ برازيلي • ٣٠٪ يمني • ٢٥٪ بيرو,45% Brazilian + 30% Yemeni + 25% Peru,أصالة الدرب الأحمر، فنجان قوي وغني يجمع بين الكراميل الداكن والفواكه المجففة والمكسرات.,"Bold cup.
+Flavor profile: caramel; balanced acidity; full body.",رغوة 5.5 / قوام 5.5 / حمضية 3 / مرارة 1 / نكهة 5 / رائحة 5,Foam 5.5 / Body 5.5 / Acidity 3 / Bitterness 1 / Flavor 5 / Aroma 5,,,,,,,متوسط داكن,Dark,,,,,,
+,,,,,TRB-231,مراسي,Mrasy,٦٠٪ جواتيمالا • ٢٠٪ هندي • ٢٠٪ فيتنامي,60% Guatemala + 20% Indian + 20% Vietnamese,رفاهية مراسي، فنجان أنيق يجمع بين حلاوة الشوكولاتة البيضاء والفانيليا مع لمسة زهرية رقيقة.,"Signature cup.
+Flavor profile: chocolate, vanilla; balanced acidity; full body.",رغوة 5 / قوام 5 / حمضية 3 / مرارة 1 / نكهة 4 / رائحة 5,Foam 5 / Body 5 / Acidity 3 / Bitterness 1 / Flavor 4 / Aroma 5,,,,,,,متوسط فاتح,Light,,,,,,
+,,,,,TRB-232X,وسط البلد,Wst Albld,٤٥٪ كولومبي • ٣٥٪ كيني • ٢٠٪ أوغندي,45% Colombian + 35% Kenyan + 20% Ugandan,حيوية وسط البلد، فنجان يجمع بين حلاوة التوت الأزرق (عنبية) والشوكولاتة الداكنة.,"Signature cup.
+Flavor profile: chocolate, berry; low acidity; full body.",رغوة 5 / قوام 5 / حمضية 2.5 / مرارة 2 / نكهة 5 / رائحة 5,Foam 5 / Body 5 / Acidity 2.5 / Bitterness 2 / Flavor 5 / Aroma 5,,,,,,,متوسط,Medium,,,,,,
+,,,,,TRB-233,رأس الحكمة,RأS Alhkma,٥٠٪ بيرو • ٣٠٪ حبشي • ٢٠٪ كوستا ريكي,50% Peru + 30% Ethiopian + 20% Costa Rican,صفاء رأس الحكمة، فنجان يجمع بين حمضية التفاح الأخضر وحلاوة العسل مع لمسة زهرية ناعمة.,"Signature cup.
+Flavor profile: honey, apple; balanced acidity; full body.",رغوة 4 / قوام 5 / حمضية 3 / مرارة 1 / نكهة 5 / رائحة 5,Foam 4 / Body 5 / Acidity 3 / Bitterness 1 / Flavor 5 / Aroma 5,,,,,,,فاتح,Light,,,,,,
+,,,,,TRB-234,الأزهر,AlأZhr,٥٥٪ يمني • ٢٥٪ جواتيمالا • ٢٠٪ فيتنامي,55% Yemeni + 25% Guatemala + 20% Vietnamese,روحانية الأزهر، فنجان يجمع بين حلاوة التمر وعمق الكاكاو ودفء القرفة.,"Comforting cup.
+Flavor profile: cocoa, cinnamon, date; bright acidity; full body.",رغوة 5 / قوام 5 / حمضية 4 / مرارة 1 / نكهة 4 / رائحة 5,Foam 5 / Body 5 / Acidity 4 / Bitterness 1 / Flavor 4 / Aroma 5,,,,,,,داكن خفيف,Dark,,,,,,
+,,,,,TRB-235,قايتباي,Qaytbay,٤٥٪ كيني • ٣٥٪ هندي أرابيكا • ٢٠٪ برازيلي,45% Kenyan + 35% Indian Arabica + 20% Brazilian,فنجان متوازن، يجمع بين حلاوة التوت الأسود والكراميل المملح والمكسرات.,"Signature cup.
+Flavor profile: caramel, berry; bright acidity; medium-full body.",رغوة 5 / قوام 4 / حمضية 4 / مرارة 1 / نكهة 4 / رائحة 5,Foam 5 / Body 4 / Acidity 4 / Bitterness 1 / Flavor 4 / Aroma 5,,,,,,,متوسط,Medium,,,,,,
+,,,,,TRK-001,خان الخليلي,Khan El Khalili,٥٠٪ برازيلي • ٣٠٪ يمني • ٢٠٪ بيرو,50% Brazilian + 30% Yemeni + 20% Peru,فنجان أصيل كأجواء خان الخليلي، يجمع بين الشوكولاتة الداكنة والمكسرات المحمصة وحلاوة التمر.,"Signature cup.
+Flavor profile: chocolate, date; balanced acidity; full body.",رغوة 5 / قوام 5 / حمضية 3 / مرارة 1.5 / نكهة 5 / رائحة 5,Foam 5 / Body 5 / Acidity 3 / Bitterness 1.5 / Flavor 5 / Aroma 5,,,,,,,متوسط,Medium,,,,,,
+,,,,,TRK-002,الزمالك,Zamalek,٦٠٪ كولومبي • ٢٥٪ حبشي • ١٠٪ برازيلي • ٥٪ يمني,60% Colombian + 25% Ethiopian + 10% Brazilian + 5% Yemeni,فنجان أنيق وراقي، يجمع بين حلاوة الكراميل ورائحة الزهور البيضاء مع لمسة فاكهية منعشة.,"Refreshing cup.
+Flavor profile: caramel, floral; bright acidity; full body.",رغوة 4 / قوام 5 / حمضية 3.5 / مرارة 1 / نكهة 5 / رائحة 5,Foam 4 / Body 5 / Acidity 3.5 / Bitterness 1 / Flavor 5 / Aroma 5,,,,,,,متوسط فاتح,Light,,,,,,
+,,,,,TRK-003,الجونا,El Gouna,٧٠٪ جواتيمالا • ٣٠٪ هندي مايسور,70% Guatemala + 30% Indian Mysore,قهوة ناعمة ومريحة، تمنحك إحساسًا بالاسترخاء مع نكهة شوكولاتة الحليب والفانيليا ولمسة قرفة دافئة.,"Comforting cup.
+Flavor profile: chocolate, vanilla, cinnamon; bright acidity; medium-full body.",رغوة 3 / قوام 4 / حمضية 4 / مرارة 2 / نكهة 5 / رائحة 4,Foam 3 / Body 4 / Acidity 4 / Bitterness 2 / Flavor 5 / Aroma 4,,,,,,,فاتح,Light,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,  Indonesian,إندونيسي ,333,403,433,453
+,,,,,,,,,,,,,,,,,,,,,,  Ugandan,أوغندي  ,342,410,440,460
+,,,,,,,,,,,,,,,,,,,,,,Brazilian Robusta,برازيلي روبيستا,323,384,414,434
+,,,,,,,,,,,,,,,,,,,,,,Brazilian Santos,برازيلي سانتوس  ,490,590,620,640
+,,,,,,,,,,,,,,,,,,,,,,Colombian,كولومبي ,620,747,777,797
+,,,,,,,,,,,,,,,,,,,,,,Costa Rican,كوستا ريكي,690,830,860,880
+,,,,,,,,,,,,,,,,,,,,,,Ethiopian Harrar,حبشي هراري,490,595,625,645
+,,,,,,,,,,,,,,,,,,,,,,Ethiopian Lekemti,حبشي لقمتي ,350,420,450,470
+,,,,,,,,,,,,,,,,,,,,,,Guatemala,جواتيمالا,710,852,882,902
+,,,,,,,,,,,,,,,,,,,,,,Indian Arabica,هندي أربيكا ,545,654,684,704
+,,,,,,,,,,,,,,,,,,,,,,Indian Mysore,هندي ميسور,690,830,860,880
+,,,,,,,,,,,,,,,,,,,,,,Indian Robusta,هندي روبيستا ,365,445,475,495
+,,,,,,,,,,,,,,,,,,,,,,Kenya,كينيا ,690,830,860,880
+,,,,,,,,,,,,,,,,,,,,,,Name,اسم البن,بن أخضر,تحميص فاتح,تحميص وسط,تحميص غامق
+,,,,,,,,,,,,,,,,,,,,,,Peru,بيرو,670,804,834,854
+,,,,,,,,,,,,,,,,,,,,,,Vietnamese,فيتنامي  ,343,406,436,456
+,,,,,,,,,,,,,,,,,,,,,,Yemeni,يمني ,1010,1217,1247,1267
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
