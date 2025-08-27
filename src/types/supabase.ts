@@ -7,6 +7,7 @@ export interface Profile {
     full_name: string | null;
     phone_number: string | null;
     admin_notes: string | null;
+    address: string | null;
 }
 
 export interface CoffeeType {
