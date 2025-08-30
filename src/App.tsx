@@ -55,7 +55,7 @@ import NotificationsManager from './pages/admin/NotificationsManager';
 import SuppliersManager from './pages/admin/accounting/SuppliersManager';
 import FixedExpensesManager from './pages/admin/accounting/FixedExpensesManager';
 import SalariesManager from './pages/admin/accounting/SalariesManager';
-import ContentManager from './pages/admin/ContentManager'; // Import the new page
+import ContentManager from './pages/admin/ContentManager';
 
 // Roaster Page
 import LiveOperationsPage from './pages/roaster/LiveOperationsPage';
@@ -71,7 +71,14 @@ function App() {
             <CartProvider>
               <ThemeProvider attribute="class" defaultTheme="dark" enableSystem>
                 <Toaster richColors position="bottom-right" />
-                <Router>
+
+                {/* Router with v7 future flags */}
+                <Router
+                  future={{
+                    v7_startTransition: true,
+                    v7_relativeSplatPath: true,
+                  }}
+                >
                   <Routes>
                     {/* Public Routes with Main Layout */}
                     <Route element={<MainLayout />}>
@@ -84,7 +91,7 @@ function App() {
                       <Route path="/about" element={<AboutPage />} />
                       <Route path="/faq" element={<FaqPage />} />
                       <Route path="/contact" element={<ContactPage />} />
-                      
+
                       <Route element={<ProtectedRoute allowedRoles={['admin', 'roaster', 'user']} />}>
                         <Route path="/profile" element={<ProfilePage />} />
                       </Route>
@@ -125,7 +132,7 @@ function App() {
                         <Route path="settings" element={<StoreSettings />} />
                         <Route path="loyalty-settings" element={<LoyaltySettings />} />
                         <Route path="notifications" element={<NotificationsManager />} />
-                        <Route path="content" element={<ContentManager />} /> {/* Add the new route */}
+                        <Route path="content" element={<ContentManager />} />
                       </Route>
                     </Route>
 

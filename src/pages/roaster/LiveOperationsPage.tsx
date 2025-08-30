@@ -25,231 +25,268 @@ import CostInputDialog from '@/components/roaster/CostInputDialog';
 import { showSuccess, showError } from '@/utils/toast';
 
 const fetchLiveOrders = async (): Promise<Order[]> => {
-    const statuses: OrderStatus[] = ['pending', 'processing', 'shipped'];
-    const { data, error } = await supabase
-        .from('orders')
-        .select('*')
-        .in('status', statuses)
-        .order('created_at', { ascending: true });
-    if (error) throw new Error(error.message);
-    return data;
+  const statuses: OrderStatus[] = ['pending', 'processing', 'shipped'];
+  const { data, error } = await supabase
+    .from('orders')
+    .select('*')
+    .in('status', statuses)
+    .order('created_at', { ascending: true });
+  if (error) throw new Error(error.message);
+  return data;
 };
 
 const LiveOperationsPage = () => {
-    const queryClient = useQueryClient();
-    const [alertedOrderIds, setAlertedOrderIds] = useState<Set<string>>(new Set());
-    const { signOut, profile, user } = useAuth();
-    const navigate = useNavigate();
-    const [cancelDialogOpen, setCancelDialogOpen] = useState(false);
-    const [orderToCancel, setOrderToCancel] = useState<Order | null>(null);
-    const [cancelReason, setCancelReason] = useState('');
-    
-    const [isCostDialogOpen, setIsCostDialogOpen] = useState(false);
-    const [orderForCostInput, setOrderForCostInput] = useState<Order | null>(null);
+  const queryClient = useQueryClient();
+  const [alertedOrderIds, setAlertedOrderIds] = useState<Set<string>>(new Set());
+  const { signOut, profile, user } = useAuth();
+  const navigate = useNavigate();
+  const [cancelDialogOpen, setCancelDialogOpen] = useState(false);
+  const [orderToCancel, setOrderToCancel] = useState<Order | null>(null);
+  const [cancelReason, setCancelReason] = useState('');
+  const [isCostDialogOpen, setIsCostDialogOpen] = useState(false);
+  const [orderForCostInput, setOrderForCostInput] = useState<Order | null>(null);
 
-    const { data: orders, isLoading } = useQuery<Order[]>({
-        queryKey: ['liveOrders'],
-        queryFn: fetchLiveOrders,
-    });
+  const { data: orders, isLoading } = useQuery<Order[]>({
+    queryKey: ['liveOrders'],
+    queryFn: fetchLiveOrders,
+  });
 
-    useEffect(() => {
-        if (orders) {
-            setAlertedOrderIds(new Set(orders.map(o => o.id)));
+  useEffect(() => {
+    if (orders) {
+      setAlertedOrderIds(new Set(orders.map(o => o.id)));
+    }
+  }, [orders]);
+
+  useEffect(() => {
+    const channel = supabase
+      .channel('live-operations-orders')
+      .on('postgres_changes', { event: '*', schema: 'public', table: 'orders' },
+        (payload) => {
+          if (!payload?.new) return;
+
+          const newOrder = payload.new as Order;
+
+          if (payload.eventType === 'INSERT' && newOrder.status === 'pending') {
+            setAlertedOrderIds(prev => {
+              if (!prev.has(newOrder.id)) {
+                const audio = new Audio('/notification.mp3');
+                audio.play().catch(e => console.error('Audio play failed:', e));
+                return new Set(prev).add(newOrder.id);
+              }
+              return prev;
+            });
+          }
+
+          queryClient.invalidateQueries({ queryKey: ['liveOrders'] });
+          queryClient.invalidateQueries({ queryKey: ['liveReportsOrders'] });
         }
-    }, [orders]);
+      )
+      .subscribe();
 
-    useEffect(() => {
-        const channel = supabase
-            .channel('live-operations-orders')
-            .on('postgres_changes', { event: '*', schema: 'public', table: 'orders' },
-                (payload) => {
-                    const newOrder = payload.new as Order;
-                    if (payload.eventType === 'INSERT' && newOrder.status === 'pending') {
-                        if (!alertedOrderIds.has(newOrder.id)) {
-                            const audio = new Audio('/notification.mp3');
-                            audio.play().catch(e => console.error("Audio play failed:", e));
-                            setAlertedOrderIds(prev => new Set(prev).add(newOrder.id));
-                        }
-                    }
-                    queryClient.invalidateQueries({ queryKey: ['liveOrders'] });
-                    queryClient.invalidateQueries({ queryKey: ['liveReportsOrders'] });
-                }
-            )
-            .subscribe();
-
-        return () => {
-            supabase.removeChannel(channel);
-        };
-    }, [queryClient, alertedOrderIds]);
-
-    const handleStatusChange = useCallback(async (order: Order, newStatus: OrderStatus) => {
-        if (newStatus === 'cancelled') {
-            setOrderToCancel(order);
-            setCancelDialogOpen(true);
-        } else if (newStatus === 'completed') {
-            setOrderForCostInput(order);
-            setIsCostDialogOpen(true);
-        } else {
-            await supabase.from('orders').update({ status: newStatus }).eq('id', order.id);
-            queryClient.invalidateQueries({ queryKey: ['liveOrders'] });
-            queryClient.invalidateQueries({ queryKey: ['liveReportsOrders'] });
-        }
-    }, [queryClient]);
-
-    const confirmCancel = async () => {
-        if (!orderToCancel || !cancelReason.trim()) return;
-        await supabase.from('orders').update({ status: 'cancelled', cancel_reason: cancelReason }).eq('id', orderToCancel.id);
-        queryClient.invalidateQueries({ queryKey: ['liveOrders'] });
-        queryClient.invalidateQueries({ queryKey: ['liveReportsOrders'] });
-        setCancelDialogOpen(false);
-        setOrderToCancel(null);
-        setCancelReason('');
+    return () => {
+      supabase.removeChannel(channel);
     };
+  }, [queryClient]);
 
-    const handleConfirmCost = async (orderId: string, cost: number) => {
-        if (!user?.id) {
-            showError('User not authenticated. Cannot record payout.');
-            return;
-        }
+  const handleStatusChange = useCallback(async (order: Order, newStatus: OrderStatus) => {
+    if (newStatus === 'cancelled') {
+      setOrderToCancel(order);
+      setCancelDialogOpen(true);
+    } else if (newStatus === 'completed') {
+      setOrderForCostInput(order);
+      setIsCostDialogOpen(true);
+    } else {
+      await supabase.from('orders').update({ status: newStatus }).eq('id', order.id);
+      queryClient.invalidateQueries({ queryKey: ['liveOrders'] });
+      queryClient.invalidateQueries({ queryKey: ['liveReportsOrders'] });
+    }
+  }, [queryClient]);
 
-        try {
-            // 1. تسجيل المبلغ المستحق للمحمصة في جدول roastery_payouts
-            const { error: payoutError } = await supabase
-                .from('roastery_payouts')
-                .insert({
-                    order_id: orderId,
-                    payout_amount: cost,
-                    recorded_by: user.id,
-                });
+  const confirmCancel = async () => {
+    if (!orderToCancel || !cancelReason.trim()) return;
 
-            if (payoutError) throw payoutError;
+    try {
+      const { error } = await supabase
+        .from('orders')
+        .update({ status: 'cancelled', cancel_reason: cancelReason })
+        .eq('id', orderToCancel.id);
 
-            // 2. تحديث حالة الطلب إلى 'completed' في جدول orders (دون المساس بـ order_cost)
-            const { error: orderUpdateError } = await supabase
-                .from('orders')
-                .update({ status: 'completed' })
-                .eq('id', orderId);
+      if (error) throw error;
 
-            if (orderUpdateError) throw orderUpdateError;
+      showSuccess('تم إلغاء الطلب بنجاح.');
+    } catch (err: any) {
+      showError(`حدث خطأ أثناء الإلغاء: ${err.message}`);
+    } finally {
+      queryClient.invalidateQueries({ queryKey: ['liveOrders'] });
+      queryClient.invalidateQueries({ queryKey: ['liveReportsOrders'] });
+      setCancelDialogOpen(false);
+      setOrderToCancel(null);
+      setCancelReason('');
+    }
+  };
 
-            showSuccess('تم إتمام الطلب وتسجيل تكلفة المحمصة بنجاح.');
-        } catch (error: any) {
-            showError(`فشل إتمام الطلب أو تسجيل التكلفة: ${error.message}`);
-        } finally {
-            queryClient.invalidateQueries({ queryKey: ['liveOrders'] });
-            queryClient.invalidateQueries({ queryKey: ['liveReportsOrders'] });
-            setIsCostDialogOpen(false);
-            setOrderForCostInput(null);
-        }
-    };
+  const handleConfirmCost = async (orderId: string, cost: number) => {
+    if (!user?.id) {
+      showError('User not authenticated. Cannot record payout.');
+      return;
+    }
 
-    const columns = useMemo(() => {
-        const pending = orders?.filter(o => o.status === 'pending') || [];
-        const processing = orders?.filter(o => o.status === 'processing') || [];
-        const shipped = orders?.filter(o => o.status === 'shipped') || [];
-        return { pending, processing, shipped };
-    }, [orders]);
+    try {
+      const { error: payoutError } = await supabase
+        .from('roastery_payouts')
+        .insert({
+          order_id: orderId,
+          payout_amount: cost,
+          recorded_by: user.id,
+        });
 
-    const LiveBoard = () => (
-        <div className="flex-grow grid grid-cols-1 md:grid-cols-3 gap-4 overflow-hidden">
-            <div className="bg-background rounded-lg p-4 flex flex-col">
-                <h2 className="flex-shrink-0 text-xl font-semibold mb-4 text-center">طلبات جديدة ({columns.pending.length})</h2>
-                <div className="flex-grow overflow-y-auto p-1">
-                    {columns.pending.map(order => <LiveOrderCard key={order.id} order={order} onStatusChange={handleStatusChange} />)}
-                </div>
-            </div>
-            <div className="bg-background rounded-lg p-4 flex flex-col">
-                <h2 className="flex-shrink-0 text-xl font-semibold mb-4 text-center">قيد التجهيز ({columns.processing.length})</h2>
-                <div className="flex-grow overflow-y-auto p-1">
-                    {columns.processing.map(order => <LiveOrderCard key={order.id} order={order} onStatusChange={handleStatusChange} />)}
-                </div>
-            </div>
-            <div className="bg-background rounded-lg p-4 flex flex-col">
-                <h2 className="flex-shrink-0 text-xl font-semibold mb-4 text-center">جاهز للتسليم ({columns.shipped.length})</h2>
-                <div className="flex-grow overflow-y-auto p-1">
-                    {columns.shipped.map(order => <LiveOrderCard key={order.id} order={order} onStatusChange={handleStatusChange} />)}
-                </div>
-            </div>
+      if (payoutError) throw payoutError;
+
+      const { error: orderUpdateError } = await supabase
+        .from('orders')
+        .update({ status: 'completed' })
+        .eq('id', orderId);
+
+      if (orderUpdateError) throw orderUpdateError;
+
+      showSuccess('تم إتمام الطلب وتسجيل تكلفة المحمصة بنجاح.');
+    } catch (error: any) {
+      showError(`فشل إتمام الطلب أو تسجيل التكلفة: ${error.message}`);
+    } finally {
+      queryClient.invalidateQueries({ queryKey: ['liveOrders'] });
+      queryClient.invalidateQueries({ queryKey: ['liveReportsOrders'] });
+      setIsCostDialogOpen(false);
+      setOrderForCostInput(null);
+    }
+  };
+
+  const columns = useMemo(() => {
+    const pending = orders?.filter(o => o.status === 'pending') || [];
+    const processing = orders?.filter(o => o.status === 'processing') || [];
+    const shipped = orders?.filter(o => o.status === 'shipped') || [];
+    return { pending, processing, shipped };
+  }, [orders]);
+
+  const LiveBoard = () => (
+    <div className="flex-grow grid grid-cols-1 md:grid-cols-3 gap-4 overflow-hidden">
+      <div className="bg-background rounded-lg p-4 flex flex-col">
+        <h2 className="flex-shrink-0 text-xl font-semibold mb-4 text-center">
+          طلبات جديدة ({columns.pending.length})
+        </h2>
+        <div className="flex-grow overflow-y-auto p-1">
+          {columns.pending.map(order => (
+            <LiveOrderCard key={order.id} order={order} onStatusChange={handleStatusChange} />
+          ))}
         </div>
-    );
+      </div>
+      <div className="bg-background rounded-lg p-4 flex flex-col">
+        <h2 className="flex-shrink-0 text-xl font-semibold mb-4 text-center">
+          قيد التجهيز ({columns.processing.length})
+        </h2>
+        <div className="flex-grow overflow-y-auto p-1">
+          {columns.processing.map(order => (
+            <LiveOrderCard key={order.id} order={order} onStatusChange={handleStatusChange} />
+          ))}
+        </div>
+      </div>
+      <div className="bg-background rounded-lg p-4 flex flex-col">
+        <h2 className="flex-shrink-0 text-xl font-semibold mb-4 text-center">
+          جاهز للتسليم ({columns.shipped.length})
+        </h2>
+        <div className="flex-grow overflow-y-auto p-1">
+          {columns.shipped.map(order => (
+            <LiveOrderCard key={order.id} order={order} onStatusChange={handleStatusChange} />
+          ))}
+        </div>
+      </div>
+    </div>
+  );
 
-    return (
-        <div className="flex flex-col h-screen bg-muted/40 p-4" dir="rtl">
-            <header className="flex-shrink-0 flex justify-between items-center mb-4">
-                <h1 className="text-3xl font-bold flex items-center gap-2"><Volume2 className="text-primary"/> العمليات الحية</h1>
-                <div className="flex items-center gap-2">
-                    {profile?.role === 'admin' && (
-                        <Button asChild variant="ghost" size="icon" className="h-10 w-10 rounded-full">
-                            <Link to="/admin/dashboard" aria-label="Admin Dashboard">
-                                <Shield className="h-5 w-5" />
-                            </Link>
-                        </Button>
-                    )}
-                    <Button variant="outline" onClick={() => { signOut(); navigate('/login'); }}>تسجيل الخروج</Button>
-                </div>
-            </header>
-            
-            <Tabs defaultValue="board" className="flex-grow flex flex-col">
-                <TabsList className="grid w-full grid-cols-2 max-w-sm self-center">
-                    <TabsTrigger value="board">لوحة المتابعة</TabsTrigger>
-                    <TabsTrigger value="reports">تقارير</TabsTrigger>
-                </TabsList>
-                <TabsContent value="board" className="flex-grow mt-4 flex flex-col">
-                    {isLoading ? (
-                        <div className="flex-grow flex justify-center items-center"><Loader2 className="h-12 w-12 animate-spin" /></div>
-                    ) : (
-                        <LiveBoard />
-                    )}
-                </TabsContent>
-                <TabsContent value="reports" className="flex-grow mt-4 overflow-hidden">
-                    <LiveReportsTab />
-                </TabsContent>
-            </Tabs>
+  return (
+    <div className="flex flex-col h-screen bg-muted/40 p-4" dir="rtl">
+      <header className="flex-shrink-0 flex justify-between items-center mb-4">
+        <h1 className="text-3xl font-bold flex items-center gap-2">
+          <Volume2 className="text-primary" /> العمليات الحية
+        </h1>
+        <div className="flex items-center gap-2">
+          {profile?.role === 'admin' && (
+            <Button asChild variant="ghost" size="icon" className="h-10 w-10 rounded-full">
+              <Link to="/admin/dashboard" aria-label="Admin Dashboard">
+                <Shield className="h-5 w-5" />
+              </Link>
+            </Button>
+          )}
+          <Button variant="outline" onClick={() => { signOut(); navigate('/login'); }}>
+            تسجيل الخروج
+          </Button>
+        </div>
+      </header>
 
-            <AlertDialog open={cancelDialogOpen} onOpenChange={(open) => {
-                setCancelDialogOpen(open);
-                if (!open) {
-                    setOrderToCancel(null);
-                    setCancelReason('');
-                }
-            }}>
-                <AlertDialogContent dir="rtl">
-                    <AlertDialogHeader>
-                        <AlertDialogTitle>هل أنت متأكد من إلغاء الطلب؟</AlertDialogTitle>
-                        <AlertDialogDescription>
-                            سيتم إلغاء طلب العميل "{orderToCancel?.customer_name}". لا يمكن التراجع عن هذا الإجراء.
-                        </AlertDialogDescription>
-                    </AlertDialogHeader>
-                    <div className="space-y-2">
-                        <Label htmlFor="cancel-reason">سبب الإلغاء (إجباري)</Label>
-                        <Textarea
-                            id="cancel-reason"
-                            placeholder="مثال: بناءً على طلب العميل، عدم توفر المنتج..."
-                            value={cancelReason}
-                            onChange={(e) => setCancelReason(e.target.value)}
-                        />
-                    </div>
-                    <AlertDialogFooter>
-                        <AlertDialogCancel>تراجع</AlertDialogCancel>
-                        <AlertDialogAction 
-                            onClick={confirmCancel} 
-                            className="bg-destructive hover:bg-destructive/90"
-                            disabled={!cancelReason.trim()}
-                        >
-                            نعم، قم بالإلغاء
-                        </AlertDialogAction>
-                    </AlertDialogFooter>
-                </AlertDialogContent>
-            </AlertDialog>
-            
-            <CostInputDialog
-                isOpen={isCostDialogOpen}
-                setIsOpen={setIsCostDialogOpen}
-                order={orderForCostInput}
-                onConfirm={handleConfirmCost}
+      <Tabs defaultValue="board" className="flex-grow flex flex-col">
+        <TabsList className="grid w-full grid-cols-2 max-w-sm self-center">
+          <TabsTrigger value="board">لوحة المتابعة</TabsTrigger>
+          <TabsTrigger value="reports">تقارير</TabsTrigger>
+        </TabsList>
+        <TabsContent value="board" className="flex-grow mt-4 flex flex-col">
+          {isLoading ? (
+            <div className="flex-grow flex justify-center items-center">
+              <Loader2 className="h-12 w-12 animate-spin" />
+            </div>
+          ) : (
+            <LiveBoard />
+          )}
+        </TabsContent>
+        <TabsContent value="reports" className="flex-grow mt-4 overflow-hidden">
+          <LiveReportsTab />
+        </TabsContent>
+      </Tabs>
+
+      {/* Cancel dialog */}
+      <AlertDialog open={cancelDialogOpen} onOpenChange={(open) => {
+        setCancelDialogOpen(open);
+        if (!open) {
+          setOrderToCancel(null);
+          setCancelReason('');
+        }
+      }}>
+        <AlertDialogContent dir="rtl">
+          <AlertDialogHeader>
+            <AlertDialogTitle>هل أنت متأكد من إلغاء الطلب؟</AlertDialogTitle>
+            <AlertDialogDescription>
+              سيتم إلغاء طلب العميل "{orderToCancel?.customer_name}". لا يمكن التراجع عن هذا الإجراء.
+            </AlertDialogDescription>
+          </AlertDialogHeader>
+          <div className="space-y-2">
+            <Label htmlFor="cancel-reason">سبب الإلغاء (إجباري)</Label>
+            <Textarea
+              id="cancel-reason"
+              placeholder="مثال: بناءً على طلب العميل، عدم توفر المنتج..."
+              value={cancelReason}
+              onChange={(e) => setCancelReason(e.target.value)}
             />
-        </div>
-    );
+          </div>
+          <AlertDialogFooter>
+            <AlertDialogCancel>تراجع</AlertDialogCancel>
+            <AlertDialogAction
+              onClick={confirmCancel}
+              className="bg-destructive hover:bg-destructive/90"
+              disabled={!cancelReason.trim()}
+            >
+              نعم، قم بالإلغاء
+            </AlertDialogAction>
+          </AlertDialogFooter>
+        </AlertDialogContent>
+      </AlertDialog>
+
+      {/* Cost input dialog */}
+      <CostInputDialog
+        isOpen={isCostDialogOpen}
+        setIsOpen={setIsCostDialogOpen}
+        order={orderForCostInput}
+        onConfirm={handleConfirmCost}
+      />
+    </div>
+  );
 };
 
 export default LiveOperationsPage;
