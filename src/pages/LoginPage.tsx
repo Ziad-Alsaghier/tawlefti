@@ -16,6 +16,7 @@ const LoginPage = () => {
 
     const from = location.state?.from?.pathname || '/';
 
+    
     useEffect(() => {
         if (session) {
             navigate(from, { replace: true });

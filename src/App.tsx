@@ -72,13 +72,8 @@ function App() {
               <ThemeProvider attribute="class" defaultTheme="dark" enableSystem>
                 <Toaster richColors position="bottom-right" />
 
-                {/* Router with v7 future flags */}
-                <Router
-                  future={{
-                    v7_startTransition: true,
-                    v7_relativeSplatPath: true,
-                  }}
-                >
+                {/* Router (Ensure react-router-dom is >= v6.22) */}
+                <Router>
                   <Routes>
                     {/* Public Routes with Main Layout */}
                     <Route element={<MainLayout />}>
@@ -92,12 +87,13 @@ function App() {
                       <Route path="/faq" element={<FaqPage />} />
                       <Route path="/contact" element={<ContactPage />} />
 
+                      {/* Protected user routes */}
                       <Route element={<ProtectedRoute allowedRoles={['admin', 'roaster', 'user']} />}>
                         <Route path="/profile" element={<ProfilePage />} />
                       </Route>
                     </Route>
 
-                    {/* Standalone Auth Pages (no main layout) */}
+                    {/* Standalone Auth Pages */}
                     <Route path="/login" element={<LoginPage />} />
                     <Route path="/signup" element={<SignUpPage />} />
                     <Route path="/update-password" element={<UpdatePasswordPage />} />
@@ -141,7 +137,7 @@ function App() {
                       <Route path="/live/operations" element={<LiveOperationsPage />} />
                     </Route>
 
-                    {/* Utility Routes */}
+                    {/* 404 Page */}
                     <Route path="*" element={<NotFound />} />
                   </Routes>
                 </Router>

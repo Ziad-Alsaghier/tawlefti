@@ -1,23 +1,63 @@
 import { useNavigate, Link } from 'react-router-dom';
 import { useLanguage } from '@/contexts/LanguageContext';
-import { Auth } from '@supabase/auth-ui-react';
 import { supabase } from '@/integrations/supabase/client';
 import { useAuth } from '@/contexts/AuthContext';
-import { useEffect } from 'react';
-import { ThemeSupa } from '@supabase/auth-ui-shared';
+import { useEffect, useState } from 'react';
 import { Button } from '@/components/ui/button';
-import { showError } from '@/utils/toast';
+import { showError, showSuccess } from '@/utils/toast';
 
 const SignUpPage = () => {
     const navigate = useNavigate();
     const { dir } = useLanguage();
     const { session } = useAuth();
 
+    const [loading, setLoading] = useState(false);
+    const [formData, setFormData] = useState({
+        full_name: '',
+        phone_number: '',
+        address: '',
+        email: '',
+        password: '',
+    });
+
     useEffect(() => {
         if (session) {
             navigate('/');
         }
     }, [session, navigate]);
+
+    const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+        const { name, value } = e.target;
+        setFormData((prev) => ({ ...prev, [name]: value }));
+    };
+
+    const handleSubmit = async (e: React.FormEvent) => {
+        e.preventDefault();
+        setLoading(true);
+
+        const { email, password, full_name, phone_number, address } = formData;
+
+        const { error } = await supabase.auth.signUp({
+            email,
+            password,
+            options: {
+                data: {
+                    full_name,
+                    phone_number,
+                    address,
+                },
+                emailRedirectTo: `${window.location.origin}/`,
+            },
+        });
+
+        setLoading(false);
+
+        if (error) {
+            showError(`فشل التسجيل: ${error.message}`);
+        } else {
+            showSuccess('تم إنشاء الحساب! يرجى التحقق من بريدك الإلكتروني.');
+        }
+    };
 
     const handleGoogleSignIn = async () => {
         const { error } = await supabase.auth.signInWithOAuth({
@@ -42,84 +82,58 @@ const SignUpPage = () => {
                         انضم إلى تَولِيفتِي™ وابدأ رحلتك مع القهوة.
                     </p>
                 </div>
-                <div className="bg-card p-8 rounded-lg shadow-lg border border-border/50">
-                    <div dir="ltr">
-                        <Auth
-                            supabaseClient={supabase}
-                            appearance={{
-                                theme: ThemeSupa,
-                                variables: {
-                                    default: {
-                                        colors: {
-                                            brand: 'hsl(var(--primary))',
-                                            brandAccent: 'hsl(24 70% 35%)',
-                                            brandButtonText: 'hsl(var(--primary-foreground))',
-                                            defaultButtonBackground: 'hsl(var(--card))',
-                                            defaultButtonBackgroundHover: 'hsl(var(--accent))',
-                                            defaultButtonBorder: 'hsl(var(--border))',
-                                            defaultButtonText: 'hsl(var(--foreground))',
-                                            dividerBackground: 'hsl(var(--border))',
-                                            inputBackground: 'hsl(var(--background))',
-                                            inputBorder: 'hsl(var(--border))',
-                                            inputBorderHover: 'hsl(var(--border))',
-                                            inputBorderFocus: 'hsl(var(--ring))',
-                                            inputText: 'hsl(var(--foreground))',
-                                            inputLabelText: 'hsl(var(--foreground))',
-                                            inputPlaceholder: 'hsl(var(--muted-foreground))',
-                                            anchorTextColor: 'hsl(var(--muted-foreground))',
-                                            anchorTextColorHover: 'hsl(var(--primary))',
-                                            messageText: 'hsl(var(--foreground))',
-                                            messageTextDanger: 'hsl(var(--destructive))',
-                                        },
-                                        radii: {
-                                            borderRadiusButton: 'var(--radius)',
-                                            inputBorderRadius: 'var(--radius)',
-                                        },
-                                    },
-                                },
-                                className: {
-                                    container: '', // Remove default container styling
-                                    label: 'text-sm font-medium',
-                                    button: 'font-bold',
-                                    anchor: 'text-sm'
-                                }
-                            }}
-                            providers={[]}
-                            view="sign_up"
-                            showLinks={false}
-                            signUpFields={[
-                                {
-                                    id: 'full_name',
-                                    label: 'الاسم بالكامل',
-                                    placeholder: 'أدخل اسمك الكامل',
-                                },
-                                {
-                                    id: 'phone_number',
-                                    label: 'رقم الهاتف',
-                                    placeholder: '01xxxxxxxxx',
-                                    type: 'tel',
-                                },
-                                {
-                                    id: 'address',
-                                    label: 'العنوان بالتفصيل',
-                                    placeholder: 'أدخل عنوانك التفصيلي',
-                                },
-                            ]}
-                            localization={{
-                                variables: {
-                                    sign_up: {
-                                        email_label: 'البريد الإلكتروني',
-                                        password_label: 'كلمة المرور',
-                                        email_input_placeholder: 'your@email.com',
-                                        password_input_placeholder: 'كلمة المرور الخاصة بك',
-                                        button_label: 'إنشاء حساب',
-                                        social_provider_text: 'التسجيل بواسطة {{provider}}',
-                                        link_text: 'ليس لديك حساب؟ أنشئ حسابًا',
-                                    },
-                                },
-                            }}
-                        />
-                    </div>
+
+                <form onSubmit={handleSubmit} className="bg-card p-8 rounded-lg shadow-lg border border-border/50 space-y-4">
+                    <input
+                        type="text"
+                        name="full_name"
+                        placeholder="الاسم بالكامل"
+                        value={formData.full_name}
+                        onChange={handleChange}
+                        required
+                        className="w-full p-2 rounded border border-border bg-background"
+                    />
+                    <input
+                        type="number"
+                        name="phone_number"
+                        placeholder="رقم الهاتف"
+                        value={formData.phone_number}
+                        onChange={handleChange}
+                        required
+                        className="w-full p-2 rounded border border-border bg-background"
+                    />
+                    <input
+                        type="text"
+                        name="address"
+                        placeholder="العنوان بالتفصيل"
+                        value={formData.address}
+                        onChange={handleChange}
+                        required
+                        className="w-full p-2 rounded border border-border bg-background"
+                    />
+                    <input
+                        type="email"
+                        name="email"
+                        placeholder="البريد الإلكتروني"
+                        value={formData.email}
+                        onChange={handleChange}
+                        required
+                        className="w-full p-2 rounded border border-border bg-background"
+                    />
+                    <input
+                        type="password"
+                        name="password"
+                        placeholder="كلمة المرور"
+                        value={formData.password}
+                        onChange={handleChange}
+                        required
+                        className="w-full p-2 rounded border border-border bg-background"
+                    />
+
+                    <Button type="submit" className="w-full" disabled={loading}>
+                        {loading ? 'جاري التسجيل...' : 'إنشاء حساب'}
+                    </Button>
+
                     <div className="relative my-6">
                         <div className="absolute inset-0 flex items-center">
                             <span className="w-full border-t" />
@@ -130,10 +144,12 @@ const SignUpPage = () => {
                             </span>
                         </div>
                     </div>
+
                     <Button variant="outline" className="w-full" onClick={handleGoogleSignIn}>
                         التسجيل بواسطة <span className="font-bold text-primary mr-1">Google</span>
                     </Button>
-                </div>
+                </form>
+
                 <div className="mt-4 text-center text-sm" dir={dir}>
                     لديك حساب بالفعل؟{' '}
                     <Link to="/login" className="underline text-primary">

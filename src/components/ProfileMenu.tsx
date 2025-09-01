@@ -44,6 +44,12 @@ export const ProfileMenu = () => {
     return name.substring(0, 2).toUpperCase();
   };
 
+  // Ensure a safe fallback role in case it's missing
+  const userRole = profile?.role || 'customer';
+
+  // Optional: log role for debugging
+  console.log('User role:', userRole);
+
   return (
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
@@ -56,7 +62,9 @@ export const ProfileMenu = () => {
       <DropdownMenuContent className="w-56" align="end" forceMount>
         <DropdownMenuLabel className="font-normal">
           <div className="flex flex-col space-y-1">
-            <p className="text-sm font-medium leading-none">{profile?.full_name || t('profile_menu_user_fallback')}</p>
+            <p className="text-sm font-medium leading-none">
+              {profile?.full_name || t('profile_menu_user_fallback')}
+            </p>
             <p className="text-xs leading-none text-muted-foreground">
               {user.email}
             </p>
@@ -65,14 +73,25 @@ export const ProfileMenu = () => {
         <DropdownMenuSeparator />
         <DropdownMenuItem onClick={() => navigate('/profile')}>
           <User className="ml-2 h-4 w-4" />
-          <span>{t('profile_menu_my_profile')}</span>
+          <span className="mx-2">{t('profile_menu_my_profile')}</span>
         </DropdownMenuItem>
-        {profile?.role === 'admin' && (
-          <DropdownMenuItem onClick={() => navigate('/admin/dashboard')}>
+
+        {/* Show this only if role is "roaster" */}
+        {userRole === 'roaster' && (
+          <DropdownMenuItem onClick={() => navigate('/live/operations')}>
             <LayoutDashboard className="ml-2 h-4 w-4" />
-            <span>{t('profile_menu_dashboard')}</span>
+            <span className="mx-2">{t('live_operations') || 'Live Operations'}</span>
           </DropdownMenuItem>
         )}
+
+        {/* Show this only if role is "admin" */}
+        {userRole === 'admin' && (
+          <DropdownMenuItem onClick={() => navigate('/admin/dashboard')}>
+            <LayoutDashboard className="ml-2 h-4 w-4" />
+            <span className="mx-2">{t('profile_menu_dashboard')}</span>
+          </DropdownMenuItem>
+        )}
+
         <DropdownMenuSeparator />
         <DropdownMenuItem onClick={handleSignOut}>
           <LogOut className="ml-2 h-4 w-4" />
