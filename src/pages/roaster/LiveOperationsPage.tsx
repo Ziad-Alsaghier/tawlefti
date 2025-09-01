@@ -116,13 +116,13 @@ const LiveOperationsPage = () => {
 
     useEffect(() => {
         if (!pendingSoundRef.current) {
-            pendingSoundRef.current = new Audio('/public/sounds/notification_one.mp3');
+            pendingSoundRef.current = new Audio('/sounds/notification_one.mp3');
         }
         if (!processingSoundRef.current) {
-            processingSoundRef.current = new Audio('/public/sounds/notification_one.mp3');
+            processingSoundRef.current = new Audio('/sounds/notification_one.mp3');
         }
         if (!timeoutSoundRef.current) {
-            timeoutSoundRef.current = new Audio('/public/sounds/notification_one.mp3');
+            timeoutSoundRef.current = new Audio('/sounds/notification_one.mp3');
         }
     }, []);
 
