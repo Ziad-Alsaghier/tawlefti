@@ -41,7 +41,8 @@ const ResultsPage = () => {
         if (!sliderValues || !method?.sensoryScales) {
             return activeBlends
                 .map(blend => ({ ...blend, matchPercentage: null }))
-                .sort((a, b) => a.name_ar.localeCompare(b.name_ar));
+                .sort((a, b) => a.name_ar.localeCompare(b.name_ar))
+                .slice(0, 1); // ✅ رجع بس أول واحد
         }
         
         const calculateMatch = (blend: Blend) => {
@@ -65,7 +66,7 @@ const ResultsPage = () => {
         return activeBlends
             .map(calculateMatch)
             .sort((a, b) => (b.matchPercentage ?? 0) - (a.matchPercentage ?? 0))
-            .slice(0, 10);
+            .slice(0, 1); // ✅ رجع بس أعلى تطابق
 
     }, [sliderValues, method, activeBlends]);
 

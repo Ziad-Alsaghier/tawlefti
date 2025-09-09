@@ -1,4 +1,4 @@
-import { useNavigate, Link } from 'react-router-dom';
+import { useNavigate, Link, Navigate } from 'react-router-dom';
 import { useForm } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
 import * as z from 'zod';
@@ -56,9 +56,9 @@ const CheckoutPage = () => {
       const openHour = parseInt(open.split(':')[0]);
       const closeHour = parseInt(close.split(':')[0]);
 
-      if (closeHour < openHour) { // Overnight schedule (e.g., 9 AM to 1 AM)
+      if (closeHour < openHour) { // Overnight schedule
         setIsStoreOpen(currentHour >= openHour || currentHour < closeHour);
-      } else { // Same-day schedule (e.g., 9 AM to 5 PM)
+      } else { // Same-day schedule
         setIsStoreOpen(currentHour >= openHour && currentHour < closeHour);
       }
     }
@@ -75,8 +75,6 @@ const CheckoutPage = () => {
     defaultValues: { name: '', phone: '', address: '' },
   });
 
-
-
   useEffect(() => {
     if (profile && !isAuthLoading) {
       form.setValue('name', profile.full_name || '');
@@ -87,6 +85,11 @@ const CheckoutPage = () => {
       }
     }
   }, [profile, isAuthLoading, form.setValue, cart.fetchLoyaltyPoints]);
+
+  // 🔐 Redirect if user not logged in
+  if (!isAuthLoading && !profile) {
+    return <Navigate to="/login" replace />;
+  }
 
   const handleApplyPromo = async () => {
     setIsApplyingCode(true);

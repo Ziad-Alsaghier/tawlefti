@@ -1,17 +1,17 @@
-import { Navigate, Outlet, useLocation } from 'react-router-dom';
-import { useAuth } from '@/contexts/AuthContext';
-import FullPageLoader from '@/components/FullPageLoader';
+import { Navigate, Outlet, useLocation } from "react-router-dom";
+import { useAuth } from "@/contexts/AuthContext";
+import FullPageLoader from "@/components/FullPageLoader";
 
 interface ProtectedRouteProps {
-  allowedRoles: ('admin' | 'roaster' | 'user')[];
+  allowedRoles: ("admin" | "roaster" | "user")[];
 }
 
 const ProtectedRoute = ({ allowedRoles }: ProtectedRouteProps) => {
   const { user, profile, loading } = useAuth();
   const location = useLocation();
 
-  // لسه بنتحقق من الجلسة
-  if (loading) {
+  // لسه بنتحقق من الجلسة أو البروفايل
+  if (loading || (user && !profile)) {
     return <FullPageLoader />;
   }
 
@@ -20,13 +20,8 @@ const ProtectedRoute = ({ allowedRoles }: ProtectedRouteProps) => {
     return <Navigate to="/login" state={{ from: location }} replace />;
   }
 
-  // فيه مستخدم لكن البروفايل لسه ما اتحملش
-  if (!profile) {
-    return <FullPageLoader />;
-  }
-
   // البروفايل موجود لكن الدور مش مسموح بيه
-  if (!allowedRoles.includes(profile.role)) {
+  if (profile && !allowedRoles.includes(profile.role)) {
     return <Navigate to="/login" state={{ from: location }} replace />;
   }
 
