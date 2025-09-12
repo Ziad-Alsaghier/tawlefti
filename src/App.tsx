@@ -56,9 +56,13 @@ import SuppliersManager from './pages/admin/accounting/SuppliersManager';
 import FixedExpensesManager from './pages/admin/accounting/FixedExpensesManager';
 import SalariesManager from './pages/admin/accounting/SalariesManager';
 import ContentManager from './pages/admin/ContentManager';
-
+// 🔹 New Payment Pages
+import PaymentMethods from './pages/PaymentMethods';
+import PaymentDetails from './pages/PaymentDetails';
 // Roaster Page
 import LiveOperationsPage from './pages/roaster/LiveOperationsPage';
+
+
 
 const queryClient = new QueryClient();
 
@@ -72,7 +76,7 @@ function App() {
               <ThemeProvider attribute="class" defaultTheme="dark" enableSystem>
                 <Toaster richColors position="bottom-right" />
 
-                {/* Router (Ensure react-router-dom is >= v6.22) */}
+                {/* Router */}
                 <Router>
                   <Routes>
                     {/* Public Routes with Main Layout */}
@@ -86,6 +90,10 @@ function App() {
                       <Route path="/about" element={<AboutPage />} />
                       <Route path="/faq" element={<FaqPage />} />
                       <Route path="/contact" element={<ContactPage />} />
+
+                      {/* 🔹 New Payment Routes */}
+                      <Route path="/payment-methods" element={<PaymentMethods />} />
+                      <Route path="/pay/:method" element={<PaymentDetails />} />
 
                       {/* Protected user routes */}
                       <Route element={<ProtectedRoute allowedRoles={['admin', 'roaster', 'user']} />}>

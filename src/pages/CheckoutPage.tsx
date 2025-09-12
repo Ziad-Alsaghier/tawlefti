@@ -56,9 +56,9 @@ const CheckoutPage = () => {
       const openHour = parseInt(open.split(':')[0]);
       const closeHour = parseInt(close.split(':')[0]);
 
-      if (closeHour < openHour) { // Overnight schedule
+      if (closeHour < openHour) {
         setIsStoreOpen(currentHour >= openHour || currentHour < closeHour);
-      } else { // Same-day schedule
+      } else {
         setIsStoreOpen(currentHour >= openHour && currentHour < closeHour);
       }
     }
@@ -86,7 +86,6 @@ const CheckoutPage = () => {
     }
   }, [profile, isAuthLoading, form.setValue, cart.fetchLoyaltyPoints]);
 
-  // 🔐 Redirect if user not logged in
   if (!isAuthLoading && !profile) {
     return <Navigate to="/login" replace />;
   }
@@ -188,9 +187,29 @@ const CheckoutPage = () => {
             <CardContent>
               <Form {...form}>
                 <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6">
-                  <FormField control={form.control} name="name" render={({ field }) => (<FormItem><FormLabel>{t('full_name')}</FormLabel><FormControl><Input placeholder={t('full_name')} {...field} /></FormControl><FormMessage /></FormItem>)} />
-                  <FormField control={form.control} name="phone" render={({ field }) => (<FormItem><FormLabel>{t('phone_number')}</FormLabel><FormControl><Input placeholder="01xxxxxxxxx" {...field} onBlur={(e) => cart.fetchLoyaltyPoints(e.target.value)} /></FormControl><FormMessage /></FormItem>)} />
-                  <FormField control={form.control} name="address" render={({ field }) => (<FormItem><FormLabel>{t('detailed_address')}</FormLabel><FormControl><Textarea placeholder={t('address_min')} {...field} /></FormControl><FormMessage /></FormItem>)} />
+                  <FormField control={form.control} name="name" render={({ field }) => (
+                    <FormItem>
+                      <FormLabel>{t('full_name')}</FormLabel>
+                      <FormControl><Input placeholder={t('full_name')} {...field} /></FormControl>
+                      <FormMessage />
+                    </FormItem>
+                  )} />
+                  <FormField control={form.control} name="phone" render={({ field }) => (
+                    <FormItem>
+                      <FormLabel>{t('phone_number')}</FormLabel>
+                      <FormControl>
+                        <Input placeholder="01xxxxxxxxx" {...field} onBlur={(e) => cart.fetchLoyaltyPoints(e.target.value)} />
+                      </FormControl>
+                      <FormMessage />
+                    </FormItem>
+                  )} />
+                  <FormField control={form.control} name="address" render={({ field }) => (
+                    <FormItem>
+                      <FormLabel>{t('detailed_address')}</FormLabel>
+                      <FormControl><Textarea placeholder={t('address_min')} {...field} /></FormControl>
+                      <FormMessage />
+                    </FormItem>
+                  )} />
                 </form>
               </Form>
             </CardContent>
@@ -217,7 +236,13 @@ const CheckoutPage = () => {
                 <div className="flex items-end gap-2 pt-2">
                   <div className="flex-1">
                     <Label htmlFor="promo-code" className="text-xs">كود الخصم</Label>
-                    <Input id="promo-code" placeholder="أدخل الكود هنا" value={promoCodeInput} onChange={(e) => setPromoCodeInput(e.target.value)} disabled={isApplyingCode} />
+                    <Input
+                      id="promo-code"
+                      placeholder="أدخل الكود هنا"
+                      value={promoCodeInput}
+                      onChange={(e) => setPromoCodeInput(e.target.value)}
+                      disabled={isApplyingCode}
+                    />
                   </div>
                   <Button onClick={handleApplyPromo} disabled={isApplyingCode || !promoCodeInput}>
                     {isApplyingCode ? <Loader2 className="h-4 w-4 animate-spin" /> : "تطبيق"}
@@ -236,12 +261,20 @@ const CheckoutPage = () => {
               {cart.isFetchingPoints ? <Loader2 className="animate-spin" /> : cart.customerPoints > 0 && (
                 <div className="p-3 bg-yellow-400/20 rounded-lg mt-2">
                   <div className="flex items-center justify-between">
-                    <Label htmlFor="redeem-switch" className="flex items-center gap-2 cursor-pointer"><Star className="text-yellow-500" /><span>لديك {cart.customerPoints} نقطة (تساوي {Math.floor(cart.customerPoints / 10)} جنيه)</span></Label>
+                    <Label htmlFor="redeem-switch" className="flex items-center gap-2 cursor-pointer">
+                      <Star className="text-yellow-500" />
+                      <span>لديك {cart.customerPoints} نقطة (تساوي {Math.floor(cart.customerPoints / 10)} جنيه)</span>
+                    </Label>
                     <Switch id="redeem-switch" checked={cart.redeemPoints} onCheckedChange={cart.setRedeemPoints} />
                   </div>
                 </div>
               )}
-              {cart.loyaltyDiscount > 0 && <div className="flex justify-between text-destructive"><span>{t('loyalty_discount')}:</span><span className="font-medium">- {cart.loyaltyDiscount.toFixed(0)} {t('egp')}</span></div>}
+              {cart.loyaltyDiscount > 0 && (
+                <div className="flex justify-between text-destructive">
+                  <span>{t('loyalty_discount')}:</span>
+                  <span className="font-medium">- {cart.loyaltyDiscount.toFixed(0)} {t('egp')}</span>
+                </div>
+              )}
               <Separator />
               <div className="flex justify-between items-center text-2xl font-bold">
                 <span>{t('total')}:</span>
@@ -249,7 +282,19 @@ const CheckoutPage = () => {
               </div>
             </CardContent>
             <CardFooter className="flex-col items-stretch gap-4">
+              {/* Existing PayButton */}
               <PayButton totalAmount={cart.total.toString()} />
+
+              {/* 🔹 New Button to go to Payment Methods */}
+              <Button
+                variant="outline"
+                size="lg"
+                className="w-full text-lg"
+                onClick={() => navigate('/payment-methods')}
+              >
+                اختر طريقة دفع أخرى
+              </Button>
+
               {!isStoreOpen && (
                 <Alert variant="default" className="bg-amber-100 dark:bg-amber-900/50 border-amber-400">
                   <Clock className="h-4 w-4 text-amber-600" />
@@ -279,7 +324,6 @@ const CheckoutPage = () => {
                 <ArrowLeft className="ml-2 h-4 w-4" />العودة للتسوق
               </Button>
             </CardFooter>
-
           </Card>
         </main>
       </div>

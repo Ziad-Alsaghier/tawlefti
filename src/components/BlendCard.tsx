@@ -56,14 +56,14 @@ const BlendCard = ({ blend, matchPercentage }: BlendCardProps) => {
     const { addToCart } = useCart();
     const { addToWishlist, removeFromWishlist, isInWishlist } = useWishlist();
     const isFavorite = isInWishlist(blend.code);
-    
+
     const method = getMethodById(blend.method_id);
     const isGreenCoffee = blend.method_id ? ['cold-infusion', 'boiling', 'hot-infusion'].includes(blend.method_id) : false;
 
     const { data: additives, isLoading: isLoadingAdditives } = useQuery<Additive[]>({ queryKey: ['additives'], queryFn: fetchActiveAdditives });
-    
-    const { data: fetchedComposition, isLoading: isLoadingCompositionInternal } = useQuery<any[]>({ 
-        queryKey: ['composition', blend.code], 
+
+    const { data: fetchedComposition, isLoading: isLoadingCompositionInternal } = useQuery<any[]>({
+        queryKey: ['composition', blend.code],
         queryFn: () => fetchBlendComposition(blend.code),
         enabled: !blend.blend_compositions
     });
@@ -71,10 +71,10 @@ const BlendCard = ({ blend, matchPercentage }: BlendCardProps) => {
     const composition = useMemo(() => blend.blend_compositions || fetchedComposition, [blend.blend_compositions, fetchedComposition]);
     const isLoadingComposition = !blend.blend_compositions && isLoadingCompositionInternal;
 
-    const { data: coffeePrices, isLoading: isLoadingPrices } = useQuery<Record<string, any>>({ 
-        queryKey: ['prices', composition?.map(c => c.coffee_type_code)], 
-        queryFn: () => fetchCoffeePrices(composition!), 
-        enabled: !!composition && composition.length > 0 
+    const { data: coffeePrices, isLoading: isLoadingPrices } = useQuery<Record<string, any>>({
+        queryKey: ['prices', composition?.map(c => c.coffee_type_code)],
+        queryFn: () => fetchCoffeePrices(composition!),
+        enabled: !!composition && composition.length > 0
     });
 
     const { data: methodStatuses } = useQuery({
@@ -119,7 +119,7 @@ const BlendCard = ({ blend, matchPercentage }: BlendCardProps) => {
 
     const handleAddToCart = () => {
         const selectedAdditivesObjects = additives?.filter(a => selectedAdditives.includes(a.id)).map(a => ({ id: a.id, name_ar: a.name_ar, price_per_250g: a.price_per_250g })) || [];
-        
+
         const itemToAdd = {
             blend_code: blend.code,
             blend_name_ar: blend.name_ar,
@@ -139,10 +139,10 @@ const BlendCard = ({ blend, matchPercentage }: BlendCardProps) => {
             addToWishlist(blend.code);
         }
     };
-    
+
     const blendName = language === 'ar' ? blend.name_ar : blend.name_en;
     const flavorNotes = language === 'ar' ? blend.notes_ar : blend.notes_en;
-    
+
     const preparationNotesText = useMemo(() => {
         const dbNote = language === 'ar' ? blend.preparation_notes_ar : blend.preparation_notes_en;
         if (dbNote && dbNote.trim() !== '') return dbNote;
@@ -172,7 +172,7 @@ const BlendCard = ({ blend, matchPercentage }: BlendCardProps) => {
                         <CardTitle className="text-3xl font-kufam text-primary">{blendName}</CardTitle>
                         <p className="text-sm text-muted-foreground mt-1">{t('blend_code')}: {blend.code}</p>
                     </div>
-                    {matchPercentage !== null && <Badge variant="default" className="text-lg bg-primary/20 text-primary border-primary/30">{t('match')} {Math.round(matchPercentage)}%</Badge>}
+                    {/* {matchPercentage !== null && <Badge variant="default" className="text-lg bg-primary/20 text-primary border-primary/30">{t('match')} {Math.round(matchPercentage)}%</Badge>} */}
                 </div>
                 <div className="pt-4 space-y-2">
                     {isLoadingComposition ? <p><strong className="font-semibold">{isGreenCoffee ? t('green_composition') : t('composition')}:</strong> ...</p> : coffeeOrigins ? <p><strong className="font-semibold">{isGreenCoffee ? t('green_composition') : t('composition')}:</strong> {coffeeOrigins}</p> : null}
@@ -180,7 +180,7 @@ const BlendCard = ({ blend, matchPercentage }: BlendCardProps) => {
                     {preparationNotesText && <p><strong className="font-semibold">{t('preparation_notes')}:</strong> {preparationNotesText}</p>}
                 </div>
             </CardHeader>
-            
+
             <Separator />
 
             <CardContent className="p-6 grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -216,7 +216,7 @@ const BlendCard = ({ blend, matchPercentage }: BlendCardProps) => {
                         </div>
                         <div>
                             <Label className="text-base font-medium mb-2 block">{t('weight')}</Label>
-                             <div className="flex gap-2">
+                            <div className="flex gap-2">
                                 <Button variant={weight === '250' ? 'default' : 'outline'} onClick={() => setWeight('250')} className="flex-1">250g</Button>
                                 <Button variant={weight === '500' ? 'default' : 'outline'} onClick={() => setWeight('500')} className="flex-1">500g</Button>
                                 <Button variant={weight === '1000' ? 'default' : 'outline'} onClick={() => setWeight('1000')} className="flex-1">1000g</Button>
@@ -244,15 +244,42 @@ const BlendCard = ({ blend, matchPercentage }: BlendCardProps) => {
             <CardFooter className="p-6 bg-card flex justify-between items-center">
                 <div>
                     <p className="text-sm text-muted-foreground">{t('price')}</p>
-                    <p className="text-3xl font-bold text-primary">{isLoadingComposition || isLoadingPrices || isLoadingSettings ? <Loader2 className="animate-spin" /> : `${price} ${t('egp')}`}</p>
+                    <p className="text-3xl font-bold text-primary">
+                        {isLoadingComposition || isLoadingPrices || isLoadingSettings ? (
+                            <Loader2 className="animate-spin" />
+                        ) : (
+                            `${price} ${t('egp')}`
+                        )}
+                    </p>
+
+                    {/* سعر كوب القهوة */}
+                    {!isLoadingComposition && !isLoadingPrices && !isLoadingSettings && (
+                        <p className="text-sm text-muted-foreground mt-1">
+                            {`${(price / 15).toFixed(2)} ${t('egp')} / ${t('coffee_cup')}`}
+                        </p>
+                    )}
                 </div>
+
                 <div className="flex gap-3">
                     <Button variant="ghost" size="icon" onClick={handleFavoriteToggle}>
-                        <Heart className={cn("h-6 w-6", isFavorite ? "fill-red-500 text-red-500" : "text-muted-foreground")} />
+                        <Heart
+                            className={cn(
+                                "h-6 w-6",
+                                isFavorite ? "fill-red-500 text-red-500" : "text-muted-foreground"
+                            )}
+                        />
                     </Button>
-                    <Button size="lg" onClick={handleAddToCart} disabled={isLoadingComposition || isLoadingPrices || isLoadingSettings}><ShoppingCart className="ml-2 h-5 w-5" />{t('add_to_cart')}</Button>
+                    <Button
+                        size="lg"
+                        onClick={handleAddToCart}
+                        disabled={isLoadingComposition || isLoadingPrices || isLoadingSettings}
+                    >
+                        <ShoppingCart className="ml-2 h-5 w-5" />
+                        {t('add_to_cart')}
+                    </Button>
                 </div>
             </CardFooter>
+
         </Card>
     );
 };

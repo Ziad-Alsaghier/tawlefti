@@ -29,7 +29,7 @@ export const translations = {
     choose_your_tool: "اختر أداتك أو طريقتك المفضلة",
     // Results Page
     results_title: "توليفتك المكتشفة",
-    results_subtitle: "أفضل 10 توليفات قهوة اخترناها خصيصًا لتناسب ذوقك الرفيع.",
+    results_subtitle: "توليفة القهوة المثالية، اخترناها خصيصًا لتناسب ذوقك الرفيع.",
     no_blends_found: "عذراً، لم نجد توليفات تطابق بحثك تماماً.",
     try_adjusting_scales: "حاول تعديل المقاييس للحصول على نتائج أفضل.",
     back_to_adjust_search: "العودة لتعديل البحث",
@@ -39,6 +39,7 @@ export const translations = {
     // Blend Card
     blend_code: "كود التوليفة",
     match: "تطابق",
+    coffee_cup: "سعر الكوب",
     composition: "مكونات القهوة",
     green_composition: "التركيبة",
     flavor_notes: "إيحاءات النكهة",
@@ -145,7 +146,7 @@ export const translations = {
     choose_your_tool: "Choose your favorite tool or method",
     // Results Page
     results_title: "Your Discovered Blend",
-    results_subtitle: "The top 10 coffee blends we've selected just for your refined taste.",
+    results_subtitle: "The perfect coffee blend, handpicked just for your refined taste.",
     no_blends_found: "Sorry, we couldn't find any blends that perfectly match your search.",
     try_adjusting_scales: "Try adjusting the scales for better results.",
     back_to_adjust_search: "Back to adjust search",
