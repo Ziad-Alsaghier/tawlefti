@@ -6,7 +6,7 @@ import { createClient } from '@supabase/supabase-js';
 
 
 //new Supabase ⭐
-const SUPABASE_URL = "https://nkrzzfwzvoxsspzyagns.supabase.co";
+const SUPABASE_URL = "https://rdpcnarzcqlypwehuuvf.supabase.co";
 const SUPABASE_PUBLISHABLE_KEY = "sb_publishable_ZXoLzUW_9kvXEAlQ_BriSg_MruND7sd";
 
 // Import the supabase client like this:
