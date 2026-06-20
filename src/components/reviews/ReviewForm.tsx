@@ -4,7 +4,7 @@ import * as z from 'zod';
 import { supabase } from '@/integrations/supabase/client';
 import { useAuth } from '@/contexts/AuthContext';
 import { Button } from '@/components/ui/button';
-import ReviewForm from '@/components/reviews/ReviewForm';
+// import ReviewForm from '@/components/reviews/ReviewForm';
 
 import {
     Dialog,

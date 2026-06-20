@@ -37,7 +37,7 @@ const ResultsPage = () => {
 
     const recommendedBlends = useMemo(() => {
         if (activeBlends.length === 0) return [];
-
+            
         if (!sliderValues || !method?.sensoryScales) {
             return activeBlends
                 .map(blend => ({ ...blend, matchPercentage: null }))
