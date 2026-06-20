@@ -2404,7 +2404,7 @@ BEGIN
     -- There are sub-objects, skip deletion
     RETURN false;
     ELSE
-        DELETE FROM "storage"."prefixes"
+        -- DELETE FROM "storage"."prefixes"
         WHERE "prefixes"."bucket_id" = "_bucket_id"
           AND level = "storage"."get_level"("_name")
           AND "prefixes"."name" = "_name";
@@ -2734,7 +2734,7 @@ BEGIN
                    AND "name" LIKE (prefix || '%')
              )
          )
-        DELETE FROM "storage"."prefixes" WHERE name IN (SELECT prefix FROM can_delete_prefixes);
+        -- DELETE FROM "storage"."prefixes" WHERE name IN (SELECT prefix FROM can_delete_prefixes);
 
         -- Add new prefixes
         PERFORM "storage"."add_prefixes"(NEW."bucket_id", NEW."name");
