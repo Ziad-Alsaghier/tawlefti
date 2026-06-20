@@ -8,6 +8,7 @@ import {
 import { useAuth } from '@/contexts/AuthContext';
 import { cn } from '@/lib/utils';
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from '@/components/ui/accordion';
+import { motion } from 'framer-motion';
 
 const AdminLayout = () => {
   const { signOut } = useAuth();
@@ -78,7 +79,7 @@ const AdminLayout = () => {
 
   return (
     <div className="min-h-screen w-full flex bg-muted/40" dir="rtl">
-      <aside className="flex-col border-l bg-background sm:flex w-64">
+      <aside className="flex-col border-l bg-background/90 backdrop-blur-md sm:flex w-64">
         <div className="flex h-[60px] items-center border-b px-6">
           <NavLink to="/" className="flex items-center gap-2 font-semibold">
             <Shield className="h-6 w-6 text-primary" />
@@ -146,7 +147,14 @@ const AdminLayout = () => {
       </aside>
       <main className="flex-1 flex flex-col">
         <div className="flex-1 p-4 sm:p-8 overflow-auto">
-          <Outlet />
+          <motion.div
+            initial={{ opacity: 0, y: 14 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.32, ease: 'easeOut' }}
+            className="page-enter"
+          >
+            <Outlet />
+          </motion.div>
         </div>
       </main>
     </div>

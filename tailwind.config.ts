@@ -89,10 +89,30 @@ export default {
             height: "0",
           },
         },
+        "fade-up": {
+          from: {
+            opacity: "0",
+            transform: "translate3d(0, 18px, 0)",
+          },
+          to: {
+            opacity: "1",
+            transform: "translate3d(0, 0, 0)",
+          },
+        },
+        "soft-pulse": {
+          "0%, 100%": {
+            opacity: "0.65",
+          },
+          "50%": {
+            opacity: "1",
+          },
+        },
       },
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
+        "fade-up": "fade-up 0.5s ease-out",
+        "soft-pulse": "soft-pulse 3.2s ease-in-out infinite",
       },
     },
   },

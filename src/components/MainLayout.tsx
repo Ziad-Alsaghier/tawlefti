@@ -1,4 +1,5 @@
 import { Outlet } from 'react-router-dom';
+import { motion } from 'framer-motion';
 import { LanguageSwitcher } from './LanguageSwitcher';
 import { ThemeToggle } from './ThemeToggle';
 import { ProfileMenu } from './ProfileMenu';
@@ -15,7 +16,14 @@ const MainLayout = () => {
             </div>
             <CartSheet />
             <main>
-                <Outlet />
+                <motion.div
+                    initial={{ opacity: 0, y: 18 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ duration: 0.35, ease: 'easeOut' }}
+                    className="page-enter"
+                >
+                    <Outlet />
+                </motion.div>
             </main>
             <Footer />
         </>
